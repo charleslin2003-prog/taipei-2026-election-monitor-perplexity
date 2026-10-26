@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "ok",
-  "last_attempt_at": "2026-10-26T05:34:39.981379+00:00",
+  "last_attempt_at": "2026-10-26T05:38:16.629720+00:00",
   "retention_days": 365,
   "query_days": 7,
   "feeds": {
@@ -9,9 +9,9 @@
       "name": "蔣萬安",
       "url": "https://news.google.com/rss/search?q=%22%E8%94%A3%E8%90%AC%E5%AE%89%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
       "status": "ok",
-      "last_attempt_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_success_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_nonempty_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_attempt_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_success_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_nonempty_at": "2026-10-26T05:38:16.629720+00:00",
       "raw_count": 100,
       "accepted_count": 100,
       "skipped_count": 0,
@@ -23,9 +23,9 @@
       "name": "沈伯洋",
       "url": "https://news.google.com/rss/search?q=%22%E6%B2%88%E4%BC%AF%E6%B4%8B%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
       "status": "ok",
-      "last_attempt_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_success_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_nonempty_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_attempt_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_success_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_nonempty_at": "2026-10-26T05:38:16.629720+00:00",
       "raw_count": 100,
       "accepted_count": 100,
       "skipped_count": 0,
@@ -104,7 +104,7 @@
       "published_at": "2026-10-26T04:48:04+00:00",
       "fingerprint": "09a19c5faf5ec5dd9632150cf2ea1c59522d6727bb749c321ce7426e495dec9d",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:33:46.717713+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -119,7 +119,7 @@
       "published_at": "2026-10-26T04:36:56+00:00",
       "fingerprint": "8e8598e6fc4d81be9d58a5f571b130530d70e7ed2a6dd80e5b76c3c532a78c10",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -133,7 +133,7 @@
       "published_at": "2026-10-26T04:33:01+00:00",
       "fingerprint": "a8bbe2c2e21f528bffcbce8e713e8289f7fb79d5314c011dbf709aba8bffd061",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -218,7 +218,7 @@
       "published_at": "2026-10-26T04:10:00+00:00",
       "fingerprint": "97a9f84c2d39cbb1b490485be1d18ce088abf607ef200dc2106502b7344e61ba",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -261,7 +261,7 @@
       "published_at": "2026-10-26T04:08:00+00:00",
       "fingerprint": "e3f750befe77b61c2eb98575477e42431e0b4a18706c5c1492f3c9a8273ec228",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -289,7 +289,7 @@
       "published_at": "2026-10-26T03:55:52+00:00",
       "fingerprint": "92eebd7aa46d716790e1419dc0ad377933bd13d91e14633c23080bd57c9c1515",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -421,7 +421,7 @@
       "published_at": "2026-10-26T02:58:45+00:00",
       "fingerprint": "e3921fb99a9b4db8cbf85d3f837ad0b4b7c2f58f7656e57200475eb70ed24b58",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -450,7 +450,7 @@
       "published_at": "2026-10-26T02:46:34+00:00",
       "fingerprint": "3a902c7332e546b74c4c383b9e9d71646d17552f6809d7001121c36fe5e55f7d",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -479,7 +479,7 @@
       "published_at": "2026-10-26T02:38:01+00:00",
       "fingerprint": "8c20d2b444d5c098e66d1570284d9dde991e6a2d5a140714a20f82f384e2cf72",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -509,7 +509,7 @@
       "published_at": "2026-10-26T02:11:00+00:00",
       "fingerprint": "cfa08e41bb4416d5684a7155da46ded793a9a01b6c13e3d9c458cc62ab957e71",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -523,7 +523,7 @@
       "published_at": "2026-10-26T02:05:41+00:00",
       "fingerprint": "1307569d49efcc1cdd30ac01d97615c7b857b35037db4917d309fb8289bbfd56",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -551,7 +551,7 @@
       "published_at": "2026-10-26T01:55:08+00:00",
       "fingerprint": "344ad1e3ceb6ffbcf46c5cfa5ea21ab33f102973050738362f40c4e2eb9486e2",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -593,7 +593,7 @@
       "published_at": "2026-10-26T01:10:00+00:00",
       "fingerprint": "7418017a9481d4cbd7399a495ce4c5912ecf7d7d4a4699cbf3abbaa15ce02fbf",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -621,7 +621,7 @@
       "published_at": "2026-10-26T00:46:39+00:00",
       "fingerprint": "3ed1dd2fe33b88a79ddf2359cb4534875caca61c9f8379da2ddcb38fb9f448f9",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -697,6 +697,20 @@
       "history": []
     },
     {
+      "id": "74dc6dc9b123b0a6a78ca362",
+      "title": "沈伯洋接受民視獨家專訪 證實\"3大軍師\"幫補課備戰辯論",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQdHNWckNObDBBV3lZaW5qNkI1QXE0RGpTRVhkdnNZN1REcUkya2RMWEhTZlJqcVJRMkFYck0tX1BmeDNucDc3V2VJSzNVTVFQOUhfYzNSN3dmZXRmeFl0MUFEWDEwM1BwNUFyMUVzY0pnQTNhS3U4ODlmY1RoOFdvajNQQlpqaVhmZDZFUFVJR1NWYjIzelA5VEphZTFWWVk1OGkxUURLTzdNZnMzbTZoaWtFcWViUlhzNGtmUzRORkpUMXNxbU9VMkpaTVFSTjY1UGtFMkpVeTNMUDVfZTA1dWJMd1RGdGxWdTNia201dkRyTEd6ZTltZWN6OTU5SnBXZFAxa0xDbVozSDFKY1dOVk9Gc0d4ZWhXTktxMUFwZUpJRDdSTWFJSmttOXY4cHZ5b1hEaVNxY1Nyb0tnYnpucE9YU0twT2RyVVFCLVZaRTlQUWwxRlU1SFhvaWFLaE83SURZZ052MHQ3ZG9n?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-10-25T22:49:02+00:00",
+      "fingerprint": "9cb5a944e01f15feb83d47451e9a13f3b8e4ef62aea348d4d40afbe06f0cf2d2",
+      "first_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "history": []
+    },
+    {
       "id": "649a6a1a9ab63074cb063f75",
       "title": "認為蔣萬安「口才是好的」 沈伯洋：幕僚談參準備不充分會害到他",
       "source": "自由時報",
@@ -722,7 +736,7 @@
       "published_at": "2026-10-25T21:39:36+00:00",
       "fingerprint": "055e2b42eedd14e426612acce9ffb0fb93dd4a541370dc01547087f7c14cca62",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -765,7 +779,7 @@
       "published_at": "2026-10-25T20:16:00+00:00",
       "fingerprint": "553b6013b9b1e19777dee9f0cbc1372ea9cc1db9e0e73477a907ba867f79c8c0",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -780,7 +794,7 @@
       "published_at": "2026-10-25T19:08:36+00:00",
       "fingerprint": "c1e6e26edaa9c321c8a53a01afa5681d8bea65ecce0aef2f2205a18cde820a8d",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -794,7 +808,7 @@
       "published_at": "2026-10-25T16:56:00+00:00",
       "fingerprint": "61c2fa059bf9aa9fd42d2356f39b0a0297941719860e32f10ade8462443a094f",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -864,7 +878,7 @@
       "published_at": "2026-10-25T15:09:31+00:00",
       "fingerprint": "e087be8c64d8f3dd44b9f6caa4287eaf568af6a286f42151c9ad131f910cb9a6",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -878,7 +892,7 @@
       "published_at": "2026-10-25T14:55:19+00:00",
       "fingerprint": "fc2efa55ddfb2b789f3a7b10cb1f44b43aba497e2745fd22dd7d6475b48f3cc2",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -892,7 +906,7 @@
       "published_at": "2026-10-25T13:47:36+00:00",
       "fingerprint": "54cde0f68ffcdf198cd0388600132c40dbcae739cc88719f1fbb6eeff85e1968",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -906,7 +920,7 @@
       "published_at": "2026-10-25T13:05:40+00:00",
       "fingerprint": "365b4b7a04f88a6c888c16c8d4b776c8a6c6634dcdaea5d71bef7b6963455011",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -964,7 +978,7 @@
       "published_at": "2026-10-25T11:55:01+00:00",
       "fingerprint": "6895d0d5fdffc0b5f7ce25879f4d120b845091cb2d6423164a123de976fddb22",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -978,7 +992,7 @@
       "published_at": "2026-10-25T10:27:00+00:00",
       "fingerprint": "4318bd7f608ff792ecfdbd7f0a4f609f9cb40e6214412a04766c763e39b4c172",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -992,7 +1006,7 @@
       "published_at": "2026-10-25T08:22:06+00:00",
       "fingerprint": "be573e0c381c122f18f3fdbbe8187dd5720589cfab101441dbacee254a15c74d",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:33:46.717713+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1021,7 +1035,7 @@
       "published_at": "2026-10-25T07:16:02+00:00",
       "fingerprint": "2b5143243bfc531b50b12ce8731aa5a2b7e0c220b67310542eccb04214a9f2f9",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1035,7 +1049,7 @@
       "published_at": "2026-10-25T07:13:09+00:00",
       "fingerprint": "ba0aa3d624add9fdd711369dd0ca4f8ccdd87b6f72847fc1d060c735175f4109",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1049,7 +1063,7 @@
       "published_at": "2026-10-25T06:56:00+00:00",
       "fingerprint": "6c05343777892109b12237a54686e9df0ad47baa6b3004b06fbdb69099c927b5",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1064,7 +1078,7 @@
       "published_at": "2026-10-25T06:56:00+00:00",
       "fingerprint": "d334d5e8bf4efc8ea853314554bf4c6bb0afa3b5162a90d7caaab6fa4646d85a",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1092,7 +1106,7 @@
       "published_at": "2026-10-25T06:16:50+00:00",
       "fingerprint": "beb7e1eba2bbd340554c7d99f5bde705bf37c18cd00b647a1860012a3dff20fb",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1107,7 +1121,7 @@
       "published_at": "2026-10-25T05:36:52+00:00",
       "fingerprint": "600185bf0731dc6e4849df3ca3bdc1802e1f9501a59156fc5175c280437b1837",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1135,7 +1149,7 @@
       "published_at": "2026-10-25T04:17:26+00:00",
       "fingerprint": "f14828d374106d76c2ce2c474122fae5bf7febfce80a2d281571d6cee4b0d278",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1163,7 +1177,7 @@
       "published_at": "2026-10-25T03:31:54+00:00",
       "fingerprint": "fdf962f5b0fe20d80dfd1f7e0ec1809c1f1c0f9900cfe82123a8a97b67f48245",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1177,7 +1191,7 @@
       "published_at": "2026-10-25T03:19:05+00:00",
       "fingerprint": "b6fb95087733bbcfa9dd75024c156a72dc4beba1b958f56d28cfc9427eb9dbfc",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1191,7 +1205,7 @@
       "published_at": "2026-10-25T03:14:39+00:00",
       "fingerprint": "a682ee7aa75ce7e7511494ac144c032b83376a9a418b09ee46e4d80569497412",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1262,7 +1276,7 @@
       "published_at": "2026-10-25T00:20:00+00:00",
       "fingerprint": "1c06881a438a93051439809f74c050f620e445aca14a64026f0d6b7ade3e5d0c",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1276,7 +1290,7 @@
       "published_at": "2026-10-24T23:17:14+00:00",
       "fingerprint": "76f615112f0e8d2e636f37201a8530ceacf0757967cc09b954ce437ef55fb96b",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1290,7 +1304,7 @@
       "published_at": "2026-10-24T22:43:00+00:00",
       "fingerprint": "9e5fadc452add82f3c17b550dbae9e0dda089111d70c0cd9c8d8a61de5f6ce86",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:33:46.717713+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1304,7 +1318,7 @@
       "published_at": "2026-10-24T15:33:00+00:00",
       "fingerprint": "c7cc59616ff22f93009700dcaabf43dcecd1847c8001323de6066bc268172139",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1318,7 +1332,7 @@
       "published_at": "2026-10-24T14:36:17+00:00",
       "fingerprint": "be2dee1727be63236e721a3fc7376d51f157f533cad01539f93387d26e0ce363",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1347,7 +1361,7 @@
       "published_at": "2026-10-24T12:44:00+00:00",
       "fingerprint": "5a0f56c6398b0686027103fdfae084167d4156f7b964a9a8fe2573fd20046cf0",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1375,7 +1389,7 @@
       "published_at": "2026-10-24T11:23:00+00:00",
       "fingerprint": "53fe2b45bb1d2bbb93654439cc84ecfa8addf30889be193df3632d5c4c5962c0",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1405,7 +1419,7 @@
       "published_at": "2026-10-24T10:52:00+00:00",
       "fingerprint": "c8ce70326805ddc57c957d2201ce1a55f50bea848afff5e02014e4ef117a7f6b",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1434,7 +1448,7 @@
       "published_at": "2026-10-24T09:41:10+00:00",
       "fingerprint": "ddf171102e825e1c27004f4f1244af4c1fe75d6afd22d8f9d5ee20a6998b8c59",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1448,7 +1462,7 @@
       "published_at": "2026-10-24T09:33:48+00:00",
       "fingerprint": "8f6db7829eceb9a20a1adb701e2ef9ae903fe604361c1123e08242b453c64166",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1477,7 +1491,7 @@
       "published_at": "2026-10-24T08:59:59+00:00",
       "fingerprint": "1a970f0eaffa68b5d2b895e06134803c6e37e3ff1c940dd426f8fdb5c47a15bb",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1492,7 +1506,7 @@
       "published_at": "2026-10-24T08:56:34+00:00",
       "fingerprint": "338f84519deea2cfd408f2c7736a1fecea3086bd5588497ffd86ae22e5cb5434",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1535,7 +1549,7 @@
       "published_at": "2026-10-24T06:43:13+00:00",
       "fingerprint": "527a4373e0beb2b4495a4064ed2c6295dc8b201ba248a20b9fe57debfe88231b",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1578,7 +1592,7 @@
       "published_at": "2026-10-24T05:01:09+00:00",
       "fingerprint": "53367f1749982b8c90c48257dd43d31259c754d0b3e2bafc8d022c423a96d38a",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1592,7 +1606,7 @@
       "published_at": "2026-10-24T04:16:00+00:00",
       "fingerprint": "635f82682ff7f466946a7017112d808ba2fce5350518e6bfd2f6c145c1fc3852",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1606,7 +1620,7 @@
       "published_at": "2026-10-24T03:40:48+00:00",
       "fingerprint": "30c1bc9a688e64b2f4ff05253ef402b240272e75c0ab96817823e82d3e59e134",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1621,7 +1635,7 @@
       "published_at": "2026-10-24T03:33:06+00:00",
       "fingerprint": "7e61de63471e10bf512ce0f6284fcfb77aadb227756a49a1f1e791e05a1345cf",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1636,7 +1650,7 @@
       "published_at": "2026-10-24T03:10:50+00:00",
       "fingerprint": "529a0ca4eebb553134993beb717bf7f03a65f85e42dea8c893705442ef997aa9",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:33:46.717713+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1664,7 +1678,7 @@
       "published_at": "2026-10-24T02:30:00+00:00",
       "fingerprint": "5661ef9c9884b98bf7ae2aeed698d9dcd7d3e36605868bca51ad7be9010e5980",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1693,7 +1707,7 @@
       "published_at": "2026-10-24T01:49:00+00:00",
       "fingerprint": "99b3d64aa4b7b3fa50bec884c16d9a74f4d47c86e1028c1bb93eeb55648c21c5",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1707,7 +1721,7 @@
       "published_at": "2026-10-24T01:27:04+00:00",
       "fingerprint": "960f013a582ca859c3706a0791ccd6510c5875228cf124e24805ce2b13660b29",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1721,7 +1735,7 @@
       "published_at": "2026-10-24T01:24:57+00:00",
       "fingerprint": "5a1f5f7849a3544eeb375aa146803eef1963c5f844d4ceef8f7be952658e696f",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1735,7 +1749,7 @@
       "published_at": "2026-10-23T21:11:00+00:00",
       "fingerprint": "3b780436aaf505224e33d010123389368b05531ef8778d102ea4fb7813f32207",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1778,7 +1792,7 @@
       "published_at": "2026-10-23T12:17:53+00:00",
       "fingerprint": "f42407572ce060eb1033409b6c02b17b9f29e436d750ad3bb5f195b0f16f6d9c",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1792,7 +1806,7 @@
       "published_at": "2026-10-23T10:56:00+00:00",
       "fingerprint": "f038c61ed5fb89b11de619a268873a26cf141711160124728e415d5170bd0004",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1821,7 +1835,7 @@
       "published_at": "2026-10-23T10:15:00+00:00",
       "fingerprint": "d5f355834ab8237418ddfb1b0808a8073b8749328a53e67273ae99094e98c70d",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1836,7 +1850,7 @@
       "published_at": "2026-10-23T09:38:40+00:00",
       "fingerprint": "dcb6a0bac60f307ba2dc69724b81aeaa270473cb4bd30dcad6d548accd688c07",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1850,7 +1864,7 @@
       "published_at": "2026-10-23T08:49:43+00:00",
       "fingerprint": "c8a72bb41cf09f285fafb6c4a3221430ce57383820241a566906b291e044ccac",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1865,7 +1879,7 @@
       "published_at": "2026-10-23T07:18:00+00:00",
       "fingerprint": "1736a48b6d7352756aefa95b00da78a428b6d1a4da1c94bf4f2a8a8d012dd734",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1879,7 +1893,7 @@
       "published_at": "2026-10-23T05:03:00+00:00",
       "fingerprint": "14707e866db253e6ac1f9e5f9e2c88cd1b130ea31d7755aef6509fefd2f9fd2a",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1893,7 +1907,7 @@
       "published_at": "2026-10-23T04:53:30+00:00",
       "fingerprint": "cfca877c81a1819247022b6568b7037c060fab1fddd1100359e6f0c05906be3a",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1922,7 +1936,7 @@
       "published_at": "2026-10-23T04:32:13+00:00",
       "fingerprint": "b0dc8539b27c9f1a66293598687b7b4f4ee4dee04ca050d00f1a158d72d99c61",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1950,7 +1964,7 @@
       "published_at": "2026-10-23T04:02:50+00:00",
       "fingerprint": "22f50018617208485b72c8f1f5f575beb09c73bef22def6bdb4b712d1692c279",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:33:46.717713+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1978,7 +1992,7 @@
       "published_at": "2026-10-23T03:11:06+00:00",
       "fingerprint": "71388e7b253a0581d39206a03722178a738ed9cd91f974c76f6a73e0a2d21363",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -1993,7 +2007,7 @@
       "published_at": "2026-10-23T02:47:32+00:00",
       "fingerprint": "91163ebc99cf8aff764f45bcd51c9bd5b88d77c7af183b11c3b5fb6cc2f58791",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2021,7 +2035,7 @@
       "published_at": "2026-10-23T00:59:13+00:00",
       "fingerprint": "3bd2e81d1422dbf8d874239b3d6fa3adc3b9b72e2e2e3916ee7de3eae243f2c6",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2035,7 +2049,7 @@
       "published_at": "2026-10-23T00:43:24+00:00",
       "fingerprint": "b0879263521a1a063d79acec44d5030625b6269778fd6e37cd1ea3847739004c",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2049,7 +2063,7 @@
       "published_at": "2026-10-22T23:57:00+00:00",
       "fingerprint": "fc5cc033491ffb4dcce39beb6600554303a14393775d2806d7f7222d73672949",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2063,7 +2077,7 @@
       "published_at": "2026-10-22T22:21:00+00:00",
       "fingerprint": "31fff986aed0073db5d6c8a68bb9145c82df96936af89a1f4aacc577db1c5730",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2077,7 +2091,7 @@
       "published_at": "2026-10-22T16:31:00+00:00",
       "fingerprint": "9216d002042a84aba2ca9a4830eb49ea8b9c1e8800128ab7b2e4ca7594a47024",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2106,7 +2120,7 @@
       "published_at": "2026-10-22T15:53:33+00:00",
       "fingerprint": "30f6c17c7f2f578f1e6abe0901062ee4ee6d2450c67cadc3a27762ca71719b58",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2135,7 +2149,7 @@
       "published_at": "2026-10-22T14:26:03+00:00",
       "fingerprint": "8862d963f0b9cc36e6bfce3f961e34982c6c9bab7161a9133f730f727b0b28b0",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2149,7 +2163,7 @@
       "published_at": "2026-10-22T13:36:46+00:00",
       "fingerprint": "4fca5f9d491819b8881ae6c755591c6fddf21a634002964d996714c3ae077747",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2163,7 +2177,7 @@
       "published_at": "2026-10-22T13:33:00+00:00",
       "fingerprint": "ccd2a3ebe290276fb00809031adc9e9627d26758da48459c81682645fbf1e272",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2177,7 +2191,7 @@
       "published_at": "2026-10-22T12:20:21+00:00",
       "fingerprint": "c649069922ced59727bb06c49add0f9705abea01e07d7256a56e0a4cadb3bc5f",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2191,7 +2205,7 @@
       "published_at": "2026-10-22T11:31:38+00:00",
       "fingerprint": "3c66a21b687415bd888451de1a44c5fde1ff8693fe64fe8db7ec2f5deedd53d7",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2205,7 +2219,7 @@
       "published_at": "2026-10-22T09:45:45+00:00",
       "fingerprint": "eb6699f8781f5fb6bf432913a6383229a3e14a045d55c7e287caf9a869ab287d",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2233,7 +2247,7 @@
       "published_at": "2026-10-22T07:52:25+00:00",
       "fingerprint": "338dc97c4fa375304390b82606086d0628e38a2aa85520a55eebe2abff6071e8",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2247,7 +2261,7 @@
       "published_at": "2026-10-22T07:00:00+00:00",
       "fingerprint": "3943d85d3fa64de0706ad50aebf63a2b7c5eba6344a6be2615e03517f5112c50",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2262,7 +2276,7 @@
       "published_at": "2026-10-22T05:34:26+00:00",
       "fingerprint": "40d973d03b523a2fde3356ebcf3413ad291c7c25405779ef970607975354e650",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2277,7 +2291,7 @@
       "published_at": "2026-10-22T05:27:00+00:00",
       "fingerprint": "73a865556abc8d8ef530fe9e59a4bddbed3588a64310b572267d0b002bc4448a",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2292,7 +2306,7 @@
       "published_at": "2026-10-22T04:59:37+00:00",
       "fingerprint": "3643606c9cd1c9feb81cadb7735ffd0e9c4c39f5a6337d06909ac8dc6c0b3487",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2321,7 +2335,7 @@
       "published_at": "2026-10-22T03:39:59+00:00",
       "fingerprint": "8e450e0cf33b04c9faaa7c268ab1f16b9578358b2e1944173a21c6c23f8112a2",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2335,7 +2349,7 @@
       "published_at": "2026-10-22T03:38:00+00:00",
       "fingerprint": "56388136c2c34a2c447312eaa00e1a13b9e2a963bd89de202a6a667c572c043b",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2350,7 +2364,7 @@
       "published_at": "2026-10-22T02:36:36+00:00",
       "fingerprint": "d75ad3692633fbdfb131c47c148ffdc4de729a7df10cbdd65a984f0a1d7c20a2",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2365,7 +2379,7 @@
       "published_at": "2026-10-22T02:34:22+00:00",
       "fingerprint": "51f9649d2e13ff5fe072c0c55de4cc141bbb82a4aaf93550b55f0ac5065997a3",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2394,7 +2408,21 @@
       "published_at": "2026-10-22T00:30:00+00:00",
       "fingerprint": "0791f1275436ed86a4d4938124274c6f99034ddc0ece5497fcd87990deae8206",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "history": []
+    },
+    {
+      "id": "d0b6cc4b717ccb4908b14ad6",
+      "title": "強颱薔琵來襲…蔣萬安會放颱風假？媒體人爆「7成機率內幕」",
+      "source": "中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9maGhjeDlhTFRXdFRES19SWG11MmNWYXRFazBnTmFxZ00zZ0dxeE9xMjg5UjJCc3NTdU53VmVza2l5U21aYmJXX0lKbjRBLW9nVzh4emtPeWtJSTlTYkFOQk5TQXVJdkMyWkFjZ01B?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-10-21T23:17:37+00:00",
+      "fingerprint": "592e9bab9ea1c48c400a185eccd21bf45a8fcf48fc2b56aba9111f2dc95da11b",
+      "first_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2408,7 +2436,7 @@
       "published_at": "2026-10-21T23:10:00+00:00",
       "fingerprint": "66fa3634d6e6cf1f09e052bcdb96076d9576581e3c2d6853df0e8b1475a10aaa",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2422,7 +2450,7 @@
       "published_at": "2026-10-21T16:00:00+00:00",
       "fingerprint": "8fdcb5cdac0a23b76e3b30ea5e86c732ed009f0d00a710f93f36b90f73c5c1a8",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2436,7 +2464,7 @@
       "published_at": "2026-10-21T13:48:27+00:00",
       "fingerprint": "c64bb9e08c41d96468e86c4d2314ce2c537509add238b6b7a5b127b3b0d83c2e",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2450,7 +2478,7 @@
       "published_at": "2026-10-21T12:38:01+00:00",
       "fingerprint": "5aa6be313c61d525e668eb78c734a7da27216344c4dbce7c233f32ed1c4f6fa4",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2464,7 +2492,7 @@
       "published_at": "2026-10-21T09:26:58+00:00",
       "fingerprint": "39833919274cfa9e0837d79539611053a537bc449257ccffa703532f4b586e3f",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2478,7 +2506,7 @@
       "published_at": "2026-10-21T08:33:58+00:00",
       "fingerprint": "0426e36f3d4d0bb44918ad954140d106030fc984129991bf650b9b458d330763",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2506,7 +2534,7 @@
       "published_at": "2026-10-21T08:09:25+00:00",
       "fingerprint": "eef808ed73d29ac58c41979e85bb959e2960eb248d9a4d5ac66d5de9f7b79dd9",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2520,7 +2548,7 @@
       "published_at": "2026-10-21T06:47:47+00:00",
       "fingerprint": "fcbbf98a44512125788a429400097ce9a4147101381ec6d63a44b1e1d03a481a",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2534,7 +2562,7 @@
       "published_at": "2026-10-21T06:33:56+00:00",
       "fingerprint": "32505a549e0c3bddb7a612b52cc4ebf02ffe8db691c3649df26c47e98ba935a9",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2548,7 +2576,7 @@
       "published_at": "2026-10-21T06:03:29+00:00",
       "fingerprint": "7ce29a4492943588b51790938220fc99371d89fb74b231b760f608cf5effc7fc",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2562,7 +2590,7 @@
       "published_at": "2026-10-21T05:47:50+00:00",
       "fingerprint": "26cba0884c9f6c440cc581ac930141531383424c746d49a96f38221829c53c18",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2576,7 +2604,7 @@
       "published_at": "2026-10-21T05:42:55+00:00",
       "fingerprint": "7ddb5ec0f9d8b422033be3f11f865b5e30f09ec316b54d64ef6c9182074f66aa",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2590,7 +2618,7 @@
       "published_at": "2026-10-21T05:28:42+00:00",
       "fingerprint": "bf90d8a440b1e3d2a44cc5f5ab74f4ead423ed9c1b3e8194ffb11c39a35483c7",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2604,7 +2632,7 @@
       "published_at": "2026-10-21T05:19:14+00:00",
       "fingerprint": "be7c5a1d9b735466c4b67b69f12dea62a5ea9fbe696e5e74540eeac81e6224ad",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2618,7 +2646,7 @@
       "published_at": "2026-10-21T04:00:00+00:00",
       "fingerprint": "b4ad9c1977deafbda27f4b0291707a3161b89a402eb41280bc0c7166fbe04c10",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2632,7 +2660,7 @@
       "published_at": "2026-10-21T03:54:40+00:00",
       "fingerprint": "676a4a15a53d303f2b9d8ff73f75e5f7e1513668cf664f1863dd128526a35cd0",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2661,7 +2689,7 @@
       "published_at": "2026-10-21T02:40:39+00:00",
       "fingerprint": "d69a16033f6af302a7ee6ce31d622201318fa5e9cf7396767177e5cc890ee491",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2676,7 +2704,7 @@
       "published_at": "2026-10-21T01:21:00+00:00",
       "fingerprint": "09f68e555b496a9710e64d86405fb9a1a5b20f13686656d87d9e19557f31fab6",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2691,7 +2719,7 @@
       "published_at": "2026-10-21T00:20:00+00:00",
       "fingerprint": "b6a5eff26c7b133afc5aaaefebf5d709bdbd386edf83571d37455d782900a756",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2706,7 +2734,7 @@
       "published_at": "2026-10-21T00:10:07+00:00",
       "fingerprint": "e07b55205d981ab3a364b9987c097f1cde2afb47f829f48a06396b3ceff6d4b2",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2720,7 +2748,7 @@
       "published_at": "2026-10-20T23:49:00+00:00",
       "fingerprint": "f072383c74c0c0bf18a4c16887a98014c9fb47577d58e1b555fa90de9a4bda73",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2734,7 +2762,7 @@
       "published_at": "2026-10-20T23:13:00+00:00",
       "fingerprint": "5e832882069483af6249d58c5174a49705ae47c32ce95a5ee1435a90d4567816",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2748,7 +2776,7 @@
       "published_at": "2026-10-20T22:13:00+00:00",
       "fingerprint": "e83fad3edf611dd9bbd591ac5d8306268583e9729480d36d9aaf0a83a3011042",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2762,7 +2790,7 @@
       "published_at": "2026-10-20T22:01:00+00:00",
       "fingerprint": "6ce3cf97ee02bee77d72920abb8544d24504ff777a78281ac0ab17e952a7641b",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2776,7 +2804,7 @@
       "published_at": "2026-10-20T15:49:48+00:00",
       "fingerprint": "e799d7450808edddf54b30a287e66968e510180ec09e2e3913f5ee1259432065",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2790,7 +2818,7 @@
       "published_at": "2026-10-20T15:04:40+00:00",
       "fingerprint": "96872ab0c608389b66f91b672a415119980622814fbaa169128a81415c21e18a",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2804,7 +2832,7 @@
       "published_at": "2026-10-20T15:03:36+00:00",
       "fingerprint": "d18f8606a1f5afffe3f83ab1947b055af03c3f4d81ef2130d8c139b81a4f07d4",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2818,7 +2846,7 @@
       "published_at": "2026-10-20T14:26:55+00:00",
       "fingerprint": "102fc0b6f39f7e80ae9eebfccd94805dee0ee2f8d24e30eddd49bb2230f6527b",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2832,7 +2860,7 @@
       "published_at": "2026-10-20T12:59:55+00:00",
       "fingerprint": "28b762819a60d673b1090a34fbf4b164137527511fb49d0b38283348577c4397",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2846,7 +2874,7 @@
       "published_at": "2026-10-20T12:54:57+00:00",
       "fingerprint": "73ddd772f09ce0690854ee214e17140bae63a1211500fb36bfa73e1e82cf83cb",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2875,7 +2903,7 @@
       "published_at": "2026-10-20T12:32:00+00:00",
       "fingerprint": "208fd5ef85a0e4ca4f33c68615cab7766fefd49d1c800e1d8e46fd2072f354c6",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2889,7 +2917,7 @@
       "published_at": "2026-10-20T12:32:00+00:00",
       "fingerprint": "1d1ddee01904098053599e5d5f4a6258670658ce6b0d5b6b2751b929fba70ad0",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2904,7 +2932,7 @@
       "published_at": "2026-10-20T10:14:00+00:00",
       "fingerprint": "275b050720e832995930ed6fc666d45d8dc000f775eacff3de1dd074004c4d4c",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2918,7 +2946,7 @@
       "published_at": "2026-10-20T09:07:52+00:00",
       "fingerprint": "2c1a60e5bbdfdd4c442b4f26d26fa969db0c9a94ddb743304701d83d318a58b3",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2932,7 +2960,7 @@
       "published_at": "2026-10-20T09:02:41+00:00",
       "fingerprint": "315377425ac19ae0dac733f53e58d110b2f5410ad136aac736412d16b80668aa",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2946,7 +2974,7 @@
       "published_at": "2026-10-20T08:42:00+00:00",
       "fingerprint": "8bd506954405cc730bc0b2bbb92180c6f35c050e28d071b750b7eabb9f133c62",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2961,7 +2989,7 @@
       "published_at": "2026-10-20T07:42:28+00:00",
       "fingerprint": "d71123b3820ca61f1750a965fd7b4c38e768037993acd284668032a330a514ee",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -2990,7 +3018,7 @@
       "published_at": "2026-10-20T06:29:00+00:00",
       "fingerprint": "343e7fb00950ad13afcb762ead4548b766c47fb0080ff376e4f00ba2cb61af84",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3004,7 +3032,7 @@
       "published_at": "2026-10-20T06:14:59+00:00",
       "fingerprint": "5e9a63fd4c2e3354f36b2bb47571ddff91920d13da20e9665f353ab4341b8360",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3018,7 +3046,7 @@
       "published_at": "2026-10-20T06:02:25+00:00",
       "fingerprint": "f3232e81f4d62d2783c5c585d0b25a7553d6a3c86e1a79ab8181c2871388a999",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3032,7 +3060,7 @@
       "published_at": "2026-10-20T05:41:00+00:00",
       "fingerprint": "807a93d4864ffd5b992903e9b294a75c51cf30baf2f40f093ed1d64a1ddc342c",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3047,7 +3075,7 @@
       "published_at": "2026-10-20T05:28:40+00:00",
       "fingerprint": "234ec67ab3fea210c92cc6c463d23ac1e38c5b84cb61e113e686e85b63e9f684",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3062,7 +3090,22 @@
       "published_at": "2026-10-20T04:12:57+00:00",
       "fingerprint": "c8671bcf3b0d5a983278f3c8a0b4fb2b47df4c5682e10950699b2487fbfedff3",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "history": []
+    },
+    {
+      "id": "6533f0d1288971b3f717ef31",
+      "title": "戴立安民調》沈伯洋支持度反超蔣萬安17% 綠營卻一片哀號「戒慎恐懼」",
+      "source": "信傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwU2w0ZHNzWkJzcFZtVzBsN25BYkh6cjhWS0w4UVBHZzAtWDkzMVFIekZNMVN0dVJEd2VtazdwYTJJYzZhLWFRZi1CcnZJdTNnaTVTaW9kXzBFUQ?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-10-20T03:50:37+00:00",
+      "fingerprint": "59492173046264a551220068bef127fa526b501f66f6a88eb58a875a52e659f3",
+      "first_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3077,7 +3120,7 @@
       "published_at": "2026-10-20T03:24:44+00:00",
       "fingerprint": "1ffde954d28d787a0e0faf185ff8b6f390b4489d365c9cf7c887414f95cc9cc2",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3091,7 +3134,7 @@
       "published_at": "2026-10-20T03:21:00+00:00",
       "fingerprint": "1cb1a8e1ef94ae949229a3615ce6deee62b1e6f97f6500cd7cfef8fa124b9411",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3106,7 +3149,7 @@
       "published_at": "2026-10-20T03:02:03+00:00",
       "fingerprint": "5819f1e0e1205dbf429ffb5021fdd8c4e70e7218aaca34785ab91b728fbecfd1",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3121,7 +3164,7 @@
       "published_at": "2026-10-20T02:50:46+00:00",
       "fingerprint": "be41e822ad1b37abc02eeb97c27621c13e77c624d9303429d8deae140829fb8a",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3136,7 +3179,7 @@
       "published_at": "2026-10-20T02:47:22+00:00",
       "fingerprint": "39029bb9e0940ec7f0c5bec3348671d0112bdf0714d2b2d2691ac6e8e5d83c71",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3151,7 +3194,7 @@
       "published_at": "2026-10-20T02:45:59+00:00",
       "fingerprint": "9e9dbd991c16cfe9fa4bb30c5c5f98c2cfe3efcf89081df91c9e7784d70b0a29",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3166,7 +3209,7 @@
       "published_at": "2026-10-20T02:41:00+00:00",
       "fingerprint": "bb972142f0e36ce3e10c0cfd55e957d7686e2b84c7bc280bfab13b23d665c77c",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3196,7 +3239,7 @@
       "published_at": "2026-10-20T02:23:00+00:00",
       "fingerprint": "6ff5b2a86fd8c8980ebe3f5528475bbf2f5dab0c1b28d141714e2f9fb8384038",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3211,7 +3254,7 @@
       "published_at": "2026-10-20T02:19:14+00:00",
       "fingerprint": "c450e6304543c8cae75645da3e5e3cfc607a68ca199c7506947f6ec94b877236",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3230,6 +3273,21 @@
       "history": []
     },
     {
+      "id": "7a7969c3021b1e1fc9f5a454",
+      "title": "最新民調！ 4成7台北市民認蔣萬安不適任 沈伯洋適任度破5成6",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tSl9saGNPbDNxSjJON3FSUTIwR3dBcV95TFluWVVDLVYxdWh6dG1wczM4VzV5ZF8tMmVTNjBETzVSVlpiYjk4c1laeE9HZ3h2ZGMwb3NEOGRINnRJdlhiS1lTc2haVHBKaWc?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-10-20T02:16:40+00:00",
+      "fingerprint": "dc9e82baf4d94fbe2ad2312a76f105ef3f69f70ceb271bc68f1490766d571a23",
+      "first_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "history": []
+    },
+    {
       "id": "b6b4bbdcc8d8f0be826945ac",
       "title": "戴立安民調》沈伯洋大逆轉！最新北市民調驚人差距曝光 蔣萬安落後「這麼多」 | 李瑋萱 | 新聞",
       "source": "風傳媒",
@@ -3241,7 +3299,7 @@
       "published_at": "2026-10-20T02:11:00+00:00",
       "fingerprint": "ba8cbbfcb6a37e0d52e5e2697ec98cc107a6458131882bc509b9a60b469f904b",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3256,7 +3314,7 @@
       "published_at": "2026-10-20T02:05:57+00:00",
       "fingerprint": "373075093dccfa957375d1f24a7b26b550c5d4419b09fab61682debb57249a27",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3271,7 +3329,7 @@
       "published_at": "2026-10-20T02:04:00+00:00",
       "fingerprint": "a877540d0d7b883579108e9f9df3870739bc646c8653d2e1d1e0a084b9941406",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3286,7 +3344,7 @@
       "published_at": "2026-10-20T02:03:00+00:00",
       "fingerprint": "f87c837c808831d24c99951a5ad1cb9a614301f36ce96d01fa2d49ce3be251a9",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3301,7 +3359,7 @@
       "published_at": "2026-10-20T01:34:34+00:00",
       "fingerprint": "6a5f66df5e2f3f51df9c4e0b04d7d6af65de8340b0da6b2c87f0aa35945c1147",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3316,7 +3374,7 @@
       "published_at": "2026-10-20T01:30:44+00:00",
       "fingerprint": "a80d8f7274cd715eba1dad20d3c8ada3dbcf3162f8cb36419deb727a87887152",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3330,7 +3388,7 @@
       "published_at": "2026-10-19T23:34:00+00:00",
       "fingerprint": "705e287ea683e03fe133d2ca22f8ea1d88f21b4fa47428178e9413e7d8d5b987",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3345,7 +3403,7 @@
       "published_at": "2026-10-19T23:19:00+00:00",
       "fingerprint": "4c0c29df4c46494141ab5224a78d5161a9fb9590f19227b757f949caf0819a8f",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3359,7 +3417,7 @@
       "published_at": "2026-10-19T22:58:00+00:00",
       "fingerprint": "66d3dd916cf9cc82b96d224389c98ff309e6b074dc7f13041833d6950f000ad5",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3374,7 +3432,7 @@
       "published_at": "2026-10-19T21:12:00+00:00",
       "fingerprint": "2dbead97e4175729d66bb2be77f318cffdb69b771293b8f32f7228be53d337a7",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3388,7 +3446,7 @@
       "published_at": "2026-10-19T17:18:29+00:00",
       "fingerprint": "9a74c8ac58f3db6798e9f8c10d71bf992b67234b43d6557e24e6ab3fdada29f5",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3402,7 +3460,7 @@
       "published_at": "2026-10-19T14:49:00+00:00",
       "fingerprint": "c0d3a6e88dc5c1434caa0774adedd5b71092ba8d7e6a294be624394ac4d5757a",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3416,7 +3474,7 @@
       "published_at": "2026-10-19T14:35:18+00:00",
       "fingerprint": "a63d54193774a4b6e4cae25f6d24881d31dd17febcac5fff1451c29ebd09b804",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3430,7 +3488,7 @@
       "published_at": "2026-10-19T14:19:25+00:00",
       "fingerprint": "93a8e2b16f40abfe91fe19149339864e2d5a36fc0873ce69ea209b2b52508496",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3444,7 +3502,7 @@
       "published_at": "2026-10-19T14:14:08+00:00",
       "fingerprint": "b59898574083cce7a6a8d126418dfe5aec53b04fe345dc22abb6ed2c3a249937",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3458,7 +3516,7 @@
       "published_at": "2026-10-19T13:25:15+00:00",
       "fingerprint": "6bc99d697e7194749ca57008e5d280eb573130041b88ac1670a658ce819ee842",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3472,7 +3530,7 @@
       "published_at": "2026-10-19T13:20:43+00:00",
       "fingerprint": "dec8d888386e2828d2aed1d80cfb571355b4f0b6b16e1bf2033c40576251b7c4",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3486,7 +3544,7 @@
       "published_at": "2026-10-19T12:59:59+00:00",
       "fingerprint": "6c397754c36be4f8392c9597466fe70fc4a6c3b3cb253d41499e5ea198899ae6",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3501,7 +3559,7 @@
       "published_at": "2026-10-19T11:55:00+00:00",
       "fingerprint": "44d11e8810211b64d86e6d80c66b374e18aae12bad62cb17582a40faebe783f6",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3519,6 +3577,20 @@
       "history": []
     },
     {
+      "id": "6631891ec59bb024ffc46afa",
+      "title": "蔣萬安被問2028狂打太極 趙少康不忍了！「直球追問」蔣當場愣了",
+      "source": "鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jcFJFWl9sNWdzSk95d0hrV2UxRlBsanhiUmRMQlNiY29MMndKN1pZeEFNNlAtcXU5c0dVVUdaUzV6X2Z5NTFFdGNZaWlnZWVHZ3VJVXlCcTVYTWPSAWBBVV95cUxQbXNfUlhBamtUVFpZMkVSd1daQ3R0VWFVSkZ3Z0duY1d3WVBUQUE5bFRzY015YUVwWHFHMWJiVWd1SEN4SE9Qc1hsSU5kLVFwVklBS1hNeDNDY0xHa3gzMTA?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-10-19T11:44:00+00:00",
+      "fingerprint": "6570a863901d5e7cd64d12b33aeeb274f9277a343345910e1bc421711e11b101",
+      "first_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
+      "history": []
+    },
+    {
       "id": "c26d686ea014189bd93ddae7",
       "title": "蔣萬安再問A答B？ 趙少康幫搶答：賴清德視你為2028最大威脅",
       "source": "Yahoo新聞",
@@ -3529,7 +3601,7 @@
       "published_at": "2026-10-19T11:15:59+00:00",
       "fingerprint": "45ee460571722611f38a6c67f8e60957ea1a607d7dfc3b8145dc804f968373c7",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3543,7 +3615,7 @@
       "published_at": "2026-10-19T10:09:00+00:00",
       "fingerprint": "9b3a393b3ea2a4dcb17be04dd729391cf93f6c8daddf044e0a10859c10c998b2",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3557,7 +3629,7 @@
       "published_at": "2026-10-19T09:13:26+00:00",
       "fingerprint": "c9bc897cab320dac7326b00d96feb95e320078f5203da381dfc701a251348352",
       "first_seen_at": "2026-10-26T05:34:39.981379+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3571,7 +3643,7 @@
       "published_at": "2026-10-19T09:03:54+00:00",
       "fingerprint": "b781f5d4e4d7df1c7a8bd08c1e69b6870e8e4ea9959069e8ff050807f742c4c4",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3585,7 +3657,7 @@
       "published_at": "2026-10-19T07:50:43+00:00",
       "fingerprint": "429650d080cb76a9093a72f083d929e4e373aa8b5d72c308f4b716dd4a1a0674",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3600,7 +3672,7 @@
       "published_at": "2026-10-19T07:20:55+00:00",
       "fingerprint": "fd0475fd07aea7800fd641c3787346093a1e4662b9f6da534d2e3e9a8a99902c",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3614,7 +3686,7 @@
       "published_at": "2026-10-19T06:35:53+00:00",
       "fingerprint": "5c27bbaf981c4ad94c5952d450fce120afbb3970344f01d1265d4a459cde6321",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     },
     {
@@ -3628,7 +3700,7 @@
       "published_at": "2026-10-19T06:34:00+00:00",
       "fingerprint": "692c023fe99cc7cc63e407e96d2e43377be91f06b12d25061730116bef6d13e6",
       "first_seen_at": "2026-10-26T05:33:46.717713+00:00",
-      "last_seen_at": "2026-10-26T05:34:39.981379+00:00",
+      "last_seen_at": "2026-10-26T05:38:16.629720+00:00",
       "history": []
     }
   ],
