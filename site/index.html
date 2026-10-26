@@ -16,7 +16,7 @@
   <a class="skip" href="#main">跳至主要內容</a>
   <header>
     <div class="wrap header-row">
-      <a class="brand" href="#news" aria-label="臺北選舉證據站首頁">
+      <a class="brand" href="#overview" aria-label="臺北選舉證據站首頁">
         <span class="brand-mark" aria-hidden="true">E<span>/</span>D</span>
         <span><strong>臺北選舉證據站</strong><small>TAIPEI · EVIDENCE DESK</small></span>
       </a>
@@ -36,14 +36,32 @@
         <div><p class="eyebrow">SYSTEM STATUS</p><h2 id="health-heading">資料狀態</h2></div>
         <button id="refresh" type="button">重新讀取</button>
       </div>
+      <p><span id="health-state" class="status-badge">讀取中</span></p>
       <p id="health" role="status" aria-live="polite">正在讀取資料……</p>
       <p id="feed-health" class="small muted"></p>
       <p class="tiny muted">排程目標每 15 分鐘；此頁每 60 秒檢查已發布資料。重新讀取不會啟動蒐集，GitHub 排程可能延遲。</p>
       <a id="runs" hidden target="_blank" rel="noopener noreferrer">查看 GitHub 執行紀錄 ↗</a>
     </section>
 
+    <section id="overview" class="dashboard" aria-labelledby="overview-heading">
+      <div class="section-head"><div><p class="eyebrow">EVIDENCE AT A GLANCE</p><h2 id="overview-heading">首頁總覽</h2></div></div>
+      <p class="small muted">文章是 RSS 收錄單位；事件只採人工確認；查核數以目前有效的具體主張為單位。點數字查看構成資料、範圍與定義。</p>
+      <div class="metrics overview-metrics" aria-label="首頁摘要統計">
+        <button class="metric" type="button" data-trace="jiang"><strong id="overview-j">—</strong><span>標題提及蔣萬安的文章</span></button>
+        <button class="metric" type="button" data-trace="shen"><strong id="overview-s">—</strong><span>標題提及沈伯洋的文章</span></button>
+        <button class="metric" type="button" data-trace="recent"><strong id="overview-new">—</strong><span>最近 24 小時新增文章</span></button>
+        <button class="metric" type="button" data-trace="claims"><strong id="overview-claims">—</strong><span>有效人工查核主張</span></button>
+        <button class="metric" type="button" data-trace="events"><strong id="overview-events">—</strong><span>人工確認事件</span></button>
+      </div>
+      <div class="two-col">
+        <article class="box"><h3>最新新聞</h3><div id="latest-list" class="latest-list"></div><a href="#news">查看新聞資料桌 →</a></article>
+        <article class="box"><h3>人工確認事件</h3><p class="small muted">不以自動分群或文章數推定事件；只列有查核者與證據來源的人工確認紀錄。</p><div id="confirmed-events" class="latest-list"></div></article>
+      </div>
+    </section>
+
     <nav aria-label="主要章節">
-      <a href="#news" data-tab="news" aria-current="page">新聞資料桌</a>
+      <a href="#overview" data-tab="overview" aria-current="page">首頁總覽</a>
+      <a href="#news" data-tab="news">新聞資料桌</a>
       <a href="#analysis" data-tab="analysis">收錄統計</a>
       <a href="#profiles" data-tab="profiles">人物背景</a>
       <a href="#method" data-tab="method">方法與限制</a>
@@ -64,19 +82,24 @@
       </div>
       <p id="filter-error" class="error" role="alert" hidden></p>
       <div class="metrics" aria-label="篩選統計">
-        <div><strong id="count">—</strong><span>篩選後文章</span></div>
-        <div><strong id="count-j">—</strong><span>標題提及蔣萬安</span></div>
-        <div><strong id="count-s">—</strong><span>標題提及沈伯洋</span></div>
-        <div><strong id="count-r">—</strong><span>有目前有效查核</span></div>
+        <button class="metric" type="button" data-trace="filtered"><strong id="count">—</strong><span>篩選後文章</span></button>
+        <button class="metric" type="button" data-trace="filtered-jiang"><strong id="count-j">—</strong><span>標題提及蔣萬安</span></button>
+        <button class="metric" type="button" data-trace="filtered-shen"><strong id="count-s">—</strong><span>標題提及沈伯洋</span></button>
+        <button class="metric" type="button" data-trace="filtered-reviewed"><strong id="count-r">—</strong><span>有目前有效查核的文章</span></button>
       </div>
-      <div class="toolbar"><p id="result-count" class="small muted" aria-live="polite"></p><div class="actions"><button id="reset" type="button">清除篩選</button><button id="export" class="primary" type="button">匯出 CSV</button></div></div>
+      <div class="toolbar"><p id="result-count" class="small muted" aria-live="polite"></p><div class="actions"><button id="reset" type="button">清除篩選</button><button id="export" type="button">匯出 CSV</button><button id="export-json" class="primary" type="button">匯出 JSON</button></div></div>
       <div id="list" class="list"><div class="skeleton" aria-label="資料載入中"></div></div>
       <button id="more" class="more" type="button" hidden>顯示更多</button>
     </section>
 
     <section id="analysis" class="panel" hidden>
       <div class="section-head"><div><p class="eyebrow">COLLECTION, NOT THE UNIVERSE</p><h2>收錄統計</h2></div></div>
-      <p class="small muted">統計跟隨新聞資料桌篩選條件，不代表所有新聞或獨立事件數。</p>
+      <p class="small muted">新聞資料桌的篩選條件會套用至下列文章與查核統計；事件數只計獨立人工確認紀錄，不代表所有新聞或獨立事件數。</p>
+      <div class="layer-definitions">
+        <p><strong>文章：</strong>去重後的 RSS 文章連結；不等於事件。</p>
+        <p><strong>人工確認事件：</strong>由複核者明確建立並引用證據的事件；不以自動分群推論。</p>
+        <p><strong>具體主張：</strong>已發布、指紋仍符合目前文章版本的人工查核紀錄；每筆紀錄代表一項主張。</p>
+      </div>
       <div class="two-col">
         <article class="box"><h3>媒體來源</h3><div id="sources"></div><p class="tiny muted">同一事件可被多家報導；媒體數不等於獨立證據數。</p></article>
         <article class="box"><h3>雙向負面評論</h3><p id="negative" class="space-top"></p><p class="tiny muted">僅計目前有效、已發布且歸屬候選人本人的人工紀錄；單位為文章。</p><h3 class="space-top">「不實抹黑」總數</h3><p>未估計。事實有誤與故意抹黑不是相同判定。</p></article>
@@ -118,6 +141,12 @@
       <p class="tiny muted">下載的是草稿，不會直接發布。請保留反證、完整回應與責任歸屬。</p>
       <button type="submit" class="primary">下載查核草稿 JSON</button>
     </form>
+  </dialog>
+  <dialog id="trace-dialog" aria-labelledby="trace-title">
+    <div class="section-head"><div><p class="eyebrow">TRACEABLE STATISTIC</p><h2 id="trace-title"></h2></div><button id="close-trace" type="button">關閉</button></div>
+    <p id="trace-definition" class="small muted"></p>
+    <p id="trace-filters" class="tiny muted"></p>
+    <div id="trace-items" class="trace-items"></div>
   </dialog>
 </body>
 </html>

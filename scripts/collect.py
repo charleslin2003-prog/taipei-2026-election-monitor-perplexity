@@ -307,3 +307,40 @@ def validate_profiles(payload):
             evidence = fact.get("evidence")
             if not isinstance(evidence, list) or not evidence or any(not safe_url(url) for url in evidence):
                 raise ValueError("Profile facts require valid evidence URLs")
+
+
+def validate_events(payload):
+    if (not isinstance(payload, dict) or payload.get("version") != 1
+            or not isinstance(payload.get("items"), list)):
+        raise ValueError("events.json must contain version 1 and an items array")
+    ids = set()
+    for event in payload["items"]:
+        required = ["id", "title", "summary", "article_ids", "evidence",
+                    "reviewer", "confirmed_at", "revisions"]
+        if not isinstance(event, dict) or any(key not in event for key in required):
+            raise ValueError("Confirmed event is missing required fields")
+        if not all(isinstance(event[key], str) and event[key].strip()
+                   for key in ["id", "title", "summary", "reviewer"]):
+            raise ValueError("Confirmed event has empty required text")
+        if event["id"] in ids:
+            raise ValueError("Duplicate confirmed event id")
+        ids.add(event["id"])
+        if not isinstance(event["article_ids"], list) or any(
+                not isinstance(value, str) or not value.strip()
+                for value in event["article_ids"]):
+            raise ValueError("Confirmed event article_ids must be strings")
+        if not isinstance(event["evidence"], list) or not event["evidence"] or any(
+                not safe_url(url) for url in event["evidence"]):
+            raise ValueError("Confirmed events require valid evidence URLs")
+        parse_time(event["confirmed_at"])
+        if not isinstance(event["revisions"], list):
+            raise ValueError("Confirmed event revisions must be an array")
+        for revision in event["revisions"]:
+            if not isinstance(revision, dict) or any(
+                    not str(revision.get(key, "")).strip()
+                    for key in ["note", "reviewer", "revised_at"]):
+                raise ValueError("Event revision is missing required fields")
+            parse_time(revision["revised_at"])
+            evidence = revision.get("evidence", [])
+            if not isinstance(evidence, list) or any(not safe_url(url) for url in evidence):
+                raise ValueError("Event revision evidence must contain valid HTTP(S) URLs")

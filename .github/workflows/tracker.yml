@@ -33,7 +33,7 @@ jobs:
       - name: Python unit tests
         run: python -m unittest discover -s tests -v
       - name: Validate manual data
-        run: python -c "import json,sys;sys.path.insert(0,'scripts');from collect import validate_reviews,validate_profiles;validate_reviews(json.load(open('reviews.json',encoding='utf-8')));validate_profiles(json.load(open('profiles.json',encoding='utf-8')))"
+        run: python -c "import json,sys;sys.path.insert(0,'scripts');from collect import validate_events,validate_reviews,validate_profiles;validate_reviews(json.load(open('reviews.json',encoding='utf-8')));validate_events(json.load(open('events.json',encoding='utf-8')));validate_profiles(json.load(open('profiles.json',encoding='utf-8')))"
       - name: JavaScript syntax
         run: node --check site/app.js
 

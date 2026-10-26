@@ -6,7 +6,10 @@ from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
-from collect import canonical, collect, coverage_gap, parse_feed, safe_url, validate_reviews
+from collect import (
+    canonical, collect, coverage_gap, parse_feed, safe_url,
+    validate_events, validate_reviews
+)
 
 NOW = datetime(2026, 10, 26, tzinfo=timezone.utc)
 FIXTURE = b"""<rss><channel><item>
@@ -61,6 +64,23 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(result["status"], "failed")
         self.assertEqual(result["articles"][0]["id"], "offline-test")
 
+    def test_partial_fetch_status_preserves_unavailable_source_data(self):
+        article = {
+            "id": "offline-test", "title": "offline fixture", "source": "test",
+            "url": "https://example.org/test", "people": ["jiang"],
+            "published_at": "2026-10-25T00:00:00+00:00", "fingerprint": "fixture"
+        }
+
+        def mixed(key, name, previous, now):
+            if key == "jiang":
+                return key, [], {"name": name, "status": "failed", "error": "offline test"}
+            return key, [], {"name": name, "status": "ok_empty", "error": None}
+
+        with patch("collect.fetch_one", side_effect=mixed):
+            result = collect({"articles": [article]}, NOW)
+        self.assertEqual(result["status"], "partial")
+        self.assertEqual(result["articles"][0]["id"], "offline-test")
+
     def test_empty_reviews_are_valid(self):
         validate_reviews({"items": []})
 
@@ -74,6 +94,23 @@ class CollectorTests(unittest.TestCase):
         }
         with self.assertRaises(ValueError):
             validate_reviews({"items": [review]})
+
+    def test_empty_confirmed_events_are_valid(self):
+        validate_events({"version": 1, "items": []})
+
+    def test_confirmed_event_requires_evidence_and_revision_history(self):
+        event = {
+            "id": "test-event", "title": "test", "summary": "test",
+            "article_ids": ["article"], "evidence": ["https://example.org/evidence"],
+            "reviewer": "reviewer", "confirmed_at": "2026-10-26T00:00:00Z",
+            "revisions": [{"note": "corrected", "reviewer": "reviewer",
+                           "revised_at": "2026-10-26T00:00:00Z",
+                           "evidence": ["https://example.org/revision"]}]
+        }
+        validate_events({"version": 1, "items": [event]})
+        event["evidence"] = []
+        with self.assertRaises(ValueError):
+            validate_events({"version": 1, "items": [event]})
 
 
 if __name__ == "__main__":

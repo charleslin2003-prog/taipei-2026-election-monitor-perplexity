@@ -5,7 +5,7 @@ import shutil
 import subprocess
 from pathlib import Path
 
-from collect import collect, validate_profiles, validate_reviews
+from collect import collect, validate_events, validate_profiles, validate_reviews
 
 ROOT = Path(__file__).resolve().parents[1]
 STATE = ROOT / "site/data/news.json"
@@ -61,8 +61,10 @@ def main():
     args = parser.parse_args()
 
     reviews = read_json(ROOT / "reviews.json")
+    events = read_json(ROOT / "events.json")
     profiles = read_json(ROOT / "profiles.json")
     validate_reviews(reviews)
+    validate_events(events)
     validate_profiles(profiles)
 
     if args.local:
@@ -84,6 +86,7 @@ def main():
     temporary.write_text(content, encoding="utf-8")
     temporary.replace(STATE)
     shutil.copyfile(ROOT / "reviews.json", ROOT / "site/data/reviews.json")
+    shutil.copyfile(ROOT / "events.json", ROOT / "site/data/events.json")
     shutil.copyfile(ROOT / "profiles.json", ROOT / "site/data/profiles.json")
     (ROOT / "site/.nojekyll").touch()
     print(json.dumps({
