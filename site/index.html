@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="追蹤臺北選舉相關新聞，分開呈現收錄、人工查核與證據。">
+  <meta name="color-scheme" content="light dark">
+  <title>臺北選舉證據站</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳至主要內容</a>
+  <header>
+    <div class="wrap header-row">
+      <a class="brand" href="#news" aria-label="臺北選舉證據站首頁">
+        <span class="brand-mark" aria-hidden="true">E<span>/</span>D</span>
+        <span><strong>臺北選舉證據站</strong><small>TAIPEI · EVIDENCE DESK</small></span>
+      </a>
+      <button id="theme" class="icon-button" type="button" aria-label="切換深淺色" title="切換深淺色">◐</button>
+    </div>
+  </header>
+
+  <main class="wrap" id="main">
+    <section class="intro">
+      <p class="eyebrow">CIVIC RECORD · 2026</p>
+      <h1>蔣萬安 <span>×</span> 沈伯洋</h1>
+      <p>新聞自動收錄，結論由證據支撐。<br>不把聲量當支持度，不把批評當造謠，也不把沒查到當沒發生。</p>
+    </section>
+
+    <section class="health" aria-labelledby="health-heading">
+      <div class="section-head">
+        <div><p class="eyebrow">SYSTEM STATUS</p><h2 id="health-heading">資料狀態</h2></div>
+        <button id="refresh" type="button">重新讀取</button>
+      </div>
+      <p id="health" role="status" aria-live="polite">正在讀取資料……</p>
+      <p id="feed-health" class="small muted"></p>
+      <p class="tiny muted">排程目標每 15 分鐘；此頁每 60 秒檢查已發布資料。重新讀取不會啟動蒐集，GitHub 排程可能延遲。</p>
+      <a id="runs" hidden target="_blank" rel="noopener noreferrer">查看 GitHub 執行紀錄 ↗</a>
+    </section>
+
+    <nav aria-label="主要章節">
+      <a href="#news" data-tab="news" aria-current="page">新聞資料桌</a>
+      <a href="#analysis" data-tab="analysis">收錄統計</a>
+      <a href="#profiles" data-tab="profiles">人物背景</a>
+      <a href="#method" data-tab="method">方法與限制</a>
+    </nav>
+
+    <section id="news" class="panel">
+      <div class="filters">
+        <label>搜尋<input id="query" type="search" placeholder="標題、媒體或編號"></label>
+        <label>標題提及
+          <select id="person"><option value="">兩人皆追蹤</option><option value="jiang">蔣萬安</option><option value="shen">沈伯洋</option><option value="both">同時提及兩人</option></select>
+        </label>
+        <label>媒體<select id="source"><option value="">所有媒體</option></select></label>
+        <label>開始日期<input id="from" type="date"></label>
+        <label>結束日期<input id="to" type="date"></label>
+        <label>人工查核
+          <select id="review-filter"><option value="">所有文章</option><option value="reviewed">有目前有效查核</option><option value="pending">尚無有效查核</option><option value="changed">已發布查核已過期</option></select>
+        </label>
+      </div>
+      <p id="filter-error" class="error" role="alert" hidden></p>
+      <div class="metrics" aria-label="篩選統計">
+        <div><strong id="count">—</strong><span>篩選後文章</span></div>
+        <div><strong id="count-j">—</strong><span>標題提及蔣萬安</span></div>
+        <div><strong id="count-s">—</strong><span>標題提及沈伯洋</span></div>
+        <div><strong id="count-r">—</strong><span>有目前有效查核</span></div>
+      </div>
+      <div class="toolbar"><p id="result-count" class="small muted" aria-live="polite"></p><div class="actions"><button id="reset" type="button">清除篩選</button><button id="export" class="primary" type="button">匯出 CSV</button></div></div>
+      <div id="list" class="list"><div class="skeleton" aria-label="資料載入中"></div></div>
+      <button id="more" class="more" type="button" hidden>顯示更多</button>
+    </section>
+
+    <section id="analysis" class="panel" hidden>
+      <div class="section-head"><div><p class="eyebrow">COLLECTION, NOT THE UNIVERSE</p><h2>收錄統計</h2></div></div>
+      <p class="small muted">統計跟隨新聞資料桌篩選條件，不代表所有新聞或獨立事件數。</p>
+      <div class="two-col">
+        <article class="box"><h3>媒體來源</h3><div id="sources"></div><p class="tiny muted">同一事件可被多家報導；媒體數不等於獨立證據數。</p></article>
+        <article class="box"><h3>雙向負面評論</h3><p id="negative" class="space-top"></p><p class="tiny muted">僅計目前有效、已發布且歸屬候選人本人的人工紀錄；單位為文章。</p><h3 class="space-top">「不實抹黑」總數</h3><p>未估計。事實有誤與故意抹黑不是相同判定。</p></article>
+      </div>
+    </section>
+
+    <section id="profiles" class="panel" hidden>
+      <div class="section-head"><div><p class="eyebrow">SOURCED CONTEXT</p><h2>人物背景</h2></div></div>
+      <p class="small muted">僅顯示附有證據且經維護者核對的條目；空白不代表當事人沒有相關經歷。</p>
+      <div id="profile-list" class="two-col"></div>
+    </section>
+
+    <section id="method" class="panel" hidden>
+      <div class="stack">
+        <article class="box"><p class="eyebrow">01 / COLLECTION</p><h2>收錄範圍</h2><p>對兩人各使用相同規則的 Google News RSS 查詢：人名加最近 7 天。人物標記只依標題。首次啟動不保證取得完整 7 天；來源中斷超過查詢窗口時，期間文章可能漏收，且不會自動回補。資料依發布日保留 365 天。</p><p>連結去除常見追蹤參數後去重；不同媒體或轉址仍可能重複。本網站不宣稱已完成事件去重。</p></article>
+        <article class="box"><p class="eyebrow">02 / REVIEW</p><h2>人工查核</h2><p>自動收錄與人工判讀分離。候選人、競辦、政黨與第三方分開歸屬。發布查核需有具體主張、判讀理由、證據網址、查核者及日期；草稿不計入統計。</p><p>查核指紋只涵蓋 RSS 標題、媒體來源與發布時間。這些中繼資料變更時舊查核會失效；若內文改動但 RSS 中繼資料不變，本系統無法偵測。附上證據網址不代表證據已自動驗真。</p></article>
+        <article class="box"><p class="eyebrow">03 / MAINTENANCE</p><h2>新增查核與更正</h2><p>在文章按「建立查核草稿」下載 JSON。維護者將紀錄加入儲存庫根目錄的 <code>reviews.json</code>，複核後改為 published 並提交。此頁不會寫入 GitHub，也不要求輸入 Token。</p><p>背景資料維護於 <code>profiles.json</code>，每筆需附證據網址、查核者與日期。公開儲存庫的紀錄皆公開，可透過 GitHub Issue 提出更正。</p></article>
+      </div>
+    </section>
+
+    <footer class="small muted">非官方、非競選陣營網站；僅追蹤本專案列出人物，不代表完整參選名單或核定候選資格。本站不保存新聞全文，不蒐集無關私人資料。</footer>
+  </main>
+
+  <dialog id="review-dialog">
+    <form id="review-form">
+      <div class="section-head"><div><p class="eyebrow">EDITORIAL REVIEW</p><h2>建立查核草稿</h2></div><button id="close-dialog" type="button" aria-label="關閉">關閉</button></div>
+      <p id="review-title" class="small muted"></p>
+      <label>可查證的具體主張<textarea name="claim" required maxlength="1000"></textarea></label>
+      <div class="two-col">
+        <label>發言歸屬<select name="speaker_scope"><option value="unknown">尚不確定</option><option value="candidate">候選人本人</option><option value="team">競選團隊</option><option value="third_party">政黨／第三方</option></select></label>
+        <label>評論方向<select name="direction"><option value="none">無／未確定</option><option value="jiang_to_shen">蔣對沈</option><option value="shen_to_jiang">沈對蔣</option><option value="other">其他</option></select></label>
+      </div>
+      <label>是否屬負面評論<select name="negative"><option value="false">否／尚不編入</option><option value="true">是</option></select></label>
+      <label>暫定判讀<select name="verdict"><option value="unresolved">證據不足</option><option value="supported">有證據支持</option><option value="false">具體主張有誤</option><option value="misleading">欠缺脈絡／具誤導性</option><option value="opinion">屬意見，非直接真假判斷</option></select></label>
+      <label>判讀理由<textarea name="note" required maxlength="2000"></textarea></label>
+      <label>證據網址，每行一個<textarea name="evidence" required></textarea></label>
+      <label>查核者名稱或代號<input name="reviewer" required maxlength="100"></label>
+      <p id="review-error" class="error" role="alert"></p>
+      <p class="tiny muted">下載的是草稿，不會直接發布。請保留反證、完整回應與責任歸屬。</p>
+      <button type="submit" class="primary">下載查核草稿 JSON</button>
+    </form>
+  </dialog>
+</body>
+</html>

@@ -1,1 +1,35 @@
-# taipei-2026-election-monitor-perplexity
+# 臺北選舉證據站
+
+追蹤蔣萬安與沈伯洋的新聞觀測站。新聞自動收錄、人工查核分開維護；本站不推測支持度，也不以關鍵字判定造謠。
+
+## 本機執行
+
+需求：Python 3.10 以上。
+
+```bash
+python -m unittest discover -s tests -v
+python scripts/pipeline.py --local
+python -m http.server 8000 --directory site
+```
+
+開啟 http://localhost:8000/ 。請透過 HTTP 開啟，避免瀏覽器封鎖資料檔讀取。
+
+## GitHub Pages
+
+推送至 `main` 後，GitHub Actions 會測試、蒐集並部署網站。首次設定請到 **Settings → Pages → Build and deployment → Source** 選擇 **GitHub Actions**，再從 **Actions → Evidence tracker → Run workflow** 手動啟動一次。部署網址以 Actions 的 deploy 工作輸出為準。
+
+排程目標每 15 分鐘，網站每 60 秒重新讀取已發布資料；GitHub 排程可能延遲。網頁的重新讀取不會啟動 RSS 蒐集。
+
+原始碼與人工紀錄放在 `main`；累積新聞中繼資料放在 `tracker-data` 分支。若遠端資料無法讀取或格式損壞，蒐集會中止，不會清空資料庫。推送採非強制更新。
+
+## 查核與資料限制
+
+- RSS 查詢使用相同規則追蹤兩人最近 7 天的新聞；首次啟動不保證補齊完整 7 天。
+- 累積中繼資料保留 365 天。來源中斷超過查詢窗口，可能漏掉中斷期間的文章；本專案不保證歷史回補。
+- 人物標記只依標題；RSS 連結去重不等於跨媒體事件去重。
+- 查核 fingerprint 僅涵蓋標題、媒體來源與發布時間。RSS 中繼資料變更時舊查核會失效；若新聞內文改動但 RSS 中繼資料不變，本系統無法偵測。
+- 「建立查核草稿」只下載 JSON，不會自動發布。複核者需附證據與責任歸屬，再將紀錄加入根目錄 `reviews.json` 並提交。
+- 沒有查核資料時顯示「尚無有效複核」，不把它描述成「零件不實」；也不推估支持率或故意抹黑總數。
+- 第三方 RSS 不保證完整或準時；單元測試不等於真實來源或線上部署測試。
+
+背景條目維護在 `profiles.json`，每筆需附證據網址、查核者與日期。公開儲存庫中的查核者名稱、判讀和連結皆公開。不要將 GitHub Token 放入程式或網站。
