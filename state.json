@@ -1,19 +1,19 @@
 {
   "version": 1,
   "status": "ok",
-  "last_attempt_at": "2026-11-09T21:28:30.528039+00:00",
+  "last_attempt_at": "2026-11-10T03:45:43.958863+00:00",
   "retention_days": 365,
   "query_days": 7,
   "feeds": {
     "jiang": {
       "name": "蔣萬安",
       "url": "https://news.google.com/rss/search?q=%22%E8%94%A3%E8%90%AC%E5%AE%89%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-      "status": "ok",
-      "last_attempt_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_success_at": "2026-11-09T21:28:30.528039+00:00",
+      "status": "ok_empty",
+      "last_attempt_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_success_at": "2026-11-10T03:45:43.958863+00:00",
       "last_nonempty_at": "2026-11-09T21:28:30.528039+00:00",
-      "raw_count": 100,
-      "accepted_count": 100,
+      "raw_count": 0,
+      "accepted_count": 0,
       "skipped_count": 0,
       "etag": null,
       "last_modified": null,
@@ -23,9 +23,9 @@
       "name": "沈伯洋",
       "url": "https://news.google.com/rss/search?q=%22%E6%B2%88%E4%BC%AF%E6%B4%8B%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
       "status": "ok",
-      "last_attempt_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_success_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_nonempty_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_attempt_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_success_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_nonempty_at": "2026-11-10T03:45:43.958863+00:00",
       "raw_count": 100,
       "accepted_count": 100,
       "skipped_count": 0,
@@ -35,6 +35,379 @@
     }
   },
   "articles": [
+    {
+      "id": "613b04da84551fb23d6e113c",
+      "title": "沈伯洋、童子瑋「同一個模子刻出來」 張家馨：一個靠血緣、一個靠提拔 拒絕「賴家軍」 把基隆的未來還給基隆人！",
+      "source": "中國國民黨全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbzhuY2x3YU9LME1lZ2VYdlVNMlQ0ajhkWDB0UFl0VmxHTUhmaUtMTnp4VlhJWGtHYmdReld2SFhQVThla3U4aFNhelhOZ25KRFRCZHN5djhDdU5WRmc?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T03:38:35+00:00",
+      "fingerprint": "e765154745943dfe5f03d65ffe65a732975e7fee1cfb87ae9c14d9994e4310bc",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "61f6847b43ec9fe8083dd508",
+      "title": "沈伯洋全英文專訪漏洞百出？港評論人揪用詞、文法錯誤：失了專業又暴露底牌 | 張庭維 | 新聞",
+      "source": "風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6XzRnMkpZOFBwem9qZmExWWFpSG9KcG1laXdvM01DUGoyLW8yWFQ0RzR4Yk5ob2xvWDJQQnQ4djdkZUZSYldTR3lLOXJTQQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T03:08:00+00:00",
+      "fingerprint": "d10ab0c084960cf7901a5c626a229a0afb61ae892ca003773746705dc92b261d",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "9a10e0a7c1215245bfb9760d",
+      "title": "沈伯洋今早沒聲音急取消行程！民進黨：很快會健康出現在大家面前",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPdTQ1VTJiRlpuVlVfd2ZqOGxWSGJ1Y3l3WTRtZ2MzWUxOVnIzU0dqaWxYZ3hFTGk2RUpaYXg1LWFhZkRlLUlGUC16R1JQd01Qc0lYdXJ5aWhfVDRQNkRpN0tteFZ4YjhXelcyOEJXcDFoMG8yWThjWmwwYldFX3IxcHRSYlFFQ0Jta2l1TG5MeXFweWVKdE84ckRZQVFrQ182enRrNk52WVluWjNwXzVtNW1ySnFUdzdST2ExM2VQYjhXZXI3TjdDY2NNLXNNRVU1bk5pSGdIcml1UkJaTE1ZaEh0aTdSYzE1ZFF6bVN4M3hjVk1zV1BnNzgyZ3JNSHZudUhLekFLczZTMEtuNDhILWFvUlBOY3dnUnVZd2pYRW51dVVrZHVZamt3VkJBak1saWp4YllKdWU2TmlQaFZmdTBQaXB2N3RaMm1hWVpaVXdvaU56N1NMU2JNLUlLWG5zVFdFSlVHNHEwOFF6TDQwcXhERlRreEttajVla0l2aUs4ZF9wbFNIY0VoUGp0TVFJNTJrcGl1NUpNTGhFMDhhcDhTaXc1QQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T03:01:28+00:00",
+      "fingerprint": "234dd20166f047933b022b67428ec9ddcf088cfcd68b93cae3c42fa69d2d3f8b",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "196199f5a8b226fe137df09e",
+      "title": "沈伯洋拚選戰操到「燒聲」 莊瑞雄親電確認：聲音沙啞休息一個上午| 政治",
+      "source": "Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SbnhqS1RVZ0JSLVc0dXExNGtQYzA5VVVIOS04MFJ1UEtPaFRLdmdFemFfY2ZKdjFwTVdPbi10RHZYekl1R3p5T1pTZ1YteGE4RkpiSUM2dG16b2M?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T02:57:18+00:00",
+      "fingerprint": "14a9ccbbceac173da246a3f9de2b1bdf26ec6d1748d479ae9d2777b914760f46",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "c4c109c3b430f4273eae8685",
+      "title": "選前是否再與沈伯洋共同造勢何欣純：雙方保持聯繫仍規劃中| 2026九合一選舉",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qWk51TTdDWUhUMlkxOV83NWdLd1hxejhxcEpsRzlpdXNkbTROSmFzSWJjZXZBbjcyQVBPNENNVldTeHdneHMzbzdnWGlKUElySzB6YzN6aHc?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T02:52:18+00:00",
+      "fingerprint": "7d3273283ba07f270f1a07fcd7fc9b6aa30306973d5a37d7af2936b234d7690b",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "ec8a32762102b568e79f70c0",
+      "title": "【沈伯洋抽中「死神牌」全場驚叫！ 親揭真實含義「雖然我很少抽到」】 （#大表哥）",
+      "source": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPYXF4UTI4RU9ySmhPSXdoWVVabUJpbVF4OTlXQlN0dUJuMkhLUVEyUXNOTHM0a0NVdmVROXpoX0tnaVQwWm5TSlpqd05PZ1lzZ1Nia1ZTTG9jVUJ5WkxGWFprM0JyQkl2X25MYmwxVGFFUlJzaWhlR1VzeEhJQjlfdmpxSFprdVVwZzdXcFVJbS0xS2lGeGpqS192TlNxeXM0d09NNGo2ZENOdFpEVGoyVUttU2tGNEhTeUJvcnVqN181YWpGZ1YtM1dPOV9tdmd1NFpSX3VfVmVFelR6NkJ1V0FwbmplTnlwejI0aDZGcXMtR2JsUU96bkFRcGFaTDhrZXY4Q005ODhrSGxlZTg0VV9wc2RiaFFDQnJqUkpiSkRwSjVONzJIMnQ5ZnRtQjFITHRQcnpxY2tDM1dxdWNrZ2ZNTnA2TkNHNUhieUZ4Z2diUjd2a1R0ZHFnVGlKNUY1bEoxaVR4NTd1THMwQksxdFBmMlAxWjlFa1EwY2RCc0dTcVh5U1BuakV4NWpUMjBQMmRSZXVmWjVxbG1LdDV3b29XeVkxVmd1a3ZBTHpUNEliNG5MUlFyMmdn?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T02:46:32+00:00",
+      "fingerprint": "a5da80ca102f91f5007002a854d2166cf906c380e7c38a733b5af5a0dd1c5ffe",
+      "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": [
+        {
+          "title": "【沈伯洋抽中「死神牌」全場驚叫！ 親揭真實含義「雖然我很少抽到」】 （#大表哥）",
+          "fingerprint": "19213b3b75bd3f7f815907a9b8da331b9d33a833a3bb57b80c1b0a79115bb2aa",
+          "replaced_at": "2026-11-10T03:45:43.958863+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2d52f2bcfdbefd1eace5339b",
+      "title": "沈伯洋稱「好Light」遭藍委誤聽「好爛」？綠黨團：是聽力有問題？",
+      "source": "震傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EdzNhckdPeExGWlBZRnp2QmJzQmVTQzZ0Y3I5YktuSjZHV3plOXlHUnp3cDZPY2wxTVBkdzBoWUxUMjA5ZDdxZ2RFNU5XOENBT1RfVHk0cmN6ZlE?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T02:25:35+00:00",
+      "fingerprint": "cf22f439225247bb7a5cac494690e56642f773eab0b7bef44464ac2acd8ecae0",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "dc090ece2b070a950e008456",
+      "title": "搶攻青年選票！沈伯洋拋文化幣加碼政策 13到30歲每年可領1200點",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwbXJ3TnNPNld4S0hJTkJqeS1ZU3JBbHNSZk9BV0MtQnpkeVhBeTFabmFwcnZ3a0hfRGJZRlZ4cVpmSk5TNHotMTFLZWdhNWt0aVFZ0gFYQVVfeXFMT0syLUhVOWVFOFF0UFZiczhMbVNfZDZnUmNicVh6bDlKLVR1X2VPbVUzUjBUbWY2OE1VSV9VeWxnVkZoTmRQYVJSZkRKeFV0bnZRVkpucm4teQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T02:12:48+00:00",
+      "fingerprint": "782cbc93a6a4ff8093817037df927d791d7a438456d1b0d731f791b28865023e",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "d665f74950bca84828628de9",
+      "title": "最新網路民調炸裂！「沈伯洋、蔣萬安」驚人差距曝光",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdEQ3VEhwek05YTdqRllrYnl0ZnpKSS1uNGNTWFBFYk5yQlVLV3BnYWVqNWFZODUwQXI0NmQyc3JGajFDbkFBZENCWUZ0MURrVDRFc3Q1MEZidlNGMjl5Y3RuTG5FLXA2ZDRpZldlYVRqb2RibWFybHotY3gtWDRGbi1MTjhTTVpMLXRxLWdsNUZQbUFfNFdJQlVwaTdUYjVUT2dnaTRUakZtTV9rR3BNX0FIQkR3cGdTb0duNDBnU1lFdzZhZlg4dEo4Q2dxTEJZU2dja2lHbTdHQVgtV0NiMUxHTzgwSi1HS0dtc29TMFhuMFhyS2x5YWNPS0JHbDFQdlk5Slk5dUlJb2IzQ1A4MGFoclRkTDRwMGlSYlJUTlFrTjFoak8tV2JXZXlsZkpFeldNWmNCWkRWS0hxZy1Pd0o4Z0N2OE0?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-10T02:11:33+00:00",
+      "fingerprint": "c995d511c60c6388adb4e1aab498206ddf5d4c7fb55e10006e325802327718c8",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "d862301b8520c5e1381708ff",
+      "title": "力挺沈伯洋！台大教授點名「4政策」：台北需要有遠見學者帶領",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuam9WTDZjYUdsaWlBNjhMU2dBLWN6dFdoV2REa2stQTFxalptbFhtVkl6Uy1ZcUxvMTlRWGh3TmFpVlNDZFllX0YtWE4yQ091aC04b2JJTGpxUUJDNTd6b0xoT2hCeFFrN1HSAW9BVV95cUxPQXMxdEhvS3RMWEZxQUcyU2dKUGJXV3VvM1NBbFBtZVRkR3VUTTNGVnM5THVXdWNncjZuMTViVVFfcGFzOUpUN3Z1X0YwUnFqUXpyZF80MWxZVUtZS2R3UEMyYVV3TmdZM2lFUWVIRzQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T02:06:32+00:00",
+      "fingerprint": "92a2c31eb136f7c68e427e8ef4e65552075dfd6d9e79354833cf550caa0604e1",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "6c446d62e0cc2caeba72f270",
+      "title": "羅智強列造謠遭推翻事件 建議沈伯洋舉辦「洋流翻車魚金Light獎」",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqbmJiQi1XSTBSV0VFczhsYWFvYVpyRE1BUEFUZkRjemJPODlITDB3c3R4ZmJCdnhpUzVkVjdzeVpLaWxwWHBSUVBLX093TnBCa0FBR2M3TVY?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T01:52:12+00:00",
+      "fingerprint": "e58b717533e8804b7444fd366fbe630be4ea9b57ccb2d8728768cf4e2c020437",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "1fe8f22750b19e4dff3b9222",
+      "title": "命理專家握沈伯洋手！感應到「1能量」滿出來",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPc19tY2pXN1p1aHZmY0xkQ3BJNWFoZWw5dzY3NGxBQXVDNEJDdGVmemZISmxEUmxXN0Q0SHQ1NjQ1UzhWY2Z4ejJ2N3FOUlZ5MU93MG92Qjh4YTlqZXpCUEhIclFSNEJmTURSWndNcDBaX3Y3R2pSdHNTbW56eUs1VURmcEpYd3lYenZHZnpNR2htaHlDOGFIU0RucC1NRDU3UVIzeC1VMUxJMlB2Ti1aWXNrMEotbkxuSFpvRjB3UEVYOXVfZlZhYk85QTRqeWpxQ3ZUZW1mVzRiOTJDZFBKR1RHcmVMNDVxMWRncGxnTzZzZHhxZXN4X3BIcHl1RjlSZmpiMFdfWWI4Mm9MNEg4d1RHeTc3S2xDb2Itc3BqU1MxN2Vk?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T01:49:47+00:00",
+      "fingerprint": "ded16f2bfc0683c3e5a78b1a48ec186af487617f4785cc283e45ec8b5ee062e8",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "b8961528a2717e2295bc6d18",
+      "title": "【被點名當沈伯洋最後車掃嘉賓！ 賈永婕回應了】 超人氣的賈董～ （#01J）",
+      "source": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQLWh0OUh0V1pibDhGNG8wUGRUeHREaUtrWDR6Z09MRkltcXM3aHFOMHN3bEhOM0xoOTQyTkxPX1kxUFJnbXJ6NUZEa3NDVE5RUXJNaUpfX2xweW13a3lKNGFVSlhSN0xzYUZvSVdjSUE4MWxHczFfZkY3SU01c2ZuT1hDeUxDcmkxZ09RVFotWjdJakdFWWlUVzB0em5aSXJaYXhTMWxwUnZHUWppODYxWTA2R1U3WWxaTGZOQU9fdnlNc1dfWWJMeGE1Q1VQaFE4dFh1cDZVYTFOYzBEdHFXYlM0aWJzR3JJeEtOc214YXJwRTdiU1lnLXFLNloySDBTdWtUVDhucFJPNE96QnpWdVdMQkhRbDVZV2w4ckxIVUFTLS1icTUxcGowTjVXZl9VTlhJSjVfX1NIanU2eERPclBsLUEwV0RxNHcyVmRQSFFUbDZha3dCX0NNeFJrSlA4Y2EtQUpCM2FZSmxVQVlEeG81Tk1mdHhqUnpPLThkeDZJSTdwLUZ1UUZTXzBYQmFuYmJPRDlVQ055d2M?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T01:48:00+00:00",
+      "fingerprint": "707820786811a9a252269ebd7af09e703d209df9b173ee3ae6a0033dbaadffb1",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "6ef0d709b427a67d0a53111a",
+      "title": "沈伯洋最後車掃嘉賓是誰？網點名賈永婕本人笑回：我怕我搶風頭- 政治",
+      "source": "華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JZXVpbmVVRWpxX1FQV2lXUWl5ZUYtTVFJWDBGTlcwbmhkOHBIWlFNd1ctZkc5T1VQOUNrMVNhRHpPUEYyRUF3OWhXT1RtbV9VZzBlNlJJbFplOTlpb1BiTjJRdUpFNXlpOUZsMmdEdnNCQQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T01:45:00+00:00",
+      "fingerprint": "a8de0d009c6651098e3e9143272f3c6fabdd440acbf70238754f5012304f2f19",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "fbdca82597b878caa929585f",
+      "title": "「好Light」還有續集！羅智強諷沈伯洋應辦「金Light獎」包辦13項",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zWkdDNDJvcVpBdkxraVUzbEhQUU1XdkdIUXpOSndZdzdod3hZR2d2NmQ5Z2hONHBjN25NMW9SRHZvZVZZNWpmSFUtNlJYaXFPVkxkOWM2RF9QWmVzVk5JZXpnQ3A5bV9HZHfSAW9BVV95cUxNZlQwd216cDd6MTMyT0Zod21LeVZscktlc2NyR2F2R3h4dllodjY3SXVORE5JRmJqSmR6M29NRDg4NVN6Z2xIRjhNMTRLYTExR0Yza1RXc1N6a1gxSzU4SHNuUHk1ZzJHY2NueWdQRFk?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T01:33:14+00:00",
+      "fingerprint": "7ecca5bde51c01a34821f6e93d822c67fec98943c8aca7a0bae0b7175adb9f37",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "60e26e8992dacbce87ab2e2c",
+      "title": "蔣萬安沈伯洋藍綠對決 首都之戰拚發展",
+      "source": "中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56RVJVRFh5NERjelVrMk5jWjN5eWM0SDhSZnlGZlJJN1V2aUxGMS00dnZMSTZ0YktOb1N4Y1pYQjBnZzkweGFPaW1PcGVsWjRVWTNF?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-10T01:33:00+00:00",
+      "fingerprint": "09b46fccd908d8a8e2b61f3e5aaebc7f6077273af2e3554872cf286d890c1def",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "f9fb3cb0adf002d7cb4c656f",
+      "title": "沈伯洋為選情抽牌！「抽中死神牌」全場驚呼 親解卡牌真實意義",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPX3RyVzRVbkdUZjJlTk41RmhQNjZHRmJNeV9rSmJQUmRQdFlrRjQ3dWxCamk4OFplZGdsWmxBNHdzSFI4RTJ4ZGxMa29md2djS2hHQUhxVzFNVnppWUkwVjJpdi15R19EUTBmeWVHbGdkZXJTMTFxRUhFeXNzQ01keGpmcHhCVm85aU83QXphdGE5dVJPNUFQRlBWLWxja3VxamdYeHhfYmFxVmVYM2FCckZtZTRWWHotbnk5THN1dUp0alRXNFJTMlQ4UXlPWDZ5cm9jNkE4TU1vYXVUamg0dWpYT3BURFRtSFNJTklxVjFUbEc5ajBPTUFndXlFSGJaODRvaU9PUEpMTEtiVE1zX2Nzd0xYWmQ2R0dFelQ2dEJ2MVJzd2hSSWVfbEhGVVJrVDBNQVZxa2VUWnhLWnk0VUJGR2hpTzRaUndzdDdjRVZvRnhkcm9wSU9sT2RsZWl2S1NKRVdlMkR1eE9xbGJRbjhjUndGN0dvX21KQ29DZGtPdTQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T01:21:06+00:00",
+      "fingerprint": "b1f0a677a2560f1a2372277f0bbc43f5efe4bd883d4116b8ebbdd5c37aa53f87",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "67ead2d03e35d6d7107c8a01",
+      "title": "王美惠周日大造勢蔡英文站台、沈伯洋視訊張啓楷帶志工大隊陸戰| 縣市長議員選戰| 要聞",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02STBwSTFfejNMcFhTdHNJYlc0VkNDd212T05nRnlCM2VvM0dMRDk2Z2VzMkM2dTQtSkZSWF9Rd2RtWFl6Q3FBOGpob0ZhSXFPbkhz?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T00:51:53+00:00",
+      "fingerprint": "b5bcfd105ac43226150b490a5e90c0d551e7e3fe0fbe3d35a69af7389a69e05b",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "1e842a6f6d4cf8bfb0392346",
+      "title": "記者編輯部| 【王崑義專欄】沈伯洋抽中死神牌政治轉型還是選戰終章？",
+      "source": "梅花新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1a3lqNVJId21zeFhQZEQ5dkpxc2s5eDVQZ1B3YTNvbFJtRkdjS1RWWjRmNFpGVUEzYmZvbm9hTEQ1VWVyQktwNHlEWUxPeTNsOEtvajB6blg?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T00:50:00+00:00",
+      "fingerprint": "d5b47555828a85049f5aaee013caabf9597347359f71b7b3822ad60f23a45773",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "9e237075f19f36d95b3173ba",
+      "title": "徐巧芯控嫌「問題很爛」！真相曝光 他笑：證明沈伯洋沒什麼可打了",
+      "source": "三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFZy0tcndKa0pFNkhqMG1vQ0V6OEdQUmN4TjA4NmNJcnFhLWs3TzBPb3huVWVTYWFiTlJneHZpRWl4eFc5RUsyVNIBTEFVX3lxTFAwWi00aXp3X21vSVVrUzBFbGJpSGxPR0pnUjhvclBJY1FBNFd0R3lDa0RTM3p1ZkRKOEg4azFzVU51YTNfM1BiVHpxc3M?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T00:42:00+00:00",
+      "fingerprint": "b11edf38577b92f265a4fc8559bbcbaa4ff78a8583195bd94d5c0224c18f6808",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "352c1edc85338bca614bdb65",
+      "title": "沈伯洋與愛莉莎莎同台引熱議 何孟樺：搶先堵住蔣萬安去路",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUmdMb0liM0FVb00xTmJKVVY3eEtpbk1kZ2pRQzZ1dzZHRHhrSWl0N2NfVjZZMHNDNUEzTTl0d3A0VENWSHV0MDBPa3RubFJKZ3ZmM2R3dFVaN1N5RDQ5RDlHMnlNa2NNT1HSAW9BVV95cUxOVzN3Z1pqOGh0QXFscUNiWHo0TExNcDlVZmU3N2ZXOTZ2MVdXY1pSYklydjEwWjFGMHBaRzBXNnV4SndWU041OVRKTkJjSjhyMHRQQ1ZLeXI2QW5xUVMtbUJGVHdTRUFIdTR3blNHbU0?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-10T00:31:33+00:00",
+      "fingerprint": "3d68d74be4db50dd406b09508f68df9492f34fc3d90199309f7cb28db2db29b0",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "329a7b1c31c61092c58ae76f",
+      "title": "沈伯洋最後車掃嘉賓是誰？網狂點名賈永婕 本人親回應這樣說",
+      "source": "鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ST0dNSFozaDk0cWRhc2pCWlVPNFN6bk5yWFdlM3VXYlY2TFYwZ3l0Y3dDUWwwTzkxdnVlSTU0d3ZYbTU3MzE2MG84X01KdlZ5WnR1Wm8wcEZNOXPSAWBBVV95cUxONkVuUlBtNl94V2dVeTdYMlhPdTh2U3Z6MHZvNmQ0bl9wU25jUHJfcVhycWJPSUg2bFFZQWdKODFnY1BDeGdWMm11RnRGZUVnYjZZUm0zNE5RWVY0V1ZVcmQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T22:54:00+00:00",
+      "fingerprint": "2aab3923d86a15cd81c3d3bcc416e932fd83fff5a0524e42e17262303c23f461",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "20f6023a293dfde220e8b96b",
+      "title": "找回自己的名字2／沈伯洋初步入選舉蘇巧慧熱心帶入門 她備戰800天謹慎求完美",
+      "source": "鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mQVRuakVEb2paUGNGOUlyaklteFVaVjVrUWhUYUpJM3dTT2lfYmJ0UnZTTFJxYVhNNzRJdHdId3M5Ymlka2haN0FxaE44ZnNZZDlxU2lkeVpteFHSAWBBVV95cUxPdTJGMGx4QmJWVGNDSUVjQm9fTndIWUtvLV9icUkyS1hMN0s4Y1ktWU83dWxGbXAwUTdkNkxwcTktazRNM2RrNU1aanBLZGswbGxnRGU4dzB1d0dKWlhzZGo?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T22:28:58+00:00",
+      "fingerprint": "ed34e40fef28f512b35b4084c42bcc7b2fad7fa066c6bbec9c2f50b586467b15",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "cfea7d788ddd1b7cf4e99ba1",
+      "title": "徐巧芯聽錯「問題好爛」翻車！釣出沈伯洋親回12字 4萬網朝聖讚爆",
+      "source": "三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JSXFBRzVyRGprdUgxQ3ZmbzA5Z05LTFo1TmN0RE9ibEo5QUYzeXRSeHNnNDVLU1U4TkszS05XRlpNcUNmbE16M9IBTEFVX3lxTFA0cWxNVC1GYU9Jalh6c0FvOVliaHlFamtwS1pXd3VRcTNrU3NFc1hSRnhydUFPMTdEZjlNOVh2dk1XWlA2ODk1WmdjbG8?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T21:37:00+00:00",
+      "fingerprint": "2a27ac2a73ed5e4e5534f58202f929f37796a7e1ec468089eeab84b086e0c671",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "664561583a5375a14f710998",
+      "title": "又有大咖被圈粉！他列「沈伯洋4人格特質」表態挺 吸萬人同意讚爆",
+      "source": "三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kNi0zT0p2NkJxV0kwZGpFRDlaWjUzd09KR0hvLTEyT1RCY0JXTW1iODQ2NjI4eTl6NmR3UWt2YXlqa3J5RGJaUtIBTEFVX3lxTE1uODNKZF9SeXN5bkpLLVRFR2o2YjhDd1FiSTJKQndjSzlVSFlkWGFjZVlNSjRUekpCRzdRVkYwNTZibDVZXy1BeU1JWUg?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T21:34:00+00:00",
+      "fingerprint": "ed45b07a6b726059e1b7df78aeb255f3c216aedec26e2790ea373df52f34d7de",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "68e1f23182702a1db95c0356",
+      "title": "沈伯洋主張文化幣延伸至30歲",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82WVo5LW80NGFXNkJINUJDUVhKSzRNSmZOZTNVRlYtRU9GTWxLS3liWVNvVHJpUldVVWVSMzBSY2dMS1pYX01oeEhMSDhHTlNFQ2ZhUzF0OWZNaXhXa2hZdNIBZkFVX3lxTE4zSndYSmQteXF4ZnpONUFyMGkyNldLcFA3aGs2UVFLUGJJbXZsLTkwMUU4U0kySUd0aDl3eWl3Y3YwOXFFY3lfeDJOdl94ZHE5dDlMT0VlaW5DV2ZJMlQ2RndGemZadw?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T21:30:00+00:00",
+      "fingerprint": "99879a704eeb37ef7b949d53cd20505b72626dfa61549322a083877bf7437b56",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
     {
       "id": "e3f764bb7c13b0101873a78b",
       "title": "【蔣萬安首發「安心貼」破千支持者擠爆大安站 激喊：讓32：0再現】 （#大表哥）",
@@ -60,7 +433,7 @@
       "published_at": "2026-11-09T17:12:50+00:00",
       "fingerprint": "3b326c12b060dba8099b83e9e717177f15d813281b7f994dab6ea34c7e977590",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -120,17 +493,18 @@
       "history": []
     },
     {
-      "id": "ec8a32762102b568e79f70c0",
-      "title": "【沈伯洋抽中「死神牌」全場驚叫！ 親揭真實含義「雖然我很少抽到」】 （#大表哥）",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPYXF4UTI4RU9ySmhPSXdoWVVabUJpbVF4OTlXQlN0dUJuMkhLUVEyUXNOTHM0a0NVdmVROXpoX0tnaVQwWm5TSlpqd05PZ1lzZ1Nia1ZTTG9jVUJ5WkxGWFprM0JyQkl2X25MYmwxVGFFUlJzaWhlR1VzeEhJQjlfdmpxSFprdVVwZzdXcFVJbS0xS2lGeGpqS192TlNxeXM0d09NNGo2ZENOdFpEVGoyVUttU2tGNEhTeUJvcnVqN181YWpGZ1YtM1dPOV9tdmd1NFpSX3VfVmVFelR6NkJ1V0FwbmplTnlwejI0aDZGcXMtR2JsUU96bkFRcGFaTDhrZXY4Q005ODhrSGxlZTg0VV9wc2RiaFFDQnJqUkpiSkRwSjVONzJIMnQ5ZnRtQjFITHRQcnpxY2tDM1dxdWNrZ2ZNTnA2TkNHNUhieUZ4Z2diUjd2a1R0ZHFnVGlKNUY1bEoxaVR4NTd1THMwQksxdFBmMlAxWjlFa1EwY2RCc0dTcVh5U1BuakV4NWpUMjBQMmRSZXVmWjVxbG1LdDV3b29XeVkxVmd1a3ZBTHpUNEliNG5MUlFyMmdn?oc=5",
+      "id": "c46116ced5e1982c666ddf8a",
+      "title": "與沈伯洋相談甚歡！艾莉莎莎：想邀蔣萬安但沒理我 | 太報",
+      "source": "LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYRG5oOG4wWlNNVkVPMFZwVXVhamtYSDVZb3N6MEFXUXJtRFVzWEM5RmVFeEpMU01wd3hvc09taURSSjNZYVgzSUM2ZW9YdDZZdDBHb3FR?oc=5",
       "people": [
+        "jiang",
         "shen"
       ],
-      "published_at": "2026-11-09T15:12:01+00:00",
-      "fingerprint": "19213b3b75bd3f7f815907a9b8da331b9d33a833a3bb57b80c1b0a79115bb2aa",
-      "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "published_at": "2026-11-09T15:14:02+00:00",
+      "fingerprint": "bce1d63284b52c7b0cfea39f55844824be2ef789a0244a085a5e661bfa5c5de6",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -144,7 +518,7 @@
       "published_at": "2026-11-09T15:12:00+00:00",
       "fingerprint": "fb4c86e6a914264c624c53751a708de8203e4b9530c81dc075575994149a4418",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -202,7 +576,7 @@
       "published_at": "2026-11-09T14:15:00+00:00",
       "fingerprint": "4864331d2f839ce224e619ce76966ce1094f94bd0215229ce85b04413ed167f8",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -244,7 +618,7 @@
       "published_at": "2026-11-09T13:35:16+00:00",
       "fingerprint": "e2b6c532acd51bfec9e40b1b63d33e3b506b32ec687f264eefde9085544d151c",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -258,7 +632,22 @@
       "published_at": "2026-11-09T13:29:00+00:00",
       "fingerprint": "2749cfb8003813bf866b5030729d4346aa8d37a5fe38f1bb24c63d48d3541545",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "a76f799b7fd56c2946c2f828",
+      "title": "沈伯洋為何接受愛莉莎莎訪談？ 綠議員：一著先手堵住蔣萬安去路",
+      "source": "壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWi1mNGc1Z1JiYjZkY2hOQUlXeVE4NmIyczVicnRLam9pb0Z4SGUyTWlIVkVMMlp3LWZLcEo0WGt2eGp3MDZ0Szdzdld2Mk1wLXpvQVp2YW1xZ2prcHJfTkctM0F0NnRGQ1ZmcTM5UDBvYmdtNk45VmRiNXgzRHR0c0VEMA?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-09T13:18:00+00:00",
+      "fingerprint": "3326e0760fd51d4c7776b46ed963f16d40ddd82035a39963facb6443829d890e",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -344,7 +733,7 @@
       "published_at": "2026-11-09T12:19:20+00:00",
       "fingerprint": "014146cf023faa95f85bf464e80b0396d8d5d1af0b11a29e3b832bdb752ec917",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -373,7 +762,21 @@
       "published_at": "2026-11-09T11:59:00+00:00",
       "fingerprint": "78d7084bb9cd37688ea70ba61f42d0bff5209cd5c21986f420f9115bf5d91b56",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "32fb374ab8595c61bdd386c1",
+      "title": "沈伯洋寫「律師高考榜首」實為371名網轟：踐踏陳俊翰- 政治",
+      "source": "中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qaWR2SkxmZm9uUGpkcFFQQi1WTFJwcWFnUDFCLXNCcV94X2d2V2xpdVFNYlp4Sy1HYmxmdW9OeTdvNERiUmJrbnFzM1lmanBqUzdFdHE0dlp5b1ZZSDJ1MEdlWkhoVEpxb1ktcEZB?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T11:58:38+00:00",
+      "fingerprint": "758335f179531c9babf72fc1ab73315a58821ae20eb53e98f88c64db76f8059a",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -463,6 +866,20 @@
       "history": []
     },
     {
+      "id": "c2e9ac53a9c8cbbf4c8da956",
+      "title": "說問題「好light」徐巧芯聽成「好爛」！沈伯洋笑回：氣氛和樂怎麼會說爛",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOcU9aWk9uUFVoN2M5aHhiRjZ2Y0lQeFlUMmE1ekd5QzF1d3BhSUo4b25LZl9wV2p6aUpFb0s1dFJDMDZUZThNdHYyXzRmVm1haVQ0OWRLeElnSnBoVEtQdmR2VTRoRHBCdDZ4elRTM1BBVENxdTFUMFI0aDRrOGJsVUJmejhVMnBUNzdqYWhWNUJxVjdfNVBFM1Aybzk2c0pwZnphTzNRNUVHQWh6ME5KQU40ejdRaXg2WTFHalJDWm05TzdtWDhYa29CLThMU2VyQzJYcmVxOXctZVduQ012eDZ4TzRiekl3TE5Xc2FSOHR2TkNTVW1VMHhra3h0d0NPcGpjNmJ0S2ZtamI1cV94emJjRnJPeG9fVUFVRzl1MA?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T11:27:31+00:00",
+      "fingerprint": "6150d134a188241e0356628cc9b4727b47893fc6149fd8f58943aec6b9eac2f0",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
       "id": "8d56dc0e936d701e612bcdd5",
       "title": "貪吃蛇再現！蔣萬安今晚發愛心貼紙人潮爆多 親曝設計構想好暖心",
       "source": "UDN",
@@ -474,6 +891,20 @@
       "fingerprint": "e9360baa69cf150a0d3a7fb0a5d353d2aef89bc1f52c148f948af955dbc0904a",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
       "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "history": []
+    },
+    {
+      "id": "f4b6710dfc5da20f3e5fefef",
+      "title": "沈伯洋要辦洋流祭！應援毛巾限量8000條",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQaVZJUHZCRDB4NGhYSy1jLW5QdGdaOUdWSzhjamtVRGx6cEc0RUpOSnNxTElSRUpFejVCdHZFS3JNUWNpYUptY0hRVHZ0emVkZUM2MGFlRVlwY1g1RldFNVFjMlVHZW5lczFnUTVDcWlPVTh0OWdObDBMQmpueXpJUlFhV2FtRUNQTFR3Q0V6LW1HWUpKYnZ5YmcycUp4Q2s0Mm5IVnMtT0JUYnBlMWNZZEpQWG1oV2FwcmNnSFFRMHJpd0lkVHpkbEtyVU9wUjJNQ1lRMFU0OE43dHppVzhlYkJvQkFCSTFwMl9QdldUa0FFUkw3MzhpT1FHSk5RaGhBR2hjbDJNcHVUYmIyQVE?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T11:24:38+00:00",
+      "fingerprint": "c6a56cf2bb2a92b0f61a774babd3bf62be15173c521bc21a6e4101c5dd022073",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -672,6 +1103,20 @@
       "history": []
     },
     {
+      "id": "e4441910b2c0a749ee454e7e",
+      "title": "「洋流祭」有創意！沈伯洋把政策島搬進228公園 邊聽團邊闖關",
+      "source": "放言Fount Media",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02M0ZEWnBrTVctTnhQeWNEVEZRNF9ZYU1sZ3lveXFiMjJqY0ZYNUZOYmZpUkV4cVpGX254MnoxWDZZU3lIMldjaFh5RW5HbEEwWWc?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T09:38:27+00:00",
+      "fingerprint": "ca0ac978271559b3ca95653dd351bb8ce103a4e024fa6e47943cd3c08eeafec7",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
       "id": "f184754a1eb4c059fba413a3",
       "title": "沈伯洋新政見「加碼發錢」 上萬人讚：最好快點當選",
       "source": "三立新聞",
@@ -682,7 +1127,7 @@
       "published_at": "2026-11-09T09:33:00+00:00",
       "fingerprint": "94d67530cf008a364648c964e8d758bc1acf7e5cc8a4e502034fc921fe05a400",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -752,7 +1197,7 @@
       "published_at": "2026-11-09T09:04:00+00:00",
       "fingerprint": "64e06edc8ae7996f46574d48a907899255f8ab336e472dd8d817b9fb3fab64a0",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -780,7 +1225,7 @@
       "published_at": "2026-11-09T08:59:16+00:00",
       "fingerprint": "327347d01c1d0035ae422684602609360c23f2ca1fbe5b666f04cd848db9b479",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T11:17:22.916674+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -794,7 +1239,7 @@
       "published_at": "2026-11-09T08:39:00+00:00",
       "fingerprint": "3e16e17344c5a2fb5331ba9e22c943e93072bb54470de2375bf73a6f0bc105ab",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -840,6 +1285,20 @@
       "history": []
     },
     {
+      "id": "1a85637ea5b507d5e0c54145",
+      "title": "連勝文坦言國民黨低估沈伯洋 指「黑熊」操兵搞「聖戰」",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RUnVjc2I0cWtUZFhqX3pKbE56STN6bmh5a19oMm5oYlhqdng2S29KeWd3UTlIVHBCOGI5YWl4a1RYajB4RWhlWDNmVldJZ3hQbDJ30gFYQVVfeXFMT2J1Y3lYV3Qxa3c4VkcxNEdWc2ZiZ3l5OVhWb3BBUXI3NE55U2pRUjVEeHFlQUhzQ212SzZJbXNza1cwdURRanplSTFRZUJOSUtqR3piUVE2Mg?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T08:20:02+00:00",
+      "fingerprint": "b105debfe7a1eb9d89f8c543cb0d5fabc03fa0bfe963c618881ccf026489bbac",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
       "id": "9130676e47058b8af5112271",
       "title": "沈伯洋再破圈！合體「小草女神」愛莉莎莎聊市政 網友看法兩極",
       "source": "三立新聞",
@@ -850,7 +1309,7 @@
       "published_at": "2026-11-09T08:04:00+00:00",
       "fingerprint": "3e66c28db32e2a5583e31ca6d022e83a42672c62515fe32a3bbb39d15347b535",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -898,7 +1357,7 @@
       "published_at": "2026-11-09T08:00:00+00:00",
       "fingerprint": "8db8cbfa5d241d8dd9a31dc0d39fedaf4e4e7f64066f356879e3e79b6554ecb2",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "沈伯洋專訪》動漫宅變首都市長挑戰者 從都更到AI，他的台北願景是什麼？",
@@ -933,6 +1392,20 @@
       "fingerprint": "6f044e4b2962ce0dd24650e7840f4990d7c89da92666a6cc71a41f98785d7390",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
       "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "history": []
+    },
+    {
+      "id": "6da79f42e9a3e59d3aebc351",
+      "title": "登「柯粉」愛莉莎莎頻道暢聊市政 沈伯洋曬合照：好的政策當然會延續",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhSktMOTM5UHE2eS1OMWZqdFlxQmZzTjdIdlJBRENwOFFtczFjUVBpVXRMWGRXbENjWTZNdFpLNmItMk9LeGs0bWFtcnJQRmRkc2RMamlZSEZRR2ZhSThjdWd3ZmJkSmJ2ZnfSAW9BVV95cUxQQ3FreFlsZG5GTFdvbE1zcDFRdl9vRmNPR0lEVlMyblQxUnRfOEVDOGZHdGdaRDdFVm9kU2ZJSnRENmxLR2ZGYVJiNFNDTWsyYlB4emU5ZkI1VWVxRUFwdnM4OXZFaWw3MHJjelpiZ0U?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T07:57:28+00:00",
+      "fingerprint": "a98534f91ef90ca617c9a649738c72c6ed5c415e37e9c0c5c943bae96f6c7b66",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1073,7 +1546,7 @@
       "published_at": "2026-11-09T06:49:35+00:00",
       "fingerprint": "ff7964e8bcedcb4844b0ac6c6742a76dbb07cb1473b58de1caaed5b4dff1a4f1",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1087,7 +1560,7 @@
       "published_at": "2026-11-09T06:47:08+00:00",
       "fingerprint": "c27a9828afff4640ba5d8e21359cfdd258d24ac5a71993db022b3b2275098e88",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1288,7 +1761,7 @@
       "published_at": "2026-11-09T06:03:07+00:00",
       "fingerprint": "b44ad2155c4cc4955ec8ae4d054cb3696842bf29a0a83d7724f8a914804d4682",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1302,7 +1775,7 @@
       "published_at": "2026-11-09T05:49:00+00:00",
       "fingerprint": "5a361e3a18bbc7c92a1aacd4ec96d28af16f88c4cc2b505fa89621345ecda87e",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "又翻車！徐巧芯控他罵媒體問題好爛 沈伯洋笑回：我是說問題好light",
@@ -1322,7 +1795,7 @@
       "published_at": "2026-11-09T05:48:48+00:00",
       "fingerprint": "f22fb89c85bbe83b1540566c740f3adbaf027f8ba232f088f1435f0eadca2d1b",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1464,7 +1937,7 @@
       "published_at": "2026-11-09T05:22:56+00:00",
       "fingerprint": "470f4b828a2693781c46d23633231721131527ad01744510fd01d804e94f2e02",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1506,7 +1979,7 @@
       "published_at": "2026-11-09T05:13:59+00:00",
       "fingerprint": "ddccb9ef2c42081143a2c923eaaf1879feb13ace99dd0d8e755777c65a46076a",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1592,7 +2065,7 @@
       "published_at": "2026-11-09T05:01:00+00:00",
       "fingerprint": "dc65904069e6b25812b494519a90a5b5b19eeb3b95a038c7bc1db0e984943b87",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1642,16 +2115,22 @@
     {
       "id": "cad0659124470aa654e17cb9",
       "title": "聽錯了？！徐巧芯指控稱「問題好爛」 沈伯洋酸：心中有什麼就聽到什麼",
-      "source": "三立新聞網SETN.com",
+      "source": "三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UzJJY21wVFVTSWJHX1RoZ1ZyLXVUcmhralFaMW45RGNzOWpXaTJ4Y0dCek4wLXByNUZWYUFQbzU4c0tETTRvcdIBTEFVX3lxTE1wZ2MyOWd3T2NTR0labW9INVo0TWtOdHcwZ3F2RnBmcVN5Y09DRkZ1Z2QzdkVCWGJPNEtuQVd0WC1VRGNLbDRrNThZQUc?oc=5",
       "people": [
         "shen"
       ],
       "published_at": "2026-11-09T04:43:00+00:00",
-      "fingerprint": "48263aecc78d7f7588125751aba883fdca03fbcc7aff35252880cf98062975ee",
+      "fingerprint": "00980cd31a213ef96764cc715639115317de6b9588bf6f433f00744219881a93",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "history": []
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": [
+        {
+          "title": "聽錯了？！徐巧芯指控稱「問題好爛」 沈伯洋酸：心中有什麼就聽到什麼",
+          "fingerprint": "48263aecc78d7f7588125751aba883fdca03fbcc7aff35252880cf98062975ee",
+          "replaced_at": "2026-11-10T03:45:43.958863+00:00"
+        }
+      ]
     },
     {
       "id": "922e584f0f5cf107400c537d",
@@ -1679,6 +2158,35 @@
       "fingerprint": "37782e1802a824e46b0ea170a0e31aadcd55f6f97ab24a8818de1f93ba153e36",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
       "last_seen_at": "2026-11-09T11:17:22.916674+00:00",
+      "history": []
+    },
+    {
+      "id": "4fd45130c3897aafcaf7c2f5",
+      "title": "沈伯洋學界後援會近1300人連署 苦苓酸蔣萬安陣營找不到人：不敢學了",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOSG1NQTJhREdUUXlONlk3akpRNUlWNEVMN0lFVWVzd0JMYXdfVVpBUFhYSktEc3FJZjlTRFhMZ2tOUXdzamRZZVZWRzYtcmsyY0F3N2hyeU5UV1E0c1lNU3JDRmEtQUQ1TFkzZlFBRk1JRUZPQ0l1ei1SQVd3RUFNd1Bnd1Z1ZTIyalFFeHliYnNDZUwzRHVERzRKQjRtMmtPdW13RUJYYXZ0RVdjd0tXcVJGcl9HM3ZSUGotRVN4M0RFa1pYN20zS1dxWFNxcVljNVlXRERnUFFMSzQyU2pXcnZWbHhLazFYOFhpNEdZdHBYTHk0aFdWVW1VdVhWUTY0aHdNYlZ3VXYxcy0zZlkzZTZBNXFuaGloVlJFQ1l0bjBpbTk1MDY4NjFHeFR4WmF2STdhNWYycnZsb3V6S2FWeVFlWEVjb2F2RFd1NDFhRlpKQkJ4dHN2bGx6am9jd0I5bUhleTZwaFR4VzZjVXFxYTdhTm1vR2dXd2tyUlYtUmhnRGlmU3pZZGtKelVTVE5NRmZfMnpZR1EyZDUtOEdVN3pyY0x6dks4RERB?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-09T04:34:52+00:00",
+      "fingerprint": "60d21866c19af21dbba1a4eef5d5d798d5f8f996bb5825114de16dc80cfdb5fb",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
+      "id": "824347e27f87a4167eba5858",
+      "title": "民政局長發文稱「洋流...快完結篇了」沈伯洋：像寫新詩 難以解讀",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZmtOVlU1cGRkWGZDd1VlOU9uX0Y4OFJoeVdud3VOU2FsUEdoc295ZkV6Tko1RVFpeFQtVzNvTEVmekNyZmhqdmxaMGc0eFNDRXlTampKQ1M5SGUtZm1pWXVieFl1TXJMdHfSAW9BVV95cUxOczBRUDNNdzRhUU8xMmgtejFSODc1WUJwZXhPRWhvcU5CSEZpT1k2MlI4aXh2WTNScHc0aDZPM1ZFUDNTWWo3ekk4ZHI2TDlTNWdNU0VNanRNX2xZOWFJTzN3WjRCaEdMVU0wVGNUNXc?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T04:33:55+00:00",
+      "fingerprint": "6cf2cdc0289a9f425f8c57134a1c7ab42c495db23fcc0a945684f4d030c83767",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1849,7 +2357,7 @@
       "published_at": "2026-11-09T04:08:00+00:00",
       "fingerprint": "d4395b64494e3c7d9b166967c124ca193184e032486c13e3c0bf6981a48407b7",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "尬場？蔣萬安周六大遊行！沈伯洋同日辦「洋流祭」：盼帶來歡樂氣息",
@@ -1930,7 +2438,7 @@
       "published_at": "2026-11-09T03:51:01+00:00",
       "fingerprint": "c7122c8f6f14d6a8031c608d3515ca2ed4c8dca56251ca37c0e57dd48f141b51",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -1992,7 +2500,7 @@
       "published_at": "2026-11-09T03:42:00+00:00",
       "fingerprint": "fed43f76ed0b470057ee2bf46d6563eea9f51e01be71d824956d3f57d85871aa",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "北市民政局長陳永德發文暗酸洋流？沈伯洋：寫得像新詩看不懂",
@@ -2012,7 +2520,7 @@
       "published_at": "2026-11-09T03:39:00+00:00",
       "fingerprint": "80c0ff1181d2d5a556dbe3f7a726e51583d48ae89318873672c4b436be759bd6",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -2089,16 +2597,22 @@
     {
       "id": "640d168fd6c0b03e18cb0c90",
       "title": "為什麼支持沈伯洋？律師曝原因：他若是國民黨我也會挺| 政治",
-      "source": "三立新聞網SETN.com",
+      "source": "三立新聞",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53ZjQ0QkxIaEZWR0VFdlhjaEV2QTdDWEZYeFp1XzVzc3k0TktKVG5BdTFUNDFyWHVDQWl3TzAtNmpkaVJlWS02Yg?oc=5",
       "people": [
         "shen"
       ],
       "published_at": "2026-11-09T03:21:00+00:00",
-      "fingerprint": "ea8c609234690f08589820d08d8708c189aacfb87840d8b230f5d8cbd2b451c5",
+      "fingerprint": "b7d62d445e0e961d115050074a587dba93a1f6da56b0068ca5bae9fba61ae9f5",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "history": []
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": [
+        {
+          "title": "為什麼支持沈伯洋？律師曝原因：他若是國民黨我也會挺| 政治",
+          "fingerprint": "ea8c609234690f08589820d08d8708c189aacfb87840d8b230f5d8cbd2b451c5",
+          "replaced_at": "2026-11-10T03:45:43.958863+00:00"
+        }
+      ]
     },
     {
       "id": "f29ea5d77e90e4ff42ec2c4d",
@@ -2143,6 +2657,20 @@
       "history": []
     },
     {
+      "id": "0155f1cfe1d139088939ebb0",
+      "title": "沈伯洋「無限都更」6步驟曝光！免苦等原址重建但有「兩硬傷」…30坪老宅鑑價只能換14坪誰要？",
+      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxNNndVTncwRWhPamxwclBVTEtlUHM5bHZyY1VFdU5JT0FSN1pnblY1NnVqaGdpc0otOE1HMkFXT29tTE8zX0hDUXBZMzg3dGFmUWJ2SDlXUWUwendQb2NmNWhXVTlHMF8xMWlrdlBxUnFEcVJLazlVaFB6Y0I4bl9aNTROWVhVLXNNQnVNem5hMWdCV3JLaktRdFhlb0JpUkU2Q0ZhbmZoRVBxV1BFT2dOWVZpRDQtRVNoRlJ0ZTA0djZNZ1hHZ0MtMlJtSlo1aWFxWFVJZjAxOThtNGFmOERScGdmYXlEVFdFSlFTR29QeVhhSXl0ZG5yLVlXTjVzVU1wTXkwaDYyeVVPSk5LVWEyR1pvLVphUEw3RDBfNWZhQ3NiaENTT0d1NTlubTFYQmJMTEN2Tjl4OEtHeXMzLUpGSHIxdDJqNVljaTdqaDl6ekV1a2lxNi1aSE1wX3JnNGZGWHBZVnRoOVY5Zkk2eTJFVUpKU2tMeG9Da0g4M19BX1l3bHN3TnU2YVZCb0cwTmJ4RmNUelBXTGE4dVJ4M0xocmp4OTZ2VENITElOZTl5Y0VpSTFhOHZiQWhCb3lsU3VJZjlIdXB2cWh3dXBHMkN0LXByNDUzbmtDbC0tTUdwd2JwTkxONTF1UXNkV1VZU0xzaGhObkc5UVVQXzJ4S0ZtNEJSMWwwMi05OVczUVFqZlFRTnhCR0VKeWF0UEx3SktMWFhacERSTlFGQWpLaC1TN3RNSWRlMDNRbURsemI5MWFQUQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-09T02:50:38+00:00",
+      "fingerprint": "1b1a66b80f03a93003210815af9d7c5b309e0c95d95aa7eb28c8cb9dcddfae8a",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
       "id": "83947d86f23dd695880eefb3",
       "title": "「又一村」水餃店挺綠遭出征？沈伯洋：是否霸凌要看被害者感受",
       "source": "台視新聞網",
@@ -2167,7 +2695,7 @@
       "published_at": "2026-11-09T02:49:53+00:00",
       "fingerprint": "e9d87dc4eef35f323c0581f273acf847b1ba0ded63b1e6b3db52b3b2c3195cca",
       "first_seen_at": "2026-11-09T03:01:46.405219+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "LINE台灣總部挺沈伯洋？疑員工替公司亂發言急刪文 全場搖頭：有獲得授權嗎",
@@ -2265,7 +2793,7 @@
       "published_at": "2026-11-09T02:24:00+00:00",
       "fingerprint": "6565ef0dd2feb0e3270859302a8abc14d452cf308a35108b0fd8ea71479203dc",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "沈伯洋為何支持者多？呂秋遠發文力挺 「洋流」形成原因曝光",
@@ -2604,7 +3132,7 @@
       "published_at": "2026-11-08T23:23:00+00:00",
       "fingerprint": "1f8a6aea4cfedcdd4557a5194bcc9350495b2f53831e453fa8ed224eb37621d1",
       "first_seen_at": "2026-11-09T03:01:46.405219+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "獨家／沈伯洋出新招再辦「洋流祭」 把「政策島」搬進公園邊聽團邊闖關| 政治",
@@ -2630,7 +3158,7 @@
       "published_at": "2026-11-08T22:49:00+00:00",
       "fingerprint": "57c5fdddff0bc2c8ba6ec5d39e359b8678ae4f7b1d0d0a5ea1a621b995a07b6a",
       "first_seen_at": "2026-11-09T03:01:46.405219+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "蔣萬安、沈伯洋夫妻「深夜時光」引熱議！網：暖男跟軟男的差異",
@@ -2692,7 +3220,7 @@
       "published_at": "2026-11-08T21:02:00+00:00",
       "fingerprint": "a80c25b114cf7549b8c73363d8c3c7249da4463056333d4fde6768184f13e4c5",
       "first_seen_at": "2026-11-09T03:01:46.405219+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "沈伯洋團隊掃街前「做一事」 7萬人感動讚爆：真正有格局",
@@ -3397,7 +3925,7 @@
       "published_at": "2026-11-08T11:31:45+00:00",
       "fingerprint": "a934dfee7e2b5cab3f73ee7e0836a9538a29ff7eaec16d04de5564138b792e27",
       "first_seen_at": "2026-11-08T15:55:04.175132+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -3764,7 +4292,7 @@
       "published_at": "2026-11-08T09:40:15+00:00",
       "fingerprint": "414822bf0fb5582f540e18005ffb57437b8d075d00d54e8a07cac4fb15df6032",
       "first_seen_at": "2026-11-08T15:55:04.175132+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -4115,7 +4643,7 @@
       "published_at": "2026-11-08T08:36:36+00:00",
       "fingerprint": "5ef52b7280cfa445ed1180e7f1c50994711cce89c1c9151297f827aeaa85ba61",
       "first_seen_at": "2026-11-08T15:55:04.175132+00:00",
-      "last_seen_at": "2026-11-09T03:01:46.405219+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -4339,7 +4867,7 @@
       "published_at": "2026-11-08T08:03:53+00:00",
       "fingerprint": "937edfd1309f0eeba0e6aa699cae8928b73ad861599cad4c1ea7e65c34530d17",
       "first_seen_at": "2026-11-08T15:55:04.175132+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -4382,6 +4910,21 @@
       "fingerprint": "abd265a40c280a3835e19dc62d23b64c9e120c64cde1b7b105fab31187b344a8",
       "first_seen_at": "2026-11-08T15:55:04.175132+00:00",
       "last_seen_at": "2026-11-09T03:01:46.405219+00:00",
+      "history": []
+    },
+    {
+      "id": "e1cd43b7be390e656d230895",
+      "title": "從「夫人政治學」看蔣萬安與沈伯洋的平權光譜",
+      "source": "鏡報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SQ1Y3NkNxS2JLUldjWFNTU2oxcExxNTFFdG5tVVJVaDV3U3pYR3dnLUd0SU5SMFI5Sy1UV2E2M1FNaDUyelJBWkRRUHR1NlA5cmc?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-08T08:00:00+00:00",
+      "fingerprint": "7d9c95804a01f34be54f5a4eb9bef8d786eb25bbda24f2e12a3de9dfe410bf1f",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -4437,7 +4980,7 @@
       "published_at": "2026-11-08T07:53:00+00:00",
       "fingerprint": "82c10f612edbb13dcb4b6c3dfcd2617ed67c4c544a89e6558365f3677e2839db",
       "first_seen_at": "2026-11-08T09:05:18.077719+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -4522,7 +5065,7 @@
       "published_at": "2026-11-08T07:29:57+00:00",
       "fingerprint": "537b0b0a97bad590a81e59b12d33dbada6673fed8f41a76192a4b1a3d010f4cd",
       "first_seen_at": "2026-11-08T09:05:18.077719+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "蔣萬安對決沈伯洋！北車最新市長選舉街訪民調結果超刺激- 政治",
@@ -4617,6 +5160,20 @@
       "history": []
     },
     {
+      "id": "e2be0a7a2f304d7869837b4e",
+      "title": "藍議員質疑港湖車掃違法空拍 沈伯洋反擊：事先有申請、文件均有留著",
+      "source": "三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tQjB0cTVkZVV1UGtzNHhPcm5zTFNNRVY4blNjVUVmbVZibDBBTGE1ZHJiUTBncWpybmV2UGhxNTFlcTN4dll2QdIBTEFVX3lxTE5rc2hKOGE1N0ZBWHJSUzhfdlNTNWxmNk94LU5YOEo1R2NzSTBidjdMY1Y1ZUtWVF9JZGNkd2VCdVd5RXpyWElRWHhLcWg?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-08T06:57:00+00:00",
+      "fingerprint": "739d5dc1f90f4353aef014b6c4d94ec4fbe49aa05104b04c5c999cd9e7b3d3c2",
+      "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
+      "history": []
+    },
+    {
       "id": "cd556c01cb03292bc0d837c3",
       "title": "【石舫亘掃市場 支持者送卡片：謝謝蔣萬安的輝達牛奶大巨蛋】 卡片一整張都寫滿惹 （#嘴邊肉）",
       "source": "Facebook",
@@ -4656,7 +5213,7 @@
       "published_at": "2026-11-08T06:46:36+00:00",
       "fingerprint": "7baa20318535313d9ca13f2d6cd787e0d5dc2a1d35d1a9b473cb680b843af03c",
       "first_seen_at": "2026-11-08T09:05:18.077719+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -4952,7 +5509,7 @@
       "published_at": "2026-11-08T06:07:37+00:00",
       "fingerprint": "d9ff453dd16ce11f1b124e56953b37ffa51e8924864c1d80082c4a37237761a7",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-09T11:17:22.916674+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -6998,7 +7555,7 @@
       "published_at": "2026-11-07T12:22:52+00:00",
       "fingerprint": "81e1174bc1c0195dabf238a72f69259d432a4ff31194e40172d1a1dfb47c59c0",
       "first_seen_at": "2026-11-07T15:12:51.340098+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "人紅是非多？沈伯洋造勢有攤販違規擺攤 「洋流」飄帶一條50元",
@@ -7740,7 +8297,7 @@
       "published_at": "2026-11-07T09:06:32+00:00",
       "fingerprint": "2e7778dda70dee998c23fc034f200dcff1cfbdff84a5a3a3ee09518247e6df3e",
       "first_seen_at": "2026-11-07T15:12:51.340098+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -7954,7 +8511,7 @@
       "published_at": "2026-11-07T08:05:37+00:00",
       "fingerprint": "3de8f279e149fcecb0c2763c5330ad8fd9ddf5edef3984fa49431c9fbbc0e062",
       "first_seen_at": "2026-11-07T08:39:08.360666+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -8041,7 +8598,7 @@
       "published_at": "2026-11-07T07:37:07+00:00",
       "fingerprint": "c78f9d34eb3c3c9480f9a86ef13bc3daa70a6d9646ea91688e3e01dfdaf09824",
       "first_seen_at": "2026-11-08T23:49:06.512185+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -8311,7 +8868,7 @@
       "published_at": "2026-11-07T06:36:35+00:00",
       "fingerprint": "41a5afeaac8f5fc39ea656e81500f602022477b3d90115ebb981d47218fe5594",
       "first_seen_at": "2026-11-07T08:39:08.360666+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -10288,7 +10845,7 @@
       "published_at": "2026-11-06T13:38:08+00:00",
       "fingerprint": "dcebf98194780357c7fabdc5931cf89df848fda5732c0ade2a3bc88043db38ee",
       "first_seen_at": "2026-11-06T17:22:54.062085+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -11635,7 +12192,7 @@
       "published_at": "2026-11-06T08:00:00+00:00",
       "fingerprint": "aed3fd41d158eb211fbcb6534d95bf7fd2684fadfd4a60d5aaa303fe840b80bf",
       "first_seen_at": "2026-11-05T17:36:53.317062+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": [
         {
           "title": "知名主持人震撼表態了！公開力挺沈伯洋「突爆2金句」疑暗酸蔣萬安",
@@ -12226,7 +12783,7 @@
       "published_at": "2026-11-06T04:15:24+00:00",
       "fingerprint": "05f263380966b7f05f9e9828e479ca03a1d86f2bb764fb62b5e9a00c6ae7b0ce",
       "first_seen_at": "2026-11-06T09:57:22.943673+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -12412,7 +12969,7 @@
       "published_at": "2026-11-06T03:23:28+00:00",
       "fingerprint": "b574d61a3b17bb4b9756b9afebb96a008d73339b2d4f195512ae0a099a02f812",
       "first_seen_at": "2026-11-06T09:57:22.943673+00:00",
-      "last_seen_at": "2026-11-09T11:17:22.916674+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -15102,7 +15659,7 @@
       "published_at": "2026-11-05T06:46:25+00:00",
       "fingerprint": "1241e44e7e67d17a5f85bc3bf559501f709fd9fbffaa1f499dd6ffd157efb684",
       "first_seen_at": "2026-11-05T09:34:31.896339+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -15186,7 +15743,7 @@
       "published_at": "2026-11-05T06:03:24+00:00",
       "fingerprint": "7a93e1c51fe8db19561b280e88c2759dc5ca98e31bc9710309c117bddaeb7a9f",
       "first_seen_at": "2026-11-05T09:34:31.896339+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -15314,7 +15871,7 @@
       "published_at": "2026-11-05T05:26:00+00:00",
       "fingerprint": "1ee3c0f9192ecbb5e41dabca525112d35b7ed6ae435f1f69cfc1bd2a28e494a8",
       "first_seen_at": "2026-11-05T17:36:53.317062+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -15513,7 +16070,7 @@
       "published_at": "2026-11-05T04:06:00+00:00",
       "fingerprint": "e027504dba61afc7ce10ef69baa1080de104d2c9a33162dc86d3cd3be22002f9",
       "first_seen_at": "2026-11-05T09:34:31.896339+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -16083,7 +16640,7 @@
       "published_at": "2026-11-05T01:40:29+00:00",
       "fingerprint": "4b9beb6e2f3e3f51099cd208b00bca295e8533608f6ad03f12c4e8b97115a49e",
       "first_seen_at": "2026-11-05T09:34:31.896339+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -16623,7 +17180,7 @@
       "published_at": "2026-11-04T22:40:25+00:00",
       "fingerprint": "bcf33f649dd09d3f0282f2621fcdc7312594eb753ad691f8f907bb1775cedc9e",
       "first_seen_at": "2026-11-05T02:11:52.847541+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -17702,7 +18259,7 @@
       "published_at": "2026-11-04T12:33:55+00:00",
       "fingerprint": "af5d2b407a7d5beb245337ddf494bbc3ee7bba09bc068649317cf1f8c1f1d7d6",
       "first_seen_at": "2026-11-05T09:34:31.896339+00:00",
-      "last_seen_at": "2026-11-09T11:17:22.916674+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -17788,7 +18345,7 @@
       "published_at": "2026-11-04T12:16:00+00:00",
       "fingerprint": "d92a83f26ccd760e272eb79bfa9668f98424900d527933ac228556829c41fd47",
       "first_seen_at": "2026-11-04T16:11:14.602657+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -18043,7 +18600,7 @@
       "published_at": "2026-11-04T09:24:47+00:00",
       "fingerprint": "9cdfe3ae77ce47a49506bbeea28acb494788515f9a6c39de9a50b7ebc8f5ba11",
       "first_seen_at": "2026-11-08T09:05:18.077719+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -18245,7 +18802,7 @@
       "published_at": "2026-11-04T08:28:23+00:00",
       "fingerprint": "17351dab5df18c53c2d6fdf8dd9deac706e99384e14ce876b4f11159d2aee6cb",
       "first_seen_at": "2026-11-05T17:36:53.317062+00:00",
-      "last_seen_at": "2026-11-09T03:01:46.405219+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -19799,7 +20356,7 @@
       "published_at": "2026-11-04T01:01:41+00:00",
       "fingerprint": "a78fc4a64f65a7532c1425a14c05375c5b27b8f50409da89fb9af4024dee678f",
       "first_seen_at": "2026-11-04T01:42:14.678635+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
@@ -20691,7 +21248,7 @@
       "published_at": "2026-11-03T08:00:00+00:00",
       "fingerprint": "dd3dafad351f01b9de8dc9645fbb8d36713399494eead7f6b0cead6a2dc3ff31",
       "first_seen_at": "2026-11-05T09:34:31.896339+00:00",
-      "last_seen_at": "2026-11-09T21:28:30.528039+00:00",
+      "last_seen_at": "2026-11-10T03:45:43.958863+00:00",
       "history": []
     },
     {
