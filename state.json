@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "ok",
-  "last_attempt_at": "2026-11-12T18:07:53.880632+00:00",
+  "last_attempt_at": "2026-11-12T23:32:06.338757+00:00",
   "retention_days": 365,
   "query_days": 7,
   "feeds": {
@@ -9,9 +9,9 @@
       "name": "蔣萬安",
       "url": "https://news.google.com/rss/search?q=%22%E8%94%A3%E8%90%AC%E5%AE%89%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
       "status": "ok",
-      "last_attempt_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_success_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_nonempty_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_attempt_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_success_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_nonempty_at": "2026-11-12T23:32:06.338757+00:00",
       "raw_count": 100,
       "accepted_count": 100,
       "skipped_count": 0,
@@ -23,9 +23,9 @@
       "name": "沈伯洋",
       "url": "https://news.google.com/rss/search?q=%22%E6%B2%88%E4%BC%AF%E6%B4%8B%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
       "status": "ok",
-      "last_attempt_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_success_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_nonempty_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_attempt_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_success_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_nonempty_at": "2026-11-12T23:32:06.338757+00:00",
       "raw_count": 100,
       "accepted_count": 100,
       "skipped_count": 0,
@@ -35,6 +35,97 @@
     }
   },
   "articles": [
+    {
+      "id": "fcaa64dd4e96b5b9eb6768cc",
+      "title": "藍白合就贏？蔣萬安選情告急「連喝3碗白虎湯」黃暐瀚：神仙難救無命客| 政治",
+      "source": "Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96SnN1NVk3R0NTV2FINmpsdUtKZUpaXy1NM3FncUhCTjJEa2JnVGxxdUJKemRWTV9tcHhtekpZc05TSnpNSGpnWExPVmhwc1hUeGJvWXVnWWE2Mms?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T22:34:00+00:00",
+      "fingerprint": "13d9ea2a808c80295185fdb8a92daeccb59422460fa550c3fb39c58058694c4c",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "8c1b14f4c3f8ed4d7c6c195c",
+      "title": "蔣萬安、韓國瑜今合體 安心大遊行明登場",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWldLOXZyT0NiODhOUHU3QzVJSVBlWWNqODZ3cVZZcThKNHJYWE5NTVNaNFJScTY0dG1tRnV2YjJmU0hHR1ZnN09yWGUtRmN1dTI4eWg3V3kzYkZvVVJHWWFZWG03d05XNFZaek5WaHNGOE9TME9GVlV0aWxzTTF0b2VlNzFjWm92MjhNQUtCc1h5V3NlaGJVV2lPOEVhSVBLRkRaeDBoRVh6ZWJDUHUxU0hlNDlCOUdPQUdKR0FidWRyeHNDVVpIZVJfQWVwVm8tdzE1bEtLSFZGSTVkbi1DVWR3VXFaa2NnRnZLd3Aydjl4ekhjZkVjb3dXY2g0N2xTWFhjSnZCcmdndmo2N3BkQ2RjSEtEajY0QVpncXh6bWZ6Zw?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T22:32:50+00:00",
+      "fingerprint": "66aee59543f5a0d113171bdcdf7428fb5677b11cf75f9756084edd7ce19dea0c",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "1c08b7a09023a1958432b5c5",
+      "title": "蔣萬安被拱生4寶！秦慧珠淚崩揭第1胎是罕病兒 批生育不能開玩笑",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3eTFVYzQySFd0a29iaXhta1hMT2NBNkc4dV84V1VUY1hUM0w4ZHB3U3VwNEwyVDRibWdXMEg0V0F0LXZ6UkEyQnBwTWlxQ2lVUV9qeDJJRjlHem1GckYwQl80Nlh4TWU3c2fSAW9BVV95cUxNUXFkN08yTlh2UkEwb182d0pGb0FrMGRlWFc5bHlXa0JqYWxrenZTbmpVN1JjaEREa3FpSF9LWnhjQmV3bjlyU1I0OHZkNDZRY2hVX0FrSzYzZUphUVJyT1R0M3hEUmpaMjRmVmtXSlU?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T22:04:00+00:00",
+      "fingerprint": "4567ffaa420558e8927ea7b0eba00fbd3f3f457a3dc3f946dfd745746bac69a7",
+      "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": [
+        {
+          "title": "蔣萬安被拱生4寶！秦慧珠淚崩揭第1胎是罕病兒 批生育不能開玩笑",
+          "fingerprint": "87e60b406e25d3c9b83a20df1e4ff28fb72c5002fedc274c225a46bd3856a0ce",
+          "replaced_at": "2026-11-12T23:32:06.338757+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1f792ae901a16758928ca6c4",
+      "title": "沈伯洋推城市縫合 3策略點亮市民大道",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dEprQzNBbnBhajZ0Qkp6Y3puSDVzQ05HSF93TGFQdWhvN3NiMGFWV04yRkktdWFWWXNDZTVwN3c4a1ozS3E0VERyV1JwUHVqcUNsWVF4dkFIei15SHphY9IBZkFVX3lxTE1mMVRRS3pNUldBd3EwdVl1c0ZsanFLOFBtSEpkOVZZNEEwaGplMHZMX0tleXJyWWVtTzkxbWV6X2dYdTg3QWtpNV82MmZlTU01cGNUSEZaMGJvSl9TYlNCaF9fbkg5QQ?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-12T21:30:00+00:00",
+      "fingerprint": "a02b9d7b956ba57d7f7bb7a333433497dec74f3e58376f0e082cfdca4f315ddb",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "b8c612dd05c920235aa78fa9",
+      "title": "綠台北選戰仍有危機？她曝沈伯洋「1指標」落後蔣萬安！",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPWDlqdW9zSTdyYTZqZXNubUs3NW5UM1dfdmRvWHJSRTBwU1NOZmoyZDNvT2Y1a0pGTlZ4ZEVQNENGRUEwbm5weU9qWUhhUUhEbUM0NGpxZHBWQzA2MTVMQ0tELVM4OVQ3SDdYODdEZlozRjFUVEtac3ZFcklWQ3pGZlhXUXEwcTlFbXNCZTJWb1pfa0J4WVQ0WDc2dlZUcWIzSm42WmtBbkxYM2ZLLUN5RVhseTFrV2RyMUtxR0REVzdUSXVEcXBGdnhqakVRUEhBUHJMWW1VQTR5eG16SW5fR0xQdXZzSm9mS3hWMU5zOG1KSWRfaGg5TXNIVVFLckplWmRJRjN1NDJOcElnVldPZ3p4MFV4VFc0VXU1aEhzVU5nWmZjMUVXbEh3eG8xdVhtMWtrZk9MRGFwek1sYnB6eEswbk14eHVia2ZHNzdvZEdvN1pz?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-12T20:37:03+00:00",
+      "fingerprint": "9a6ac401cdb4e71196373df6a3ff6287c6e6ee90997d488bc9c27767e8a8c19d",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "623c906e38d09dcc0c060ce2",
+      "title": "稱羅大佑「振聾發聵」蔣萬安恐掉中間與女性票！議員爆：性別會出席2次",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOZTM5UUI4a0ZGRElNTGRRSmRqeUwwNl9nekdCVVF6cW9MeHBWNnV5MG5wXzV6NmlLaTNMbkxEend1SGhSMWdianM5UDAtZndXdEdXSy02cHJ3QzQwaXVaRFZhR1NkbzN4RFNTREdTeDFLQms2eFdZTDRFWXkta1MzLUVoay1WckRYcnh3TVFUdGxodVVrU2VEanBKSUk5T3RJeDJRWndQUUVxR3kzZDQ2d0RUc0VEV3pBUzZVbnd5ekpmN0ZCSllObEdwMXhUOG5BWC1aeXdLTjFuSFAxY2NPbklNUGZpVFdsOVdzNlgxQy1DdTdnalRRVC1uUGloTldncVd4dTFfVllLNGx4bU1OdUlrV05QUFI0ZVpXS3VTa29DT2UwdHI0a082RDFmbDBvY09GTkViQzIzWGhNUW5DaVhVdFl3Xzc4TXFtMFNIY2FRODY5eWZqR3dOdkNqa2tZLUpFQUpXdmhmNGp6R3JGUTFRb1NSVGdpQzRSQkxmMzd2em9MSF9KbVFPWFhzS3NiTl9ROWczT3NHbmVPajhSZ3E3R1hfS3dlZFE?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T18:39:00+00:00",
+      "fingerprint": "f7446faa6e4e9d07da14fe3d73d2cf7a9132d4ce191fb560b45e5e94dc4c8132",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
     {
       "id": "cb4392205731bc11ad57ef95",
       "title": "蔣萬安李四川雙北政見合擊推公車月票399搭到飽| 2026九合一選舉",
@@ -74,7 +165,7 @@
       "published_at": "2026-11-12T16:00:00+00:00",
       "fingerprint": "826a69ff0ca86cb7316ccff15948112cac906f1d14a9f3a483ff1694594936c1",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -106,6 +197,21 @@
       "history": []
     },
     {
+      "id": "36f2835636cbdad1cb54d10d",
+      "title": "蔣萬安撲空！公館蔥抓餅阿姨在桃園 提沈伯洋「未來市長」：我出身鐵藍",
+      "source": "三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xWnN6OTl5YnB2eHAtcG1NTVdkSENqRUx4Sy1LSy1ienJIcU9XVzh5M2JUYWc3ZjFjMVV0Z2RiWXgxbXJPeUlEY9IBTEFVX3lxTFBWTzNXOWI3ck1KQnlRWlJDMWdZUVhfUnZtdmFHaEx2UGtNcHg1RHh0WXY5NnNyaDNyS09yem9FMkloUHlCLXdiaWFlNmc?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-12T14:54:00+00:00",
+      "fingerprint": "f7710daa279253571ecc19a05ffc347f766c73a0dd9d725495f4c194a3842bf6",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "a824e92d793d3c916b71bcce",
       "title": "圖輯》蔣萬安也到公館夜市拜票了 現場人潮曝",
       "source": "自由時報",
@@ -130,7 +236,7 @@
       "published_at": "2026-11-12T14:00:11+00:00",
       "fingerprint": "5955af8ddcd287ad804ea0a8832602622a75818f05cf8efb96b0133b3bce7602",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -144,21 +250,7 @@
       "published_at": "2026-11-12T13:47:31+00:00",
       "fingerprint": "7a121a7b57304b7df5144bd04b95e64fcd34a61811f33366bb5953c1ba77836e",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "history": []
-    },
-    {
-      "id": "1c08b7a09023a1958432b5c5",
-      "title": "蔣萬安被拱生4寶！秦慧珠淚崩揭第1胎是罕病兒 批生育不能開玩笑",
-      "source": "自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3eTFVYzQySFd0a29iaXhta1hMT2NBNkc4dV84V1VUY1hUM0w4ZHB3U3VwNEwyVDRibWdXMEg0V0F0LXZ6UkEyQnBwTWlxQ2lVUV9qeDJJRjlHem1GckYwQl80Nlh4TWU3c2fSAW9BVV95cUxNUXFkN08yTlh2UkEwb182d0pGb0FrMGRlWFc5bHlXa0JqYWxrenZTbmpVN1JjaEREa3FpSF9LWnhjQmV3bjlyU1I0OHZkNDZRY2hVX0FrSzYzZUphUVJyT1R0M3hEUmpaMjRmVmtXSlU?oc=5",
-      "people": [
-        "jiang"
-      ],
-      "published_at": "2026-11-12T13:43:09+00:00",
-      "fingerprint": "87e60b406e25d3c9b83a20df1e4ff28fb72c5002fedc274c225a46bd3856a0ce",
-      "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -172,7 +264,7 @@
       "published_at": "2026-11-12T13:42:08+00:00",
       "fingerprint": "832476ccfad2fa8110ce1f53056af2e7b0c9e21f948895da08280c05cf233177",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -190,6 +282,20 @@
       "history": []
     },
     {
+      "id": "c9a1c452c84d79578421e415",
+      "title": "衝公館夜市挺蔣萬安！沉默的年輕人直呼：很多人怕被出征但一定出來投票| 縣市長議員選戰| 要聞",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Qc3NGREpYUVMzM010RnBxczVFZzhqWnNxcGRFWS1uX0h6TktNTlM3ZDN4bDM0RkJPNi03UnhrZ2NpZzNHXzdtZHlWRzlPWlUzWU5N?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T13:32:12+00:00",
+      "fingerprint": "832f6444216f6a08a5d9aaf98d6a9a88f0fc7111dd63566f2d697d06dbdab0ca",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "e0aa3b46aec7e4d18f10f2f1",
       "title": "蔣萬安請假首日行程滿檔晚間赴公館夜市尋求支持| 地方",
       "source": "中央社 CNA",
@@ -200,7 +306,7 @@
       "published_at": "2026-11-12T13:32:00+00:00",
       "fingerprint": "c0f6a9e4a38788828fa43370be8cdc65e024ebec4fe5b5b68c0d438625b80da4",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -214,7 +320,7 @@
       "published_at": "2026-11-12T13:30:20+00:00",
       "fingerprint": "19cb5b4da3d75fb474e65ed63a56139cda5cc2056eea33295c3fa2893d8cf2bb",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -228,7 +334,7 @@
       "published_at": "2026-11-12T13:24:06+00:00",
       "fingerprint": "f32085eadee37915c57c1553c278a2cd116f83dbf4a5271bbbea64aee3f7131e",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -286,7 +392,7 @@
       "published_at": "2026-11-12T12:31:00+00:00",
       "fingerprint": "46fa2ca43b179aaa272b430c0f5a55f007956a9b3fecc72ed49220191f094c48",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -301,7 +407,7 @@
       "published_at": "2026-11-12T12:24:03+00:00",
       "fingerprint": "5907cf24deea69c879d0c47fe3cb9efc599d68eacd928de8b12f81b99f67d50b",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -315,7 +421,7 @@
       "published_at": "2026-11-12T12:23:33+00:00",
       "fingerprint": "456aaa8b06b8212ffa6ecfd9b4edd1cd4666e4902c532194fb9d2918275f5b2b",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -329,7 +435,21 @@
       "published_at": "2026-11-12T12:18:00+00:00",
       "fingerprint": "c368cb7523fccb8d3b499b5f9b948c6d93955e9d58da0c60d43c8930bff2f142",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "fabb89504d69881ee0bd9063",
+      "title": "台北市長選戰／蔣萬安跟進捐1個月薪資 助動保、社福等3團體-新聞",
+      "source": "Rti 中央廣播電臺",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9weDhzamIzWVRUclpNZXBCcjdTVm41UmttVGt4R0lkY3R0cUlhWDVDV0o5Y3lkMXlMMk1ZRnpzM0JZRTFZNU9PNTZsSkF3blVqRVdyeTFIb3Y?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T12:14:25+00:00",
+      "fingerprint": "beedf3db215999ac3c45bb23d7ba1424400398fa2c6dfe91c2aaa4e81215f00a",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -344,7 +464,7 @@
       "published_at": "2026-11-12T11:49:24+00:00",
       "fingerprint": "1d635c98a9222a6e9e8d2ba8195b90b0e7853b15bd31a25aadad6a5e40c4c04d",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -359,7 +479,7 @@
       "published_at": "2026-11-12T11:07:48+00:00",
       "fingerprint": "eb60030d27d66d807c037e51e2d9974ed4046e5deea1ce46dc535526c47812ef",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -373,7 +493,7 @@
       "published_at": "2026-11-12T11:05:56+00:00",
       "fingerprint": "0a204ed8abfba5558d2c473b18f180ca77d0222231aa0c3cfdbc64c988a5f317",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -387,7 +507,7 @@
       "published_at": "2026-11-12T11:01:27+00:00",
       "fingerprint": "ba32921544a29f54a9537735193e32a2897fb3e80228c6a57daba83ff53ab066",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -430,7 +550,7 @@
       "published_at": "2026-11-12T10:37:00+00:00",
       "fingerprint": "aac9847848af7a10e897b6dce2ccaad952d12e3d5ef6f2e4fc1477d3b9fb357a",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -448,6 +568,20 @@
       "history": []
     },
     {
+      "id": "22fc99e2ff1bbeae2e92dad7",
+      "title": "「振聾發聵」傷到婦女支持！蔣萬安突發文：做女性最穩健的支持- 政治",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tU05MbTB4aHhQMUdpVk5YZkdEZ3FNSkY1ZXNnejBxQmZORC1CbkNXbHFCNVZqN19ZcGl2T1pMQWhSRU1KNVVXZWh4SzRQZVVBSkQzaGZLdUpSY1lyX0NMOHBXN0JPWHM3QWc?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T10:33:41+00:00",
+      "fingerprint": "035e24bf1ea121b055fc43814f2f8e0d74707489e3c606c17b4cbdce0a8531be",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "0ad6a899e30e130b0c99dcbd",
       "title": "蔣萬安跟進捐一個月薪水給3團體 網友大酸：又是學沈伯洋",
       "source": "自由時報",
@@ -459,7 +593,7 @@
       "published_at": "2026-11-12T10:21:30+00:00",
       "fingerprint": "b30bdd5f88db4bcb4520d36ff9066cfbd8d083abc497dbc15516f2980503ea1f",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -473,7 +607,7 @@
       "published_at": "2026-11-12T10:20:00+00:00",
       "fingerprint": "e005e9fd462e45272332bc6eb397970e340b241303157415612e850aa0d20ad6",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -516,7 +650,7 @@
       "published_at": "2026-11-12T10:07:00+00:00",
       "fingerprint": "01a49cd16b6ffd57ac9bb602459fc5922a725949897d3a166ddf8caf32cc7812",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -560,7 +694,7 @@
       "published_at": "2026-11-12T09:58:25+00:00",
       "fingerprint": "22315106ec9a1fde41db3280de2b28bcb36430d566aa9ecd6b53fa596d734435",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -588,7 +722,7 @@
       "published_at": "2026-11-12T09:46:33+00:00",
       "fingerprint": "128386e03a27d24ff58ae31c5334ae4f387d852dd963c8020b3b89c79ec21949",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -606,6 +740,20 @@
       "history": []
     },
     {
+      "id": "3a00e6c8f0a744a86e14f731",
+      "title": "勸蔣萬安「首長不行就換」！被問誰該換？陳健治笑回：我不做批評",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQNmktNUZ2Z2U2cWlQM3c4cUV6Y3BRa09vb3kwa2ZPS0NhQUlkMUdpVktRX2FKd1dTZEEtU0hPMWNtTXA1TFBPQWFLNnpsNWpmMDVhaHZwY0FNcHV1VnJ1S2cxSkNOeDc3OFBWczNnWUZ6bm1LbXVFaHE5d3pVTnVqa1R0bjVlR1lSQkUwRVJSNUZPbWo0eW9nQTB2MU5uVUhQZ0dOVXNLbENkNndLQnI5RWlJZmRGczRmU2xLaTJ2MTJxU0xpVTdKaHotOVppWDk4U1RmNm9Yd0dpa3Z0UUhzNTRuYlh4aFZtRUlhUVdZLXByUTdTY1I5ZEtWOVZYTlFoQnNBYWMzVl8yQXMyUWVqbzFOcEZwNTFfQWtZU2o5UTN2U0Frb3NwMGlvNktVRGlTbFJlT19vM1J4amFvU05sZmNxOGJKeXRtdVFYOERKTmhhTDQ2bVFFamxNSkRodUZGUm1GTS1iUDhtSEJwZkRsTlNLSEo3RUVna3JvNmoxb2FvZjJk?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T09:42:12+00:00",
+      "fingerprint": "8dd614a51bbd34c9d11c5e438ea90f8ff70e9927c31de9385b247040c458f46e",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "030b977f1446dbfa0c67544d",
       "title": "陳健治曝給蔣萬安建議：首長最重要「不行的要換掉，好的繼續」",
       "source": "CMoney",
@@ -620,6 +768,20 @@
       "history": []
     },
     {
+      "id": "aef06e4f203f0b3988da1327",
+      "title": "祝蔣萬安連任成功！ 陳健治當面建議：不適任的局處首長要換掉",
+      "source": "ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0td2MwN0NISFRvZHVFNXR4bEdtSUtUa052cjB4VEVaSC1VdDREempDWUYwYU13aTBNY19XcFZ2MHhwVDNMRldWQmE5RUdKTEw2MjI1azVlRDltT0FaM2fSAUtBVV95cUxNUDFkT2d1UTc5eC1Ya2xzbmcyM2tDLThNRmNBZVQ2Rk5vME1SeUdpSURrbWNSLVUzNE1NMzc2RFo5TkVxN0d1dndUVnc?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T09:42:00+00:00",
+      "fingerprint": "abaaf6917dd1fd6381e822e1da58d1892ab889328a733b580062ed9b31a74258",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "7ebd9c5c3973e2fe0abd9fbb",
       "title": "建築、都市設計界專家學者力挺 沈伯洋再拋政策「點亮市民大道」",
       "source": "UDN",
@@ -630,7 +792,22 @@
       "published_at": "2026-11-12T09:40:19+00:00",
       "fingerprint": "7984c0fe62628af3cc4b858ce930c2f63345f9cb1b7e50caba12cf148deab111",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "f0ccaf99f5322e9a627aba3d",
+      "title": "選戰隔空拚愛心！沈伯洋捐15萬 蔣萬安霸氣回：捐1月薪",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOZ2l6R2dVYmd0X1E3UThxZmU2TkRyUGt0MFVnaG9PODBKUzdmZFZPcEpyTE1RcUpkV2Z4YU8yM2xSZzdUYXZkQVRlODZYdXQwZDRMQTVXTW5oemp3cHpxWFRLejZkUkN2a1lobzZsMVdHNmdCZVBTSXdsYk5sdURYTjAxWDVvRVZ4bFJ2YmRXbndJVFNRdzYtX2xIamcxMnNBakRKaFFtcXhya0RnRm1lN3dzNUYycmJTcklNTy1aNkhSLS1OSUtka2Q4QUd3QlpnNVNCNS1HMmxKTkdhTkU4ZXUwZWtXYmJDMGxRTDZhVjdOU0p2bDFTNnFlSkNnTk9RdnBpbXlFUG9GeURxZjdLMktLZkV1TzhrUF9WeWxJdUJtQ0tyZ01YMkN1b0VWMmlKQ3RZdkJaWXl2SnFQVjNmZ2tqWU1nWnMyWVNxTU5lV2Q3UjJycjNZ?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-12T09:39:43+00:00",
+      "fingerprint": "251e03f59db7545211ed32a8b33e3490db95b300165b6788bb3ab38fa1886907",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -644,7 +821,7 @@
       "published_at": "2026-11-12T09:38:44+00:00",
       "fingerprint": "bd533cda561a71a7caa8f064cae7e974a41c912f1788995e0b118a16ec3bab4a",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -673,7 +850,7 @@
       "published_at": "2026-11-12T09:36:00+00:00",
       "fingerprint": "40acd060575d28279c6360b0bfa677afd41473506b8f2234ece8c32f90aa381e",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -718,6 +895,20 @@
       ]
     },
     {
+      "id": "a83ecb9d773cefc76dcf4c29",
+      "title": "陳健治曝曾給蔣萬安建議：首長最重要「不行的要換掉，好的繼續」",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40Y2NEYlhrX3FtSUYtN21qUmZZZDBxWV9LTktBTFN1by1jRnJPc3pSaUowbDhBRkV2RzZsZWxpcGN1VGprZTZMRFhLN09mYnVxeHI40gFYQVVfeXFMUHFWTmk0QWdPZnNKYVUyUGJoWlROMnlMd3g5aTdvYzNoNlFZR25LVklCUFFKaFdVcm5NYVhVWmEycmFTV2NRa2VlY2Zyc2VGWGNuMnYyXzYyXw?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T09:32:58+00:00",
+      "fingerprint": "97544e556bbc32fbc47aeaecfb3e6d23c4d12c34df1cd4de6396bf65abe56618",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "3d97f29028df587166f9b793",
       "title": "蔣萬安捐1個月薪資徐巧芯曝總金額22萬：分別捐給3社福團體| 2026九合一選舉",
       "source": "UDN",
@@ -742,7 +933,7 @@
       "published_at": "2026-11-12T09:31:18+00:00",
       "fingerprint": "39d1138fdbb774a510c6a89ed47e49e9243900295d0ded5f81dd1de5b28b5b44",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -771,7 +962,7 @@
       "published_at": "2026-11-12T09:13:31+00:00",
       "fingerprint": "b23a79ab83ae43a3b4f2525fa9344ef6a472408b74bd5e9c59ec2ec6ed1b33f3",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -785,7 +976,7 @@
       "published_at": "2026-11-12T09:10:00+00:00",
       "fingerprint": "5b763486d1cbe09c169e462b6e163cada2fd5d8303c78b352599cd58579cc44f",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -800,7 +991,7 @@
       "published_at": "2026-11-12T09:09:48+00:00",
       "fingerprint": "9066d96f60c8f5dc9d8da375631809ace9b889131435cfc0a55ce6942c1afd7e",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -828,7 +1019,7 @@
       "published_at": "2026-11-12T09:08:35+00:00",
       "fingerprint": "613b8f9a1672199779b30bfbcf90df9fb45bd0b2303245a67dfc092257441a54",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -856,7 +1047,7 @@
       "published_at": "2026-11-12T09:02:31+00:00",
       "fingerprint": "a0b7f19b7695c158be6a008cd2a37f8b3d4c4aa3fe107e16cdf2283315b3c63e",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -885,7 +1076,7 @@
       "published_at": "2026-11-12T08:59:56+00:00",
       "fingerprint": "c25de628761b735bae0e23be00b4db6d817e7a2d33e74f67bedfdc43a6f5afca",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -942,7 +1133,7 @@
       "published_at": "2026-11-12T08:34:27+00:00",
       "fingerprint": "a2a32c9a9e5119a69d4afeb4c531b5dc7e094193b209ac02de675fdc27d4ee2b",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -970,7 +1161,7 @@
       "published_at": "2026-11-12T08:23:59+00:00",
       "fingerprint": "2524ead2f6c08daa5090caae0dd6bbb473fa595dbf8c82883091573eba778bac",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1012,7 +1203,7 @@
       "published_at": "2026-11-12T08:00:05+00:00",
       "fingerprint": "ddfbd820ca4741b735dc99d5c764baed541eaea490d369fdd32f1847bf0c200a",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1026,7 +1217,22 @@
       "published_at": "2026-11-12T07:58:30+00:00",
       "fingerprint": "cdcc96b69aa42832eca6ea1766a2bf8aed42daccbc931dd11754eb353ff8694a",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "5c8bd49300e03f08648d5bcc",
+      "title": "跟進沈伯洋捐薪！羅智強：蔣萬安捐一個月薪水給社福、性平、動保團體",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUG1qN1BOUGpYVV83eURvc3FOejlJMmcwb25EZjdYQkdvNFFPVHNJOUd4VDZnaWFUa2NHYXpmRDk4VWxQdmhSNkk2bVBldlZYYzZjcWdOR0NzdFJIUE95M19zR0g5UFk4bjNHMmZUb0VUaUF6SExDZU5SR2RKbkRqUkh6VEt1QnV3SGw1THZyY0NWUU5QYzRSTXJCNHhJWkdiV185cmZKM1VZMXhwOUFfZVc4ZWpIYWR6Vm5NZVJDSUE3YmJ0UDJpM25LXzBYOXFEdXEtTVJwUXpKS1lUSHV0MlRjTE9fb3lTWlVsV0sydElzWWgwNmRJdXVSQ1pBMTVzbXFRTUhoc3lSZkVtQ3BLVi1PNmZ3bGxtai10V0kyb0ZfdFduUGlkcWNjVDIzZ21NTGxQM29GMkkyVEVmU09weHlRU2NjdFFXdVRTMGk0WXFrTURMdjBkdWlrRGZXTWFQc2hQc2dKVklKS3RK?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-12T07:58:00+00:00",
+      "fingerprint": "36e6e0802c9964182391e8bc387cc833e39012a0c4051f2ab2577684405b0b84",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1041,7 +1247,7 @@
       "published_at": "2026-11-12T07:54:00+00:00",
       "fingerprint": "0ce497af46c49f0143845b25d0d3ce04792e49fc1eb12bc95228fc292954f6ef",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1071,7 +1277,21 @@
       "published_at": "2026-11-12T07:50:28+00:00",
       "fingerprint": "55148e221474dc4261ccd7a6679b64740c1106d0a08afb00f2bbb980419b5a6e",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "376eed5928f1d7d186416e46",
+      "title": "倒數階段！沈伯洋團隊聚焦4工作要務「強化陸戰是首要」",
+      "source": "Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nN1Z2cFhnUHRueE9jRWl2R2pSX0ZmZXFUb2FjcHdRbFBtcmRyeDlSZ0d0c29yR19lMWIxTFhLQVBKYWc5SE9NdDVEeVJIUWtZTzBmVXZGNG5JSEU?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-12T07:41:45+00:00",
+      "fingerprint": "03db041028cc0887acd8c148b31c1b6fea4fe56659936ee82a8c2d4ee93c466a",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1114,7 +1334,7 @@
       "published_at": "2026-11-12T07:29:10+00:00",
       "fingerprint": "69158ed659b1d01e4b5d6375a89edf1849dc45235d669dd5b02ea8aa89e7b3a8",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1128,7 +1348,7 @@
       "published_at": "2026-11-12T07:29:00+00:00",
       "fingerprint": "e22758fa8faf24654992418c0258d774c9cbecc71dd77e9dfa6f1c56788ea2a5",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1156,7 +1376,7 @@
       "published_at": "2026-11-12T07:21:47+00:00",
       "fingerprint": "a6097c94611cd61fefdd47d2afa074e45d79d0d9bd06a7464063cc9eded0eb34",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1170,7 +1390,7 @@
       "published_at": "2026-11-12T07:21:12+00:00",
       "fingerprint": "426cd92d267de034302089824a64c96bdf3a5417d67315ab3cd4b132347bdb47",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1200,7 +1420,7 @@
       "published_at": "2026-11-12T07:19:16+00:00",
       "fingerprint": "fc3a35319cf5ac8a68d1712ae2ebcba3392fcff5363c27411f17fea5883a7744",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1228,7 +1448,7 @@
       "published_at": "2026-11-12T07:15:07+00:00",
       "fingerprint": "5103a3be069995c326e6a9572de7f385fc398d67f4fc9f3ee95d7829b3936d6a",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1273,7 +1493,7 @@
       "published_at": "2026-11-12T07:07:33+00:00",
       "fingerprint": "ae28ae446a4f492c0bb2f933466d9c02d6462ae77ee6071b5dea0c31d84d82de",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1302,7 +1522,7 @@
       "published_at": "2026-11-12T07:05:00+00:00",
       "fingerprint": "d559cf94c3a264de0fd381ee9aee657377247adec6075d699e38f26b56d972e1",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1317,7 +1537,7 @@
       "published_at": "2026-11-12T07:03:39+00:00",
       "fingerprint": "f494618d3c62512267ca02a2f973d7929c445682060c4e88c73c6a5ca1c76750",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1346,7 +1566,7 @@
       "published_at": "2026-11-12T06:54:00+00:00",
       "fingerprint": "f573a86bf856fb8ea337cf0e41c7a7829d623501fb1d488adf73f41dfe84d93d",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1360,7 +1580,7 @@
       "published_at": "2026-11-12T06:51:15+00:00",
       "fingerprint": "9b2b6a52143bbe2a7e96aaec3c480f2c522177f811d9a208bb6ae893b5f8bee4",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1375,7 +1595,7 @@
       "published_at": "2026-11-12T06:50:25+00:00",
       "fingerprint": "1cb0a3e1d672fd57fd580bfbec94cb3058d3f743ae3ce1e267f8bb496962d687",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1417,7 +1637,7 @@
       "published_at": "2026-11-12T06:41:59+00:00",
       "fingerprint": "78aca50e9949f7bcf782b5760f17a0788b193cc8fcfcdda0b01a5a54438f9e42",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1445,7 +1665,7 @@
       "published_at": "2026-11-12T06:41:00+00:00",
       "fingerprint": "2f4a4d3b188e5abbd148c39119c7c569a22d2c57a9eba10a1c4a3bc838794967",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1501,7 +1721,7 @@
       "published_at": "2026-11-12T06:16:04+00:00",
       "fingerprint": "38a4d186d852f856f4b11d279f658f8df605a43da480c45b389b59c8937c24af",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1529,7 +1749,7 @@
       "published_at": "2026-11-12T06:12:48+00:00",
       "fingerprint": "4aa8f127ff65c88137d523456cb978e98e083d473535a31d5ea0e97d9faf1dd8",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1543,7 +1763,7 @@
       "published_at": "2026-11-12T06:11:55+00:00",
       "fingerprint": "a510a69ae70edae925665e7c6d3bb0bf6ea9708c243588bc9a3923630dbd6f84",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1571,7 +1791,7 @@
       "published_at": "2026-11-12T05:51:29+00:00",
       "fingerprint": "abb78a58eb8c8897a033375656d6a36d2c3500d3426e98558c99f53576fe7166",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1600,7 +1820,7 @@
       "published_at": "2026-11-12T05:35:00+00:00",
       "fingerprint": "e65a3d56f09c09e8458fabb35a2bea7aaa49c90823b13e9012a3420c54d30c19",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1614,7 +1834,7 @@
       "published_at": "2026-11-12T05:30:00+00:00",
       "fingerprint": "cee6d1dfa30cb69d9efd46924749ce4070f1fa552edb8e422f9a109a11d508f0",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1628,7 +1848,7 @@
       "published_at": "2026-11-12T05:29:05+00:00",
       "fingerprint": "4c67463cac8935f7a1eb957079cf5218b924c16c4d3f1dd70dc76a1386baa845",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1703,6 +1923,20 @@
       "history": []
     },
     {
+      "id": "70cf3e0d026269d9169fb7a3",
+      "title": "沈伯洋推市民大道3處橋下基地打造藝文與夜間廊帶但實施要經專案研究| 2026九合一選舉",
+      "source": "udn",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94MFhUYWFwM1RuQVcxOWliRVdYeTVjUUlLMEY0b0lXbE9OVzVKcXl3bjhINzZsVl8xZGZhaVhUUFY2eXVLWXhjaS1mTko2cjVqYXZlUER3M0c?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-12T05:10:23+00:00",
+      "fingerprint": "9b202be5917c8a1f88e777ad7c43d717f33b3bb3843ccb921580fd22036fc00c",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "25a72d6902a3997f665dc36b",
       "title": "蔣萬安、李四川提雙北公車399定期票政見| 地方",
       "source": "中央社 CNA",
@@ -1756,7 +1990,7 @@
       "published_at": "2026-11-12T04:58:52+00:00",
       "fingerprint": "fe33689822734d514aedd635e37b26e63d09f9da193832e6044c4b26289c42b2",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1770,7 +2004,7 @@
       "published_at": "2026-11-12T04:58:24+00:00",
       "fingerprint": "fc43ebb253fc7d14b3fe278a1dd77c993a128b905241a7ec0edd2c3dc7f063ca",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1855,7 +2089,7 @@
       "published_at": "2026-11-12T04:52:00+00:00",
       "fingerprint": "5233df01a351e85c33481c1124b0b46a34cd43411b34b7320f8d9cdaa09d3d5f",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1869,7 +2103,7 @@
       "published_at": "2026-11-12T04:49:52+00:00",
       "fingerprint": "c3a0622ab62f97be2126f328c7b5ecf5950309045851988b80db8e64ad1bbe98",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1884,7 +2118,7 @@
       "published_at": "2026-11-12T04:45:07+00:00",
       "fingerprint": "3aebb60aed2e0a3e2392d23f276a4caa39b1f8099430391887d542932db40794",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1899,7 +2133,7 @@
       "published_at": "2026-11-12T04:43:19+00:00",
       "fingerprint": "eb64fd3fdbfab9c2576ebc0a81985734566c80f524553ec0604e30847a65e2b2",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1927,7 +2161,7 @@
       "published_at": "2026-11-12T04:39:35+00:00",
       "fingerprint": "57d08744ecf05eaa5274da75bf23ec68473be909391a45f0ff372ea195303bfa",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -1942,6 +2176,20 @@
       "fingerprint": "385c82dce675cd96d749347a9927b6c6f93dd53a06a38c23e02ff817904edbe8",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
       "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "history": []
+    },
+    {
+      "id": "7ee18d0d754369f6c59b594b",
+      "title": "藍白合善意堆疊...蔣萬安邀「安心大遊行」 白營6小雞當天現身理由曝",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55MGIyRC14WU14cUJncnB1Rm01S0ZWQXI5dlQ2ZjIzR3I2MEJLR1Bta3BkVTZfWkhBRHZ6RXhmLW9fREsxeWVNUkk3MzRlc3Vm0gFWQVVfeXFMT1Y5WUV1c1laZWw2MVZxMUlZUG9iSUIzVWJTV0Y3SXl4Yll1Q1VGZmJOYWlObmdod3ZtaXFvTUNEdUs0TXBGNkZiX3FJTVI0UndQOG04WXc?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T04:35:39+00:00",
+      "fingerprint": "f150bd1d0042ae4d8196b4969d0f09b42d76a5c73de273fc0f223518acedc6c0",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2002,6 +2250,20 @@
       "history": []
     },
     {
+      "id": "3f2aea3e566c82e793e060cb",
+      "title": "羅大佑指無子女不會為下一代想 沈伯洋挺蔡英文：不該用既有框架要求",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZnlZVkY3cVkzclBpcEttanhtYkJQdGkwaE56N2FCZXY2T1puUDVSZ0Vrb3RPRXNQR0R5dEFqUEN2X25VcXdYVDAxY0l0UXRFbVJRMXdueEcyZHJUN0hYRFByaTFZVW1vcWfSAW9BVV95cUxQa0VELUppNm5NT2ZlaVZZaHBtRk8tU3VRbjM3RkExbmdPSHM0WV9KWE40Nzh4ODhKbDI4UjVfZUZVWDNsWGZsMGw4aVpmQmdKeE9GaU92OWVGbjlYNkR6bjdSWTk3dHpiQ2c0dkNkYm8?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-12T04:31:14+00:00",
+      "fingerprint": "9e8b8f9269dee9c8bd84e1389608bcc2c783e9c869d4fda55e0e14cfcc950241",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "7f86801c4d283a254d465f83",
       "title": "大讚羅大佑「振聾發聵」被罵爆！蔣萬安急滅火：我有自己的立場",
       "source": "三立新聞網SETN.com",
@@ -2012,7 +2274,7 @@
       "published_at": "2026-11-12T04:25:00+00:00",
       "fingerprint": "1774feed29b461f4f150c43ce3af2870713e6af4555e5e3ab0027fc56946ce6b",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2068,7 +2330,7 @@
       "published_at": "2026-11-12T04:20:48+00:00",
       "fingerprint": "1cedeb6a2cb7451ff9b77ae686da2fae51a9acb7f6184fbf920f2032aa7061ec",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2082,7 +2344,7 @@
       "published_at": "2026-11-12T04:11:55+00:00",
       "fingerprint": "256cc219892730346df753f513692593ac3ee41d61fc919ded0493c3f68c4b23",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2096,7 +2358,7 @@
       "published_at": "2026-11-12T04:07:37+00:00",
       "fingerprint": "b3dffcf6a39dfdf01efb841cb3ad61b6b977228610b0f8c84ab0593842ac6fb8",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "寶林倖存者巧遇沈伯洋！當面問「這些問題」 本人還原對話內容",
@@ -2187,7 +2449,21 @@
       "published_at": "2026-11-12T03:31:00+00:00",
       "fingerprint": "1f8d2f8e7a243619169b914ebd18ea0ddc4847822b2f68dea233e2c0c2cd16e9",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
+      "id": "94207226057287ddb06465cc",
+      "title": "「仁來瘋」形象蒙塵！黃仁勳桃色風暴燒到蔣萬安？《華爾街日報》：恐牽動北市選情",
+      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxORy1FblpFYVJuU0F2Q2twNHpCV0xUQktiNFNZbWhQREs2Nm1sR2w5Y0NQdk5FUHJYTjR6RHNkSW1Dc1UzOVA0WFpXTGlRaGo2ZlY1Q3g3SVlqV3hZUUJtcG0zUnlzZ2dhUlNBNzJnalVxX2pHZzk1aWpfWERCOGNrOHVrWE1Zdk1CR1RMNEtUakhNUnBJRHNQbDg2U2tSYjBYVGk3MjhCTzFIWGRKMEVDekhFdXBkR3VrTGpSMW0wUEN1Vk40RURZa2JPanY2VDA1SDRjeFFzM0hlMEI1UmxmQ2E5cVdDR1lCRWRyYlNBdGtoQ1Fla2tTUHlhQXBhQmpLQVpUZkR3b3R4MXdlQWdrWDZQamJxT3JlVS1NckozNGszT0E1TTBmSW11dUZYY2d1clUxdDlfRGJybTdhV2M0Y2ZRcHhKd0dzMG9xV2hQeGpDZnhsYnBQMTRZWm5hTnVQcWJFVmcxXzlyeGRPMVRUOTFIWUpPOUtmU3RTcG5nZWpVVmExR2Z6bVdhTzZIRThVeFBxTkZjdkMxZzl5Qk9xUkdfUExtZ190NjFSbmVyT0xRQS1fMzhSczJPN2IzRTd0MGNUaEVnN2cyRTRaVG01V0Nwb3M?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T03:28:40+00:00",
+      "fingerprint": "b32f4e41648dec38c31c2d155cf20fa4740e62643e03c20d9ccba36e9ed129f3",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2202,7 +2478,7 @@
       "published_at": "2026-11-12T03:26:12+00:00",
       "fingerprint": "6aabad5a79aac9157ec211bfbba26ea07503970a921f926069bc4ad623767936",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2216,7 +2492,7 @@
       "published_at": "2026-11-12T03:22:36+00:00",
       "fingerprint": "bb7e793f4ee2129bf22525b26d20060fe43a6c24d8b26d4b27ed349dcd0b6b35",
       "first_seen_at": "2026-11-01T22:21:00.138859+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "沈伯洋市長辯論金句掀熱議！23年前獨站稻田 3封信早已露端倪",
@@ -2288,7 +2564,7 @@
       "published_at": "2026-11-12T03:00:00+00:00",
       "fingerprint": "5cc9fdec85918f13b63ebb1ec34e487cd7554d1b33b8e26ad3b72f3b07756ab6",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2302,7 +2578,7 @@
       "published_at": "2026-11-12T02:58:47+00:00",
       "fingerprint": "cdf4fa5ab290e1d7a1928fced5ffd98813ffd36913d13b98b6a84851293c2acb",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2316,7 +2592,7 @@
       "published_at": "2026-11-12T02:27:09+00:00",
       "fingerprint": "5c5248e49dc7f2d0f053d5a755834945122aacdede03645913f7705ec16841f4",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2345,7 +2621,7 @@
       "published_at": "2026-11-12T02:23:00+00:00",
       "fingerprint": "b085ed576338c60672143d08682d8f661516c48d5d2f20ae9db028f4753c9180",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2359,7 +2635,7 @@
       "published_at": "2026-11-12T02:12:39+00:00",
       "fingerprint": "aff4cbb23b93d04dab89237e74c363489a6373ab95493dba12b28f33e3e70d17",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2401,7 +2677,7 @@
       "published_at": "2026-11-12T01:56:00+00:00",
       "fingerprint": "05eb976044dec7be0b888bd95b87887f3befb325ab21fd31f86ba27ff0f32e7b",
       "first_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2473,7 +2749,7 @@
       "published_at": "2026-11-12T01:29:00+00:00",
       "fingerprint": "9d221d2891e78d7977a51795bf6831eb01ab25c36e6a2710ab5b74436d9f857b",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2505,6 +2781,20 @@
       "history": []
     },
     {
+      "id": "7ba684b714c1f1795d43dcdf",
+      "title": "蔣萬安同框白小雞直播大開生4寶話題 網批：拿彼此太太子宮開玩笑？",
+      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11b0JYOUFMdDRTZUlibUhaQUFfa3FybWVMNEV4UVdZMU5vaGdCdy1peDFFZXR2YWlHZTY0c1RBcXI2cXhCNXpqX0pkdmJEdGRtTzNjaDA3OXVoMWQzbm5rTXNuWXNCOGxIdnfSAW9BVV95cUxQaTNieG81cUFpVUN5ekx6ZEVubHVId1o2SUJIbFpocHQ4MGdnUGZPeHU0Qm5CRWVpb2UyRDZ1dWFQSUlSVDE5WVBzQlJOZGNMYmlwaHFiZDZPNVpKSlNvQjRrZ3ZaQmxBLTZoMGFzakk?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-12T01:11:06+00:00",
+      "fingerprint": "79ea698f2b983c7ac8eb7c45789ec16496a4f7129d3a29c49b2bbb8260fe5172",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "3b70ce199f67c948e62442d4",
       "title": "今起向立院請假衝刺選戰 沈伯洋照發書面質詢",
       "source": "自由時報",
@@ -2515,7 +2805,7 @@
       "published_at": "2026-11-12T01:10:22+00:00",
       "fingerprint": "6710bf0f540a11746a509781b4261dbd8eca223c1f14acbc401fbb3a41c8d44a",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2529,7 +2819,7 @@
       "published_at": "2026-11-12T00:59:39+00:00",
       "fingerprint": "5169bbb86a1300fa239284dd44186ab16462f669f63b1e440475d6ef1d5ad115",
       "first_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "last_seen_at": "2026-11-12T02:18:10.780882+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2544,7 +2834,7 @@
       "published_at": "2026-11-12T00:40:16+00:00",
       "fingerprint": "3f2b80babc6b7ae064bbf488d20c5f21744c0d73dd95cd694087deb5723474eb",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2631,7 +2921,7 @@
       "published_at": "2026-11-11T23:56:26+00:00",
       "fingerprint": "a8b2eca2968566b8f94c8d91c0ded67424f538f7c4d64b397de5ad342b79db6a",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2645,7 +2935,7 @@
       "published_at": "2026-11-11T22:20:00+00:00",
       "fingerprint": "077cf8da36e83f764b6cf8e2a49c1bece0cfb0d15f7a553b545261b4ba7dc3a4",
       "first_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2687,7 +2977,7 @@
       "published_at": "2026-11-11T21:36:00+00:00",
       "fingerprint": "37c61cf4e3790a27ce0ab5a30d1db6ac5a9456bd89500c8df72574b76d9231d5",
       "first_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2701,7 +2991,7 @@
       "published_at": "2026-11-11T21:30:00+00:00",
       "fingerprint": "03e871fdc31b5622ace283fd5189abc7d3ace71d33cc23b33960e92d2b9d01df",
       "first_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "last_seen_at": "2026-11-12T02:18:10.780882+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2750,7 +3040,7 @@
       "published_at": "2026-11-11T16:46:14+00:00",
       "fingerprint": "e08e2abb98955f3d64bacb140baeb06b9dcc38096e3e4dac78e82677ef97efe4",
       "first_seen_at": "2026-11-11T21:14:17.343695+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2792,7 +3082,7 @@
       "published_at": "2026-11-11T16:00:00+00:00",
       "fingerprint": "678755ab2f5ad5855d04f36edbc2ce9d5bf3a5e8549063422a2dc7ad07e3e35c",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2835,7 +3125,7 @@
       "published_at": "2026-11-11T14:46:00+00:00",
       "fingerprint": "7c6da8d81fd975a07f44e5762a1d562a8fc099294653e026b0a8abff62935152",
       "first_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2878,7 +3168,7 @@
       "published_at": "2026-11-11T14:34:00+00:00",
       "fingerprint": "f151286bc22cce7a4a9b7451648feab1b6e1725007329047001f09278f7dbfff",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -2921,7 +3211,7 @@
       "published_at": "2026-11-11T14:19:27+00:00",
       "fingerprint": "8f87b253ed30e0c894323e925b65fa98fbdd4fa84bf110eee621344a6e1d66c6",
       "first_seen_at": "2026-11-11T14:00:19.116972+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "11/14比人潮！蔣萬安大遊行PK沈伯洋音樂祭",
@@ -3000,7 +3290,7 @@
       "published_at": "2026-11-11T13:53:16+00:00",
       "fingerprint": "6a9321ca9b86a68e9384866832fdba8607a494db507521dfdab0e68c081edd86",
       "first_seen_at": "2026-11-11T21:14:17.343695+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "沈伯洋辯論會突邀加Line 蔣萬安吐真心話「讓我撲通撲通」",
@@ -3080,7 +3370,7 @@
       "published_at": "2026-11-11T13:10:00+00:00",
       "fingerprint": "f1a13ac0a385a9ec8b473bc7fb3e535af2b3608acfbbb20279f6d701977829ad",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -3123,7 +3413,7 @@
       "published_at": "2026-11-11T12:50:59+00:00",
       "fingerprint": "883af3a5e2b53ae8cb6d30ed63519eb871af83dcbfd4e60f9cdcfed344ea5f51",
       "first_seen_at": "2026-11-11T21:14:17.343695+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -3237,7 +3527,7 @@
       "published_at": "2026-11-11T12:02:48+00:00",
       "fingerprint": "41878f2fe9d1a1a3ddc9352c10be2c5d98c9389ed40ba49b3d57dc9a8bf9c61f",
       "first_seen_at": "2026-11-11T21:14:17.343695+00:00",
-      "last_seen_at": "2026-11-11T21:14:17.343695+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -3294,7 +3584,7 @@
       "published_at": "2026-11-11T11:48:48+00:00",
       "fingerprint": "bec2ce1a280f42c8f3587c7dc6d16a775ad9ce22bd6edd6700d28b878ca839ca",
       "first_seen_at": "2026-11-11T14:00:19.116972+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "【重磅快評】勝選才請辭看穿沈伯洋、張廖萬堅的選舉陽謀| 縣市長議員選戰| 要聞",
@@ -3440,7 +3730,7 @@
       "published_at": "2026-11-11T11:12:25+00:00",
       "fingerprint": "944e7197e153a0551cd998f4d37a0b90978327bcb736e4a97a75856da3f22c51",
       "first_seen_at": "2026-11-11T14:00:19.116972+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -3612,7 +3902,7 @@
       "published_at": "2026-11-11T10:22:54+00:00",
       "fingerprint": "89abb21e625060f3c7bec47f366faa9332b3aff8b97b6701c98081481bd6ce41",
       "first_seen_at": "2026-11-11T21:14:17.343695+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -3951,7 +4241,7 @@
       "published_at": "2026-11-11T08:14:23+00:00",
       "fingerprint": "64f29feb0578ccc21e0e672ecb55eb4fcdaf258357eb521371e6e2a8ad9018c3",
       "first_seen_at": "2026-11-11T14:00:19.116972+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -4093,7 +4383,7 @@
       "published_at": "2026-11-11T07:08:30+00:00",
       "fingerprint": "4e71871c95240c72472972b9a7ec918a7695447cc4a86c8c88a84c1d4535e1c5",
       "first_seen_at": "2026-11-11T14:00:19.116972+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -4423,7 +4713,7 @@
       "published_at": "2026-11-11T05:17:00+00:00",
       "fingerprint": "85a263fe5ae5efcf10ae2a8a82696f39138beb3d4e7f0bb66a045b5f839812b5",
       "first_seen_at": "2026-11-11T21:14:17.343695+00:00",
-      "last_seen_at": "2026-11-12T02:18:10.780882+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -4495,6 +4785,20 @@
       "fingerprint": "43da84f00b773e0e43e59619dcc4f8927a1d23c7287fcf3ad5e92450500c3ddc",
       "first_seen_at": "2026-11-11T05:55:22.049075+00:00",
       "last_seen_at": "2026-11-11T05:55:22.049075+00:00",
+      "history": []
+    },
+    {
+      "id": "1efa72e7052bc442a785249c",
+      "title": "沈伯洋、千尋老師6年愛情故事！婚禮主持人親揭花絮 網淚：看到鼻酸",
+      "source": "三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14MVYtSkRrRHVTckhUYlNObFZGUlZPU1R3c3BCUG5jMWZ0Zzkwd3JtcFEzaWZpTHpwdzVtZ3hEc1ZmOC1ITFcwd9IBTEFVX3lxTFBaSmVpTHlIcEJSNXRPMmhHcWdfVFVMSlFQTFVnRWVuQzNHX0NaU29Cb0FUS2hXYm1JZjdUc25YbUlsQVVVS0JacjZOV1k?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-11T05:08:00+00:00",
+      "fingerprint": "82b15ec04495c2114d06095399ecfa81c72f06a9d9afb4b8756f7abb6f615512",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -4607,7 +4911,7 @@
       "published_at": "2026-11-11T04:48:49+00:00",
       "fingerprint": "70f85b916e18daee22af3dbae775159c63980dce1a28d9a21d9c8b0559074b86",
       "first_seen_at": "2026-11-11T05:55:22.049075+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "沈伯洋早就警告高金素梅非常危險！ 2024年質詢「神預言」驚呆網",
@@ -4739,7 +5043,7 @@
       "published_at": "2026-11-11T04:27:46+00:00",
       "fingerprint": "3aa4e72b9c195eb811173f8b1aae922240e791393d17b387e48188cceaf6e2ce",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -5419,7 +5723,7 @@
       "published_at": "2026-11-11T03:13:14+00:00",
       "fingerprint": "3b63c399d58c79669716239e8fbed55c02acc5405e2ff3d05b5bd3ee4c24f098",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -5825,6 +6129,20 @@
       "history": []
     },
     {
+      "id": "b6a575b6f048006836c7f5c4",
+      "title": "莒光日放沈伯洋影片？ 顧立雄：國軍維持中立不介選| 政治",
+      "source": "中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ySzBpSjFxeXJtZjVMX2VYUzVxSWlsckZEZXFkWW1XeXlDeHNvWXRtcDZuUm12dzFiYTk0V2k3R0JDZGZDTFpUeHNLUW4zQnNXblpIc3FQLUMtVTREVmRv?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-11T01:41:00+00:00",
+      "fingerprint": "3b8afb7bc25f00f55bcb9d53054d39fbfe1d994137961e9a867f8cbe3d7e5a0e",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": []
+    },
+    {
       "id": "f00530c1350491b6ae457920",
       "title": "蔣萬安略過洋流店家遭嫌羅智強酸沈陣營：拜訪侵門踏戶不拜訪沒氣度| 2026九合一選舉",
       "source": "UDN",
@@ -5836,6 +6154,20 @@
       "fingerprint": "66fd966410fc4da42c5d2c2a36042ee2b442a20ed35922e7f57c1b79361c7901",
       "first_seen_at": "2026-11-11T05:55:22.049075+00:00",
       "last_seen_at": "2026-11-11T05:55:22.049075+00:00",
+      "history": []
+    },
+    {
+      "id": "7f78a3895d5bef7082445d6d",
+      "title": "蔣萬安略過洋流店家遭嫌 羅智強酸沈陣營：拜訪侵門踏戶 不拜訪沒氣度",
+      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VW4yYkxrcGxwQTAtYW5nU3F6c085MDdQYUR2N2w1SkhDb19JQkpSLVhRQUpfOG5MSHI2VlY2VTVkYkZNTWoyazl5MmtuNndfLUxB0gFYQVVfeXFMTVR3TDBkNlFoa0JBdll1Q1phTGZSc1NpcHEya1h0NldlamVma19Yd1FJdG9OQXRrNlYzbjlBUzZnWUlSdWZ2TWZtZGduR3dvMXNsNHpvSEo4Sw?oc=5",
+      "people": [
+        "jiang"
+      ],
+      "published_at": "2026-11-11T01:38:00+00:00",
+      "fingerprint": "9dab5ee7ea88b865ec8cb44d976a99c68be44f35132beef09e0536226a8240d5",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -6003,7 +6335,7 @@
       "published_at": "2026-11-11T00:19:40+00:00",
       "fingerprint": "237f9d25b7cf7d70ff60937b96f9edd00ef3eb8e991db140f1e75e96f6b6816e",
       "first_seen_at": "2026-11-11T21:14:17.343695+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "蔣萬安飄帶、貼紙、海報來了！石舫亘今晚6點競總親自發放",
@@ -6379,7 +6711,7 @@
       "published_at": "2026-11-10T15:23:14+00:00",
       "fingerprint": "87e3f7b8eceeaa477ac1516f5fbbcb0660e250617c2e84b32a4b764e7b9a19ae",
       "first_seen_at": "2026-11-10T18:54:31.591105+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "秦慧珠同框沈伯洋比「3」 鄭麗文提醒分寸：怎可面帶微笑看著沈？",
@@ -6415,7 +6747,7 @@
       "published_at": "2026-11-10T15:09:00+00:00",
       "fingerprint": "c98f6fbcb531ee1e340ccc4efbb14991ba03a9aacd36c7b69eb9e65cc998fb39",
       "first_seen_at": "2026-11-10T18:54:31.591105+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -6457,7 +6789,7 @@
       "published_at": "2026-11-10T15:00:00+00:00",
       "fingerprint": "f7942af403c92cf6758802a5f148a98ef191a780f0f6a541dd165f8c79fe1481",
       "first_seen_at": "2026-11-10T18:54:31.591105+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -6542,7 +6874,7 @@
       "published_at": "2026-11-10T14:29:46+00:00",
       "fingerprint": "3174b528f175b1b9a1b85ddc2cc9d573710e7d0b41572c0aa61520b52c22f751",
       "first_seen_at": "2026-11-10T18:54:31.591105+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -6626,7 +6958,7 @@
       "published_at": "2026-11-10T14:15:00+00:00",
       "fingerprint": "59417a5bfe3e926de5f979c5a120e228b365ce398dfc355b9cf10abd36ebd7b6",
       "first_seen_at": "2026-11-11T14:00:19.116972+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -6654,7 +6986,7 @@
       "published_at": "2026-11-10T14:10:15+00:00",
       "fingerprint": "8c0246d6a638f2300451e01411f82cc5f984173dad5aa6d44738dbdaca48c339",
       "first_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -6682,7 +7014,7 @@
       "published_at": "2026-11-10T14:08:22+00:00",
       "fingerprint": "e6dc7cb0e0ae5fa33761440905feabafa26bac357fd6c6d48ecda523a1796b37",
       "first_seen_at": "2026-11-10T18:54:31.591105+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "大學生衝了！他們到延三夜市挺市長 蔣萬安掃街再遇「洋流店」",
@@ -6707,7 +7039,7 @@
       "published_at": "2026-11-10T13:53:00+00:00",
       "fingerprint": "941996f0eaa82ed90a901a02b3fdab2d8cd3cfe930f2c5ec822aaba0796bcc9f",
       "first_seen_at": "2026-11-10T23:58:57.292542+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -6953,7 +7285,7 @@
       "published_at": "2026-11-10T12:48:09+00:00",
       "fingerprint": "cb2247aeaa0587899a22e74a5589b25f668d10f4dd1824864213096f646b23ef",
       "first_seen_at": "2026-11-12T18:07:53.880632+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -7072,7 +7404,7 @@
       "published_at": "2026-11-10T12:26:48+00:00",
       "fingerprint": "fdbfd21af19e56202e6faf9a811c2ff5fd47f1642c7a97749cb7192a899dbc5a",
       "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "沈伯洋「無限都更」6步驟曝光！免苦等原址重建但有「兩硬傷」…30坪老宅鑑價只能換14坪誰要？",
@@ -7108,7 +7440,7 @@
       "published_at": "2026-11-10T12:24:02+00:00",
       "fingerprint": "33114021baa26ab69b183033384e9b4bc668bee1c7318f2fd7dcc297e75ebfd4",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -7308,7 +7640,7 @@
       "published_at": "2026-11-10T10:17:23+00:00",
       "fingerprint": "a160ca7b1317eca7584a5fb6f5555efa54c3af39498e45183d78ce84028e36c8",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -7570,7 +7902,7 @@
       "published_at": "2026-11-10T09:04:46+00:00",
       "fingerprint": "a83f80b4dc21c209e740ed134f1d049e0e19c829efda8523cdec50d06a5ec19b",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -7618,7 +7950,7 @@
       "published_at": "2026-11-10T08:58:00+00:00",
       "fingerprint": "d6a431db1ebd319db8edc2022ebcc4ef896924ad606b37b910d7e2762b20458e",
       "first_seen_at": "2026-11-11T14:00:19.116972+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -7718,7 +8050,7 @@
       "published_at": "2026-11-10T08:23:49+00:00",
       "fingerprint": "5799d7d2c3e9443e9e260f128dbbdd4a1ba0b10652ec71e37c72f6dc69fe9e59",
       "first_seen_at": "2026-11-10T18:54:31.591105+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -7978,20 +8310,6 @@
       "history": []
     },
     {
-      "id": "87ec7820518d81b3cfd7fd8a",
-      "title": "「好light」誤聽成好爛！藍營轉攻沈伯洋文法 加拿大外師打臉了",
-      "source": "Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNbm02Rl9VU2JqM1l6Z3Ffc2QwbEFRVUt5MDlJeVFldmt0M0pHb1pEcV9URHBMZ3BnWFFJNHFVTjhyOFd1MDRWS2ZyZG9odm9jcV9OZkxSTE5WTWp5SHpUSHI1Slh0UjJKZURoNEZHc19TVkJsQXI2Z1h4SEM2LUhqSFZyTml4QzB4SVpSX3dBak84N25Id0tWLUliRmxJZE9Qb0FMTUJpU2tuME1kQVZMYjhuYkhOdGk4dzFVVTZKWEZPUTZXRjc0a2NzZ2YtN0Z1Um14WDJCY0stTHljN2Q1eDJTV2N2Z05EeHVsRDJoTUV6NWJ1WmRYaUxwTDg3YjN0aEpjZnkwVDNSQVlOUzFhNnlHVUp0ZnloVTNqY1lxeElQNlZaa2E1YTNqeEFPZDJIYXJnNkFjamNtVS1abWhjSnhkQ2w2Tk5PZ3kzX3FQcnJBY3B1X0p2UURqTWhEeWdZSnlVelpFTURURzdONmxnNUd3?oc=5",
-      "people": [
-        "shen"
-      ],
-      "published_at": "2026-11-10T07:17:12+00:00",
-      "fingerprint": "3ce17db9af82eca5a4701696171970f553136bd7d5e1407f18dc6410ba12d8b7",
-      "first_seen_at": "2026-11-11T05:55:22.049075+00:00",
-      "last_seen_at": "2026-11-12T02:18:10.780882+00:00",
-      "history": []
-    },
-    {
       "id": "d3f6b30d917b9d3c9ce38f4c",
       "title": "沈伯洋「破圈」跨世代、職業！學者曝：90歲阿嬤急救仍掛念選情| 政治",
       "source": "Newtalk新聞",
@@ -8004,6 +8322,26 @@
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
       "last_seen_at": "2026-11-10T11:50:08.224272+00:00",
       "history": []
+    },
+    {
+      "id": "87ec7820518d81b3cfd7fd8a",
+      "title": "「好light」誤聽成好爛！藍營轉攻沈伯洋文法 加拿大外師打臉了",
+      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNbm02Rl9VU2JqM1l6Z3Ffc2QwbEFRVUt5MDlJeVFldmt0M0pHb1pEcV9URHBMZ3BnWFFJNHFVTjhyOFd1MDRWS2ZyZG9odm9jcV9OZkxSTE5WTWp5SHpUSHI1Slh0UjJKZURoNEZHc19TVkJsQXI2Z1h4SEM2LUhqSFZyTml4QzB4SVpSX3dBak84N25Id0tWLUliRmxJZE9Qb0FMTUJpU2tuME1kQVZMYjhuYkhOdGk4dzFVVTZKWEZPUTZXRjc0a2NzZ2YtN0Z1Um14WDJCY0stTHljN2Q1eDJTV2N2Z05EeHVsRDJoTUV6NWJ1WmRYaUxwTDg3YjN0aEpjZnkwVDNSQVlOUzFhNnlHVUp0ZnloVTNqY1lxeElQNlZaa2E1YTNqeEFPZDJIYXJnNkFjamNtVS1abWhjSnhkQ2w2Tk5PZ3kzX3FQcnJBY3B1X0p2UURqTWhEeWdZSnlVelpFTURURzdONmxnNUd3?oc=5",
+      "people": [
+        "shen"
+      ],
+      "published_at": "2026-11-10T07:12:00+00:00",
+      "fingerprint": "9ad0db83addea2fc3fb555de098b0a843a239b6aa7879c0699f81cb435ad6da8",
+      "first_seen_at": "2026-11-11T05:55:22.049075+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "history": [
+        {
+          "title": "「好light」誤聽成好爛！藍營轉攻沈伯洋文法 加拿大外師打臉了",
+          "fingerprint": "3ce17db9af82eca5a4701696171970f553136bd7d5e1407f18dc6410ba12d8b7",
+          "replaced_at": "2026-11-12T23:32:06.338757+00:00"
+        }
+      ]
     },
     {
       "id": "fb2b2dcb9164c3f902a29a8c",
@@ -8344,7 +8682,7 @@
       "published_at": "2026-11-10T05:54:51+00:00",
       "fingerprint": "21dbdced8d47ee0309adc2d7cc42ebabb1ae0c3de49d636bce316b3f54bbc93c",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-11T14:00:19.116972+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -8744,7 +9082,7 @@
       "published_at": "2026-11-10T03:41:23+00:00",
       "fingerprint": "851d471cc775160ede47509064fd73be17011081a58cd4f77613bcf9ea8a2c73",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "廖玉蕙、謝金河道歉了！蔣萬安批沈伯洋：兒虐謠言不道歉理由在哪",
@@ -8779,7 +9117,7 @@
       "published_at": "2026-11-10T03:39:00+00:00",
       "fingerprint": "d7358ec26435095b7684664066c5a4ad5b767157502fb857476ebb0d0e914d03",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-12T02:18:10.780882+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -8863,7 +9201,7 @@
       "published_at": "2026-11-10T03:08:00+00:00",
       "fingerprint": "d10ab0c084960cf7901a5c626a229a0afb61ae892ca003773746705dc92b261d",
       "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -9053,7 +9391,7 @@
       "published_at": "2026-11-10T02:11:33+00:00",
       "fingerprint": "c995d511c60c6388adb4e1aab498206ddf5d4c7fb55e10006e325802327718c8",
       "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -9364,7 +9702,7 @@
       "published_at": "2026-11-09T23:07:45+00:00",
       "fingerprint": "0ef62820368f6b5fa71976a243ef279a903eed368e9c6a60c3945202165f58f3",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-10T23:58:57.292542+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -9440,7 +9778,7 @@
       "published_at": "2026-11-09T21:34:00+00:00",
       "fingerprint": "2c223db533d102016e5cac2760108af1853eefd1041c3af1cd5a8edef32ae7bd",
       "first_seen_at": "2026-11-10T03:45:43.958863+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "又有大咖被圈粉！他列「沈伯洋4人格特質」表態挺 吸萬人同意讚爆",
@@ -9530,7 +9868,7 @@
       "published_at": "2026-11-09T17:12:50+00:00",
       "fingerprint": "3a4d7f867d5606fd4c2e2d01011e1846f3d4e9ea01e3473def182a5e9ec11a3d",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "聯合報社論／從「猜兒虐」翻車，看沈伯洋認知戰逃生術",
@@ -9786,7 +10124,7 @@
       "published_at": "2026-11-09T13:48:01+00:00",
       "fingerprint": "e39d9bcae7e7c2acf94efcb35267a49e25255abb78a8895f93406939dd3b59ad",
       "first_seen_at": "2026-11-08T23:49:06.512185+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "秦慧珠手比3號「支持沈伯洋」？她親揭真實原因：大家自行評斷",
@@ -9848,7 +10186,7 @@
       "published_at": "2026-11-09T13:29:00+00:00",
       "fingerprint": "667732bd3f15bdba8e370afecf4d5b657e0cb4eb9468a6d77aeb9efb43b6b4c7",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "掃街連3小時！沈伯洋自曝「身體1處已拉緊報」團隊急出手",
@@ -10594,7 +10932,7 @@
       "published_at": "2026-11-09T08:00:00+00:00",
       "fingerprint": "1d54f1fa40cd08a62e420648a0dbdd63ee5eaa2b0695e6a38e3ca3dff0412024",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "蔣萬安專訪》被批評就再多做一點！「我不會為選舉刻意改變個性」",
@@ -10624,7 +10962,7 @@
       "published_at": "2026-11-09T08:00:00+00:00",
       "fingerprint": "8db8cbfa5d241d8dd9a31dc0d39fedaf4e4e7f64066f356879e3e79b6554ecb2",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "沈伯洋專訪》動漫宅變首都市長挑戰者 從都更到AI，他的台北願景是什麼？",
@@ -11292,7 +11630,7 @@
       "published_at": "2026-11-09T05:13:59+00:00",
       "fingerprint": "ddccb9ef2c42081143a2c923eaaf1879feb13ace99dd0d8e755777c65a46076a",
       "first_seen_at": "2026-11-09T21:28:30.528039+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "與沈伯洋合照比「3」惹議 秦慧珠還原始末：我完全不支持3號沈伯洋",
@@ -11375,7 +11713,7 @@
       "published_at": "2026-11-09T05:01:00+00:00",
       "fingerprint": "dc65904069e6b25812b494519a90a5b5b19eeb3b95a038c7bc1db0e984943b87",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -11527,6 +11865,21 @@
       "fingerprint": "97a490b7f5cfb22172403abae6a029da6a3d72cd044c58d1a51e1076e5ba9f48",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
       "last_seen_at": "2026-11-09T11:17:22.916674+00:00",
+      "history": []
+    },
+    {
+      "id": "95c4e7cce478f3db6f973149",
+      "title": "沈伯洋北市要贏蔣萬安有多難？旅美教授拿2022板塊精算：這72%的選票是關鍵 | 張庭維 | 新聞",
+      "source": "風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kcG90YjczdEQ4VkExN3N4a2NCZkZUdUZXSFpfR0xEXzdueUhFNW9aWXhIRG1NRlprdGxwWE9nbGQydFEwcG8wNjRlYVpjQQ?oc=5",
+      "people": [
+        "jiang",
+        "shen"
+      ],
+      "published_at": "2026-11-09T04:30:00+00:00",
+      "fingerprint": "61a0b4063cf3724f5c92c8faef28ea89c9f048ea8c12710fe405f7072c5b5fe1",
+      "first_seen_at": "2026-11-12T23:32:06.338757+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -11717,7 +12070,7 @@
       "published_at": "2026-11-09T04:04:10+00:00",
       "fingerprint": "1aeab42b83d851a75f29e8539cbde72befc242d8a423de9e44871256f79348e6",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "藍提告前廖玉蕙臉書刪文 蔣萬安怒指一事：沈伯洋才是最壞示範",
@@ -12391,7 +12744,7 @@
       "published_at": "2026-11-09T00:18:16+00:00",
       "fingerprint": "983d109f5d7c5d4e21306af606f39ef492c38c00acab368329132a6f358eaf94",
       "first_seen_at": "2026-11-09T03:01:46.405219+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -12668,7 +13021,7 @@
       "published_at": "2026-11-08T16:00:00+00:00",
       "fingerprint": "c7ed238fd77e31b585ec9b7ff557ff904006d5d5afed0253f9800b7b31ab96b2",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "曹興誠邪靈說 蔣萬安：熟悉的大罷免回來了",
@@ -12833,7 +13186,7 @@
       "published_at": "2026-11-08T15:03:23+00:00",
       "fingerprint": "c5879dd79bb09a1c0123cfca2d64e81b5955f60ffccb6e22b9e0be98a03cb37c",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "控北市垃圾車廣播「市長選舉請支持蔣萬安」挨轟造謠…廖玉蕙刪文了",
@@ -13160,7 +13513,7 @@
       "published_at": "2026-11-08T12:41:12+00:00",
       "fingerprint": "98a8df2ad2107805ce79cb1c443c17d016134d917b1af79edcd5a8f7836e024c",
       "first_seen_at": "2026-11-08T15:55:04.175132+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "蔣萬安驚喜「現聲」影片 幫邱臣遠加油：帶領竹北愈來愈好",
@@ -13438,7 +13791,7 @@
       "published_at": "2026-11-08T11:00:00+00:00",
       "fingerprint": "95d6e57dd447f2bd72cd744cfb72bae131b9c9d025ad3b69964cc71e3ca7e762",
       "first_seen_at": "2026-11-10T11:50:08.224272+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -13528,7 +13881,7 @@
       "published_at": "2026-11-08T10:22:58+00:00",
       "fingerprint": "b29886375a8e58e5b3e28d048d70ddd5e6d417314256d4fb64a555384b05bece",
       "first_seen_at": "2026-11-08T15:55:04.175132+00:00",
-      "last_seen_at": "2026-11-12T09:54:21.472200+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -14379,7 +14732,7 @@
       "published_at": "2026-11-08T07:53:00+00:00",
       "fingerprint": "82c10f612edbb13dcb4b6c3dfcd2617ed67c4c544a89e6558365f3677e2839db",
       "first_seen_at": "2026-11-08T09:05:18.077719+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -14951,7 +15304,7 @@
       "published_at": "2026-11-08T05:54:47+00:00",
       "fingerprint": "6a60adbd1094ffaea1590abb5683b5f88430b2be55b547bc0e2f3a8b8ffee58b",
       "first_seen_at": "2026-11-09T11:17:22.916674+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -17234,7 +17587,7 @@
       "published_at": "2026-11-07T11:25:09+00:00",
       "fingerprint": "00f3af839eddcc792504f8dc07bbe83647b3da64c1e40b560ce051cb42d1e6c9",
       "first_seen_at": "2026-11-07T15:12:51.340098+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "合體蔣萬安湧2萬人！柯志恩酸對手府院黨全到齊 大進場百公尺走8分鐘",
@@ -17745,7 +18098,7 @@
       "published_at": "2026-11-07T09:06:32+00:00",
       "fingerprint": "2e7778dda70dee998c23fc034f200dcff1cfbdff84a5a3a3ee09518247e6df3e",
       "first_seen_at": "2026-11-07T15:12:51.340098+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -17856,7 +18209,7 @@
       "published_at": "2026-11-07T08:38:07+00:00",
       "fingerprint": "f5eb9452831e37b839a9aa786d2729c436600d5a6aa9b7bf61f61eabd6dba2ef",
       "first_seen_at": "2026-11-07T19:28:07.124601+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "「洋流」掃街會先確認能否打招呼？他批沈伯洋「謊話說久自己都信」",
@@ -17969,7 +18322,7 @@
       "published_at": "2026-11-07T08:07:00+00:00",
       "fingerprint": "5a08946f1de4c7ce2e3614f9da4f4aa6f335eefa4e656bf9359c395e611de6bd",
       "first_seen_at": "2026-11-12T09:54:21.472200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -18327,7 +18680,7 @@
       "published_at": "2026-11-07T06:36:35+00:00",
       "fingerprint": "41a5afeaac8f5fc39ea656e81500f602022477b3d90115ebb981d47218fe5594",
       "first_seen_at": "2026-11-07T08:39:08.360666+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "宋楚瑜也加入松機遷移交鋒！沈伯洋：蔣萬安應把大家疑慮說清楚",
@@ -18998,7 +19351,7 @@
       "published_at": "2026-11-07T03:54:09+00:00",
       "fingerprint": "6c367b770d23bb09a5ae60f045ef1eac252ea44e5119dad93303b0d091de7380",
       "first_seen_at": "2026-11-07T08:39:08.360666+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "影／好險有影片！蔣萬安拱手、彎腰入「又一村」 前後40秒何來出征？",
@@ -19742,7 +20095,7 @@
       "published_at": "2026-11-07T00:20:00+00:00",
       "fingerprint": "3ab88ac6539c7323f6ebcb438fb09fb106e820d8a49b989bdeb71f9bfabbee87",
       "first_seen_at": "2026-11-07T01:58:44.288162+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -19881,7 +20234,7 @@
       "published_at": "2026-11-06T21:57:00+00:00",
       "fingerprint": "e0d5e6139d6d965fa81b5aeaeb83d58672b7c400fd06c01beae9e5e7e13a970d",
       "first_seen_at": "2026-11-07T01:58:44.288162+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -20361,7 +20714,7 @@
       "published_at": "2026-11-06T13:38:08+00:00",
       "fingerprint": "dcebf98194780357c7fabdc5931cf89df848fda5732c0ade2a3bc88043db38ee",
       "first_seen_at": "2026-11-06T17:22:54.062085+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "酸蔣萬安！沈伯洋笑稱問過老鼠 被回「沈委員你不了解市政」",
@@ -20839,7 +21192,7 @@
       "published_at": "2026-11-06T12:04:59+00:00",
       "fingerprint": "b6bb30e710cc12cddbccc19ca0c6caa592dd669e80ebb0f3e671c9769a45ac50",
       "first_seen_at": "2026-11-06T17:22:54.062085+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": [
         {
           "title": "東區商圈掃街遇「洋流」 蔣萬安展現大氣：我們都希望讓台北更好| 2026九合一選舉",
@@ -21607,7 +21960,7 @@
       "published_at": "2026-11-06T08:16:33+00:00",
       "fingerprint": "f6569ab6af3d15e924320a6f4a02d26fbbda00e17227622398055e535c8cf0cb",
       "first_seen_at": "2026-11-06T17:22:54.062085+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -22331,7 +22684,7 @@
       "published_at": "2026-11-06T04:15:24+00:00",
       "fingerprint": "05f263380966b7f05f9e9828e479ca03a1d86f2bb764fb62b5e9a00c6ae7b0ce",
       "first_seen_at": "2026-11-06T09:57:22.943673+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -22474,7 +22827,7 @@
       "published_at": "2026-11-06T03:37:22+00:00",
       "fingerprint": "754659c992dacba454a52633e84804db61ce8d94aced8b7338431a73d4dd8a89",
       "first_seen_at": "2026-11-06T09:57:22.943673+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
@@ -22559,7 +22912,7 @@
       "published_at": "2026-11-06T03:21:47+00:00",
       "fingerprint": "7ee3ef8a32d6d667261554913d69e2960e087cd0e1a5a9258ad849cd6729bcb7",
       "first_seen_at": "2026-11-06T22:11:59.844200+00:00",
-      "last_seen_at": "2026-11-12T18:07:53.880632+00:00",
+      "last_seen_at": "2026-11-12T23:32:06.338757+00:00",
       "history": []
     },
     {
