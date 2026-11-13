@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "status": "ok",
-  "last_attempt_at": "2026-11-12T23:32:06.338757+00:00",
+  "status": "failed",
+  "last_attempt_at": "2026-11-13T03:32:27.701126+00:00",
   "retention_days": 365,
   "query_days": 7,
   "feeds": {
     "jiang": {
       "name": "蔣萬安",
       "url": "https://news.google.com/rss/search?q=%22%E8%94%A3%E8%90%AC%E5%AE%89%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-      "status": "ok",
-      "last_attempt_at": "2026-11-12T23:32:06.338757+00:00",
+      "status": "failed",
+      "last_attempt_at": "2026-11-13T03:32:27.701126+00:00",
       "last_success_at": "2026-11-12T23:32:06.338757+00:00",
       "last_nonempty_at": "2026-11-12T23:32:06.338757+00:00",
       "raw_count": 100,
@@ -17,13 +17,13 @@
       "skipped_count": 0,
       "etag": null,
       "last_modified": null,
-      "error": null
+      "error": "HTTPError"
     },
     "shen": {
       "name": "沈伯洋",
       "url": "https://news.google.com/rss/search?q=%22%E6%B2%88%E4%BC%AF%E6%B4%8B%22+when%3A7d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-      "status": "ok",
-      "last_attempt_at": "2026-11-12T23:32:06.338757+00:00",
+      "status": "failed",
+      "last_attempt_at": "2026-11-13T03:32:27.701126+00:00",
       "last_success_at": "2026-11-12T23:32:06.338757+00:00",
       "last_nonempty_at": "2026-11-12T23:32:06.338757+00:00",
       "raw_count": 100,
@@ -31,7 +31,7 @@
       "skipped_count": 0,
       "etag": null,
       "last_modified": null,
-      "error": null
+      "error": "HTTPError"
     }
   },
   "articles": [
